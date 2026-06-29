@@ -6,6 +6,8 @@ ShopSmart Retail is a global retail business that sells products across multiple
 
 The objective of this project is to transform raw transactional data into meaningful business insights by designing a structured database, performing SQL analysis, and building interactive dashboards.
 
+---
+
 # Business Objective
 
 The primary objective is to help business stakeholders understand sales performance, customer purchasing behavior, product performance, and regional trends to support better business decisions.
@@ -19,6 +21,8 @@ The project aims to answer questions such as:
 * Which products require marketing attention due to low demand?
 * How do discounts affect profitability?
 * Which shipping methods are most frequently used?
+
+---
 
 # Business Rules
 
@@ -35,12 +39,15 @@ The following business rules were identified during the requirement gathering ph
 9. Product profitability may vary across different regions and markets.
 10. Sales, Quantity, Profit, Discount, and Shipping Cost are recorded for every product sold.
 
+---
 
 # Business Process
 
 The business process followed by ShopSmart Retail can be summarized as:
 
 Customer places an order → The order is created → One or more products are added to the order → A shipping method is assigned → The order is delivered to the customer → Sales and profit are recorded → Business performance is analyzed for reporting and decision-making.
+
+---
 
 # Candidate Business Entities
 
@@ -57,6 +64,8 @@ The following entities were identified from the dataset.
 
 These entities will later be normalized and converted into relational database tables.
 
+---
+
 # Candidate Measures
 
 The project will analyze the following business measures:
@@ -66,7 +75,10 @@ The project will analyze the following business measures:
 * Quantity
 * Discount
 * Shipping Cost
+
 These measures will form the Fact Table of the analytical model.
+
+---
 
 # Candidate Dimensions
 
@@ -78,7 +90,10 @@ The following descriptive dimensions were identified:
 * Order
 * Shipping
 * Location
+
 These dimensions will provide context for analyzing the business measures.
+
+---
 
 # Expected Business KPIs
 
@@ -120,6 +135,8 @@ The project is expected to generate insights including:
 * Average Order Value
 * Discount Analysis
 
+---
+
 # Proposed Database Design
 
 Based on the business understanding, the database will be designed using normalization principles to reduce redundancy and improve data integrity.
@@ -136,6 +153,8 @@ The expected entities include:
 
 These tables will later be connected using primary and foreign key relationships before building the analytical star schema.
 
+---
+
 # Deliverables
 
 The final project will include:
@@ -149,7 +168,8 @@ The final project will include:
 * Power BI dashboard
 * Complete project documentation
 
+---
+
 # Conclusion
 
 This requirement gathering phase helped identify the business entities, relationships, business rules, analytical measures, and reporting requirements before starting database design. Completing this step ensures that the database structure and analytical solution are aligned with real business needs rather than being driven only by the dataset.
-
