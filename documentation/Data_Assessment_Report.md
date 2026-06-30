@@ -15,7 +15,6 @@
 
 This dataset contains transactional retail sales data collected from multiple countries and markets. Each record represents a product sold within a customer order and includes customer details, product information, shipping details, location, and sales-related measures.
 
----
 
 # 2. Data Quality Assessment
 
