@@ -5,7 +5,6 @@
 The objective of this phase was to transform the cleaned Global Superstore dataset into a well-structured relational database suitable for business analysis and reporting.
 
 The database design process included:
-
 - Identifying business entities
 - Defining entity relationships
 - Selecting primary and foreign keys
