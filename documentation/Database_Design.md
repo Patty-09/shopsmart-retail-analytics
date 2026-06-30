@@ -19,6 +19,22 @@ The database was designed using the following steps:
 7. Design the Entity Relationship (ER) Diagram.
 8. Create the physical database in MySQL.
 
+## Design Decisions
+
+### Decision 1
+Customer location was not stored in the Customer table because a customer may place orders from different locations over time.
+
+### Decision 2
+An Order_Item table was introduced to resolve the many-to-many relationship between Orders and Products.
+
+### Decision 3
+Category information was separated from the Product table to reduce redundancy.
+
+### Decision 4
+Business measures (Sales, Profit, Quantity, Discount) were stored in the Order_Item table because they are specific to each product within an order.
+
+### Decision 5
+Shipping was modeled as a separate entity to practice relational database design and maintain consistency with the normalized schema.
 
 # Business Entities
 
