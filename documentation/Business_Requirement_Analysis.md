@@ -1,7 +1,6 @@
 # Business Requirements
 
 ## Project Background
-
 ShopSmart Retail is a global retail business that sells products across multiple countries, markets, and customer segments. Every customer order contains information related to products, shipping, location, discounts, sales, and profit.
 
 The objective of this project is to transform raw transactional data into meaningful business insights by designing a structured database, performing SQL analysis, and building interactive dashboards.
