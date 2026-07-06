@@ -221,6 +221,78 @@ Compared to the earlier chapters, I also became more consistent in writing reada
 This chapter also reinforced the importance of understanding the business meaning behind every calculation instead of focusing only on SQL syntax.
 
 ---
+7. Time Analysis
+Objective
+
+The objective of this analysis was to understand sales performance over different time periods and identify seasonal business trends.
+
+Work Completed
+
+In this phase, I analyzed yearly, quarterly, monthly, and weekday sales trends. I also calculated Month-over-Month (MoM) revenue changes, cumulative revenue, and identified the highest-performing months and quarters using date functions and window functions.
+
+Skills Improved
+Date Functions
+Window Functions (LAG(), Running Total)
+Time-Series Analysis
+Trend Analysis
+Key Learning
+
+I learned the importance of ordering calculations by time instead of revenue while working with running totals and MoM analysis. This chapter strengthened my understanding of business trend analysis.
+
+8. Shipping Analysis
+Objective
+
+This analysis focused on evaluating shipping performance and understanding how different shipping modes impact business revenue, profit, delivery time, and shipping cost.
+
+Work Completed
+
+I analyzed shipping mode performance, average delivery time, shipping costs, shipping efficiency, revenue-to-shipping cost ratio, and ranked shipping methods based on business performance.
+
+Skills Improved
+DATEDIFF()
+CASE Statements
+KPI Calculations
+Shipping Performance Analysis
+Key Learning
+
+This chapter helped me understand how logistics affect overall business performance and improved my ability to calculate operational KPIs using SQL.
+
+9. Profitability Analysis
+Objective
+
+The goal of this chapter was to identify the factors that contribute to business profitability rather than focusing only on sales.
+
+Work Completed
+
+I analyzed profit margins by category, identified loss-making products and customers, studied the impact of discounts on profit, and ranked categories based on profitability.
+
+Skills Improved
+Profit Margin Calculation
+Percentage Analysis
+Financial KPIs
+Business-Oriented SQL
+Key Learning
+
+I learned that answering business questions often requires choosing the correct metric, such as profit margin instead of total profit or average discount instead of total discount.
+
+10. Advanced Business SQL
+Objective
+
+The final SQL chapter focused on solving complex business problems using advanced SQL techniques commonly used in real-world analytics.
+
+Work Completed
+
+I solved advanced analytical problems using CTEs, Window Functions, Ranking, and Percentage calculations. The chapter also included executive KPI reporting and customer/product ranking within different business groups.
+
+Skills Improved
+Multi-level CTEs
+ROW_NUMBER() and DENSE_RANK()
+PARTITION BY
+Executive KPI Reporting
+Advanced Business Problem Solving
+Key Learning
+
+This chapter improved my analytical thinking by combining multiple SQL concepts to solve real business scenarios. It also increased my confidence in writing clean, structured, and interview-ready SQL queries.
 
 ## Progress Reflection
 
