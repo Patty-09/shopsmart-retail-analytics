@@ -1,0 +1,1001 @@
+product_id,product_name,category,sub_category,total_transactions,quantity_sold,total_revenue,total_profit,average_discount,profit_margin
+FUR-ADV-10000002,"Advantus Photo Frame, Duo Pack",Furniture,Furnishings,2,3,159.00,60.39,0.00,37.98
+FUR-ADV-10000108,"Advantus Clock, Erganomic",Furniture,Furnishings,3,7,350.00,3.36,0.00,0.96
+FUR-ADV-10000183,"Advantus Photo Frame, Black",Furniture,Furnishings,8,31,975.00,-651.74,0.38,-66.85
+FUR-ADV-10000188,"Advantus Stacking Tray, Erganomic",Furniture,Furnishings,5,7,125.00,4.20,0.40,3.36
+FUR-ADV-10000190,"Advantus Frame, Duo Pack",Furniture,Furnishings,1,2,222.00,104.46,0.00,47.05
+FUR-ADV-10000571,"Advantus Frame, Erganomic",Furniture,Furnishings,8,20,2195.00,702.00,0.00,31.98
+FUR-ADV-10000600,"Advantus Clock, Duo Pack",Furniture,Furnishings,2,4,206.00,24.60,0.00,11.94
+FUR-ADV-10000847,"Advantus Stacking Tray, Black",Furniture,Furnishings,5,11,290.00,81.18,0.00,27.99
+FUR-ADV-10001283,"Advantus Frame, Black",Furniture,Furnishings,2,3,178.00,-88.97,0.50,-49.98
+FUR-ADV-10001440,"Advantus Door Stop, Black",Furniture,Furnishings,7,22,959.00,176.38,0.14,18.39
+FUR-ADV-10001659,"Advantus Light Bulb, Durable",Furniture,Furnishings,6,10,146.00,16.86,0.17,11.55
+FUR-ADV-10001855,"Advantus Stacking Tray, Durable",Furniture,Furnishings,4,4,89.00,12.62,0.25,14.18
+FUR-ADV-10002329,"Advantus Light Bulb, Erganomic",Furniture,Furnishings,1,1,7.00,-9.53,1.00,-136.14
+FUR-ADV-10002601,"Advantus Photo Frame, Erganomic",Furniture,Furnishings,5,11,497.00,200.01,0.20,40.24
+FUR-ADV-10002632,"Advantus Door Stop, Duo Pack",Furniture,Furnishings,1,2,36.00,-48.71,1.00,-135.31
+FUR-ADV-10002889,"Advantus Clock, Durable",Furniture,Furnishings,7,19,803.00,-61.49,0.14,-7.66
+FUR-ADV-10003147,"Advantus Stacking Tray, Erganomic",Furniture,Furnishings,5,8,186.00,57.84,0.00,31.10
+FUR-ADV-10003326,"Advantus Light Bulb, Black",Furniture,Furnishings,4,4,54.00,11.59,0.50,21.46
+FUR-ADV-10004159,"Advantus Frame, Durable",Furniture,Furnishings,3,5,195.00,-286.68,1.00,-147.02
+FUR-ADV-10004223,"Advantus Clock, Black",Furniture,Furnishings,2,2,66.00,-6.21,0.50,-9.41
+FUR-ADV-10004395,"Advantus Door Stop, Durable",Furniture,Furnishings,10,29,614.00,4.21,0.50,0.69
+FUR-ADV-10004499,"Advantus Photo Frame, Durable",Furniture,Furnishings,3,5,250.00,39.90,0.00,15.96
+FUR-ADV-10004718,"Advantus Light Bulb, Duo Pack",Furniture,Furnishings,5,9,124.00,-20.18,0.40,-16.27
+FUR-ADV-10004971,"Advantus Door Stop, Erganomic",Furniture,Furnishings,2,9,393.00,121.77,0.00,30.98
+FUR-BAR-10000560,"Barricks Round Table, with Bottom Storage",Furniture,Tables,1,2,1003.00,30.06,0.00,3.00
+FUR-BAR-10000831,"Barricks Training Table, Fully Assembled",Furniture,Tables,1,1,320.00,121.50,0.00,37.97
+FUR-BAR-10000946,"Barricks Computer Table, with Bottom Storage",Furniture,Tables,2,7,3360.00,134.40,0.00,4.00
+FUR-BAR-10001039,"Barricks Coffee Table, Fully Assembled",Furniture,Tables,2,2,212.00,-303.02,1.00,-142.93
+FUR-BAR-10002449,"Barricks Training Table, Adjustable Height",Furniture,Tables,3,23,7371.00,2358.42,0.00,32.00
+FUR-BAR-10002710,"Barricks Coffee Table, Adjustable Height",Furniture,Tables,1,4,364.00,-546.73,1.00,-150.20
+FUR-BAR-10003465,"Barricks Computer Table, Adjustable Height",Furniture,Tables,2,2,286.00,-551.52,1.00,-192.84
+FUR-BAR-10003532,"Barricks Conference Table, Rectangular",Furniture,Tables,2,9,3076.00,-2460.81,0.50,-80.00
+FUR-BAR-10003576,"Barricks Training Table, with Bottom Storage",Furniture,Tables,2,2,636.00,261.00,0.00,41.04
+FUR-BAR-10004434,"Barricks Wood Table, Rectangular",Furniture,Tables,1,4,2058.00,946.68,0.00,46.00
+FUR-BAR-10004553,"Barricks Training Table, Rectangular",Furniture,Tables,3,3,568.00,-293.81,0.67,-51.73
+FUR-BAR-10004561,"Barricks Wood Table, Fully Assembled",Furniture,Tables,1,1,518.00,67.38,0.00,13.01
+FUR-BAR-10004682,"Barricks Round Table, Fully Assembled",Furniture,Tables,1,4,2012.00,925.44,0.00,46.00
+FUR-BEV-10000326,"Bevis Wood Table, Rectangular",Furniture,Tables,1,1,531.00,90.30,0.00,17.01
+FUR-BEV-10000388,"Bevis Coffee Table, Rectangular",Furniture,Tables,1,1,316.00,129.45,0.00,40.97
+FUR-BEV-10001048,"Bevis Conference Table, with Bottom Storage",Furniture,Tables,1,1,924.00,249.39,0.00,26.99
+FUR-BEV-10001217,"Bevis Wood Table, Fully Assembled",Furniture,Tables,1,2,1070.00,321.00,0.00,30.00
+FUR-BEV-10001853,"Bevis Computer Table, Adjustable Height",Furniture,Tables,1,2,984.00,344.46,0.00,35.01
+FUR-BEV-10002193,"Bevis Round Table, Adjustable Height",Furniture,Tables,1,6,1249.00,-1779.77,1.00,-142.50
+FUR-BEV-10002369,"Bevis Training Table, Fully Assembled",Furniture,Tables,2,7,942.00,-1107.12,0.50,-117.53
+FUR-BEV-10002803,"Bevis Conference Table, Fully Assembled",Furniture,Tables,1,1,925.00,305.31,0.00,33.01
+FUR-BEV-10003414,"Bevis Computer Table, Fully Assembled",Furniture,Tables,2,2,694.00,178.51,0.50,25.72
+FUR-BEV-10004805,"Bevis Conference Table, Rectangular",Furniture,Tables,1,2,1843.00,884.46,0.00,47.99
+FUR-BEV-10004919,"Bevis Wood Table, with Bottom Storage",Furniture,Tables,2,5,2668.00,853.65,0.00,32.00
+FUR-BO-10000002,"Bush Classic Bookcase, Mobile",Furniture,Bookcases,4,11,4443.00,103.80,0.00,2.34
+FUR-BO-10000008,"Sauder Library with Doors, Traditional",Furniture,Bookcases,1,2,465.00,-255.86,0.00,-55.02
+FUR-BO-10000021,"Dania Corner Shelving, Metal",Furniture,Bookcases,1,2,243.00,102.06,0.00,42.00
+FUR-BO-10000022,"Dania Floating Shelf Set, Traditional",Furniture,Bookcases,3,14,2201.00,44.00,0.00,2.00
+FUR-BO-10000034,"Safco Classic Bookcase, Pine",Furniture,Bookcases,3,5,1451.00,-659.25,0.00,-45.43
+FUR-BO-10000035,"Dania Classic Bookcase, Pine",Furniture,Bookcases,5,21,8308.00,3288.29,0.00,39.58
+FUR-BO-10000038,"Bush Library with Doors, Pine",Furniture,Bookcases,4,18,2633.00,-1667.74,0.25,-63.34
+FUR-BO-10000071,"Safco 3-Shelf Cabinet, Metal",Furniture,Bookcases,8,22,3046.00,1083.40,0.00,35.57
+FUR-BO-10000087,"Dania Classic Bookcase, Mobile",Furniture,Bookcases,3,8,3153.00,12.21,0.00,0.39
+FUR-BO-10000087,"Sauder Corner Shelving, Pine",Furniture,Bookcases,7,26,2079.00,71.30,0.00,3.43
+FUR-BO-10000112,"Bush Birmingham Collection Bookcase, Dark Cherry",Furniture,Bookcases,1,9,825.00,-117.88,0.00,-14.29
+FUR-BO-10000112,"Dania Corner Shelving, Pine",Furniture,Bookcases,5,15,1569.00,235.31,0.00,15.00
+FUR-BO-10000120,"Sauder Stackable Bookrack, Mobile",Furniture,Bookcases,2,10,1262.00,220.15,0.00,17.44
+FUR-BO-10000148,"Bush 3-Shelf Cabinet, Metal",Furniture,Bookcases,4,11,818.00,-228.52,0.00,-27.94
+FUR-BO-10000155,"Dania Corner Shelving, Metal",Furniture,Bookcases,4,20,1799.00,509.84,0.00,28.34
+FUR-BO-10000160,"Safco Library with Doors, Pine",Furniture,Bookcases,1,2,704.00,312.91,0.00,44.45
+FUR-BO-10000170,"Safco Library with Doors, Mobile",Furniture,Bookcases,2,14,4943.00,-274.98,0.00,-5.56
+FUR-BO-10000175,"Ikea Stackable Bookrack, Metal",Furniture,Bookcases,5,17,1933.00,440.54,0.00,22.79
+FUR-BO-10000184,"Sauder Floating Shelf Set, Mobile",Furniture,Bookcases,1,3,158.00,-145.86,1.00,-92.32
+FUR-BO-10000195,"Dania Stackable Bookrack, Pine",Furniture,Bookcases,3,12,1179.00,270.41,0.00,22.94
+FUR-BO-10000203,"Sauder Library with Doors, Metal",Furniture,Bookcases,6,19,6875.00,2608.84,0.00,37.95
+FUR-BO-10000208,"Bush Stackable Bookrack, Mobile",Furniture,Bookcases,5,33,3891.00,955.21,0.00,24.55
+FUR-BO-10000210,"Ikea Library with Doors, Pine",Furniture,Bookcases,8,26,8797.00,2158.94,0.00,24.54
+FUR-BO-10000214,"Ikea Library with Doors, Pine",Furniture,Bookcases,1,3,292.00,-393.95,1.00,-134.91
+FUR-BO-10000243,"Safco Floating Shelf Set, Pine",Furniture,Bookcases,4,28,4691.00,585.70,0.00,12.49
+FUR-BO-10000259,"Safco Classic Bookcase, Traditional",Furniture,Bookcases,6,21,7666.00,858.59,0.00,11.20
+FUR-BO-10000265,"Bush Floating Shelf Set, Pine",Furniture,Bookcases,5,14,2365.00,697.08,0.00,29.47
+FUR-BO-10000268,"Bush Library with Doors, Pine",Furniture,Bookcases,2,4,878.00,-424.28,0.00,-48.32
+FUR-BO-10000268,"Ikea 3-Shelf Cabinet, Traditional",Furniture,Bookcases,2,7,627.00,154.66,0.00,24.67
+FUR-BO-10000269,"Dania Stackable Bookrack, Pine",Furniture,Bookcases,5,13,893.00,194.20,0.00,21.75
+FUR-BO-10000279,"Dania Classic Bookcase, Pine",Furniture,Bookcases,5,20,6222.00,535.47,0.00,8.61
+FUR-BO-10000288,"Safco Classic Bookcase, Traditional",Furniture,Bookcases,5,20,8368.00,-131.54,0.00,-1.57
+FUR-BO-10000311,"Safco Floating Shelf Set, Metal",Furniture,Bookcases,2,7,1236.00,274.68,0.00,22.22
+FUR-BO-10000321,"Dania Floating Shelf Set, Mobile",Furniture,Bookcases,2,10,894.00,-189.28,0.50,-21.17
+FUR-BO-10000330,"Sauder Camden County Barrister Bookcase, Planked Cherry Finish",Furniture,Bookcases,3,10,1064.00,24.19,0.00,2.27
+FUR-BO-10000362,"Sauder Inglewood Library Bookcases",Furniture,Bookcases,5,14,2155.00,311.18,0.00,14.44
+FUR-BO-10000378,"Bush Floating Shelf Set, Pine",Furniture,Bookcases,4,15,1288.00,46.00,0.00,3.57
+FUR-BO-10000402,"Sauder Stackable Bookrack, Traditional",Furniture,Bookcases,2,6,834.00,87.70,0.00,10.52
+FUR-BO-10000411,"Sauder Floating Shelf Set, Metal",Furniture,Bookcases,4,24,2820.00,1081.01,0.00,38.33
+FUR-BO-10000425,"Bush Floating Shelf Set, Traditional",Furniture,Bookcases,2,8,960.00,-41.21,0.00,-4.29
+FUR-BO-10000468,"O'Sullivan 2-Shelf Heavy-Duty Bookcases",Furniture,Bookcases,6,21,724.00,-133.11,0.17,-18.39
+FUR-BO-10000490,"Bush Library with Doors, Metal",Furniture,Bookcases,4,23,7785.00,672.37,0.00,8.64
+FUR-BO-10000502,"Sauder Classic Bookcase, Mobile",Furniture,Bookcases,6,20,5438.00,525.93,0.00,9.67
+FUR-BO-10000514,"Bush Library with Doors, Traditional",Furniture,Bookcases,3,11,2587.00,-1220.53,0.00,-47.18
+FUR-BO-10000517,"Ikea Stackable Bookrack, Metal",Furniture,Bookcases,1,8,260.00,-358.05,1.00,-137.71
+FUR-BO-10000533,"Dania Corner Shelving, Pine",Furniture,Bookcases,1,4,494.00,54.24,0.00,10.98
+FUR-BO-10000567,"Sauder Classic Bookcase, Traditional",Furniture,Bookcases,8,43,10640.00,889.18,0.00,8.36
+FUR-BO-10000596,"Sauder Classic Bookcase, Mobile",Furniture,Bookcases,6,24,9034.00,3244.51,0.00,35.91
+FUR-BO-10000610,"Ikea Stackable Bookrack, Mobile",Furniture,Bookcases,4,13,1377.00,547.83,0.00,39.78
+FUR-BO-10000616,"Dania Corner Shelving, Pine",Furniture,Bookcases,1,6,444.00,-89.03,0.00,-20.05
+FUR-BO-10000623,"Safco Library with Doors, Metal",Furniture,Bookcases,1,2,311.00,-373.68,1.00,-120.15
+FUR-BO-10000624,"Safco Classic Bookcase, Metal",Furniture,Bookcases,7,26,6300.00,-70.49,0.00,-1.12
+FUR-BO-10000636,"Dania Floating Shelf Set, Metal",Furniture,Bookcases,5,18,1688.00,492.90,0.00,29.20
+FUR-BO-10000655,"Dania Classic Bookcase, Traditional",Furniture,Bookcases,1,3,1109.00,86.20,0.00,7.77
+FUR-BO-10000666,"Ikea 3-Shelf Cabinet, Mobile",Furniture,Bookcases,2,9,1305.00,182.52,0.00,13.99
+FUR-BO-10000668,"Ikea Corner Shelving, Traditional",Furniture,Bookcases,1,2,246.00,66.42,0.00,27.00
+FUR-BO-10000668,"Sauder Classic Bookcase, Mobile",Furniture,Bookcases,3,8,3131.00,43.84,0.00,1.40
+FUR-BO-10000670,"Dania Corner Shelving, Metal",Furniture,Bookcases,5,30,3063.00,947.56,0.00,30.94
+FUR-BO-10000676,"Bush Stackable Bookrack, Pine",Furniture,Bookcases,3,16,1361.00,-554.56,0.00,-40.75
+FUR-BO-10000684,"Sauder Corner Shelving, Traditional",Furniture,Bookcases,5,16,2108.00,-85.77,0.00,-4.07
+FUR-BO-10000699,"Sauder 3-Shelf Cabinet, Traditional",Furniture,Bookcases,6,24,3799.00,238.24,0.00,6.27
+FUR-BO-10000700,"Sauder Floating Shelf Set, Metal",Furniture,Bookcases,1,2,233.00,-97.03,0.00,-41.64
+FUR-BO-10000711,"Hon Metal Bookcases, Gray",Furniture,Bookcases,2,12,852.00,229.97,0.00,26.99
+FUR-BO-10000712,"Bush Corner Shelving, Pine",Furniture,Bookcases,1,2,251.00,112.80,0.00,44.94
+FUR-BO-10000728,"Dania Corner Shelving, Traditional",Furniture,Bookcases,6,28,3367.00,1112.89,0.00,33.05
+FUR-BO-10000728,"Ikea Classic Bookcase, Mobile",Furniture,Bookcases,7,28,7015.00,982.65,0.00,14.01
+FUR-BO-10000734,"Bush Corner Shelving, Pine",Furniture,Bookcases,7,20,1255.00,183.78,0.00,14.64
+FUR-BO-10000746,"Ikea Corner Shelving, Mobile",Furniture,Bookcases,5,17,1323.00,511.20,0.00,38.64
+FUR-BO-10000780,"O'Sullivan Plantations 2-Door Library in Landvery Oak",Furniture,Bookcases,5,22,2947.00,-767.75,0.00,-26.05
+FUR-BO-10000786,"Sauder Stackable Bookrack, Pine",Furniture,Bookcases,4,23,3304.00,1123.10,0.00,33.99
+FUR-BO-10000791,"Dania Library with Doors, Traditional",Furniture,Bookcases,1,5,483.00,-579.90,1.00,-120.06
+FUR-BO-10000797,"Safco 3-Shelf Cabinet, Pine",Furniture,Bookcases,3,7,1072.00,71.33,0.00,6.65
+FUR-BO-10000807,"Sauder Floating Shelf Set, Mobile",Furniture,Bookcases,1,4,473.00,-23.76,0.00,-5.02
+FUR-BO-10000820,"Sauder 3-Shelf Cabinet, Metal",Furniture,Bookcases,1,4,598.00,166.10,0.00,27.78
+FUR-BO-10000847,"Dania Stackable Bookrack, Mobile",Furniture,Bookcases,5,19,2007.00,712.32,0.00,35.49
+FUR-BO-10000883,"Dania Corner Shelving, Mobile",Furniture,Bookcases,2,8,950.00,-36.26,0.00,-3.82
+FUR-BO-10000889,"Safco 3-Shelf Cabinet, Mobile",Furniture,Bookcases,1,2,206.00,-85.73,0.00,-41.62
+FUR-BO-10000891,"Ikea Classic Bookcase, Pine",Furniture,Bookcases,4,18,3469.00,-396.72,0.25,-11.44
+FUR-BO-10000892,"Bush Corner Shelving, Mobile",Furniture,Bookcases,1,6,759.00,15.12,0.00,1.99
+FUR-BO-10000895,"Sauder Corner Shelving, Metal",Furniture,Bookcases,4,10,1394.00,352.02,0.00,25.25
+FUR-BO-10000895,"Sauder Stackable Bookrack, Pine",Furniture,Bookcases,1,6,582.00,26.77,0.00,4.60
+FUR-BO-10000936,"Bush Floating Shelf Set, Traditional",Furniture,Bookcases,4,11,1867.00,321.78,0.00,17.24
+FUR-BO-10000961,"Bush Stackable Bookrack, Pine",Furniture,Bookcases,5,21,2198.00,519.22,0.00,23.62
+FUR-BO-10000967,"Ikea Library with Doors, Pine",Furniture,Bookcases,5,22,6346.00,970.12,0.20,15.29
+FUR-BO-10000980,"Bush Library with Doors, Traditional",Furniture,Bookcases,7,15,5290.00,1792.09,0.00,33.88
+FUR-BO-10001003,"Dania 3-Shelf Cabinet, Traditional",Furniture,Bookcases,2,11,1556.00,746.79,0.00,47.99
+FUR-BO-10001010,"Dania Corner Shelving, Mobile",Furniture,Bookcases,4,20,2267.00,498.14,0.00,21.97
+FUR-BO-10001039,"Dania Classic Bookcase, Traditional",Furniture,Bookcases,6,19,5587.00,1137.48,0.17,20.36
+FUR-BO-10001042,"Dania 3-Shelf Cabinet, Pine",Furniture,Bookcases,7,25,1960.00,-61.88,0.00,-3.16
+FUR-BO-10001067,"Bush Stackable Bookrack, Pine",Furniture,Bookcases,5,16,1033.00,126.25,0.00,12.22
+FUR-BO-10001073,"Safco Classic Bookcase, Metal",Furniture,Bookcases,4,18,7246.00,866.18,0.00,11.95
+FUR-BO-10001099,"Bush Corner Shelving, Traditional",Furniture,Bookcases,4,15,976.00,32.79,0.00,3.36
+FUR-BO-10001133,"Ikea Classic Bookcase, Mobile",Furniture,Bookcases,5,16,6298.00,1789.23,0.00,28.41
+FUR-BO-10001147,"Bush Floating Shelf Set, Metal",Furniture,Bookcases,6,19,2785.00,383.77,0.00,13.78
+FUR-BO-10001155,"Dania 3-Shelf Cabinet, Traditional",Furniture,Bookcases,6,17,2148.00,-112.21,0.00,-5.22
+FUR-BO-10001155,"Ikea 3-Shelf Cabinet, Metal",Furniture,Bookcases,3,7,752.00,-82.47,0.00,-10.97
+FUR-BO-10001165,"Bush Library with Doors, Mobile",Furniture,Bookcases,4,14,3448.00,-44.42,0.25,-1.29
+FUR-BO-10001192,"Bush Library with Doors, Mobile",Furniture,Bookcases,7,18,5576.00,1812.16,0.00,32.50
+FUR-BO-10001196,"Bush Library with Doors, Pine",Furniture,Bookcases,4,17,4786.00,61.98,0.00,1.30
+FUR-BO-10001201,"Bush Stackable Bookrack, Mobile",Furniture,Bookcases,6,25,1811.00,637.98,0.00,35.23
+FUR-BO-10001212,"Safco Classic Bookcase, Mobile",Furniture,Bookcases,7,24,9187.00,-225.31,0.00,-2.45
+FUR-BO-10001216,"Sauder 3-Shelf Cabinet, Mobile",Furniture,Bookcases,5,24,3481.00,1043.96,0.00,29.99
+FUR-BO-10001233,"Ikea 3-Shelf Cabinet, Mobile",Furniture,Bookcases,2,9,754.00,-368.33,0.50,-48.85
+FUR-BO-10001254,"Dania 3-Shelf Cabinet, Mobile",Furniture,Bookcases,1,2,288.00,0.00,0.00,0.00
+FUR-BO-10001255,"Ikea Library with Doors, Mobile",Furniture,Bookcases,4,16,4904.00,-132.01,0.00,-2.69
+FUR-BO-10001256,"Ikea Corner Shelving, Pine",Furniture,Bookcases,2,7,821.00,19.75,0.00,2.41
+FUR-BO-10001271,"Sauder Classic Bookcase, Pine",Furniture,Bookcases,1,3,350.00,-113.75,1.00,-32.50
+FUR-BO-10001276,"Safco Floating Shelf Set, Mobile",Furniture,Bookcases,2,6,318.00,-95.66,1.00,-30.08
+FUR-BO-10001287,"Dania Floating Shelf Set, Metal",Furniture,Bookcases,6,14,2245.00,779.80,0.00,34.73
+FUR-BO-10001295,"Safco Floating Shelf Set, Traditional",Furniture,Bookcases,3,11,1233.00,453.66,0.00,36.79
+FUR-BO-10001309,"Ikea Classic Bookcase, Traditional",Furniture,Bookcases,2,3,1236.00,259.38,0.00,20.99
+FUR-BO-10001318,"Safco Library with Doors, Mobile",Furniture,Bookcases,1,4,418.00,-188.34,1.00,-45.06
+FUR-BO-10001324,"Sauder Floating Shelf Set, Pine",Furniture,Bookcases,3,16,2977.00,564.22,0.00,18.95
+FUR-BO-10001326,"Bush 3-Shelf Cabinet, Pine",Furniture,Bookcases,4,10,1447.00,246.00,0.00,17.00
+FUR-BO-10001337,"O'Sullivan Living Dimensions 2-Shelf Bookcases",Furniture,Bookcases,10,28,2970.00,-78.64,0.00,-2.65
+FUR-BO-10001342,"Safco Corner Shelving, Metal",Furniture,Bookcases,6,17,2346.00,-186.15,0.00,-7.93
+FUR-BO-10001356,"Ikea Library with Doors, Mobile",Furniture,Bookcases,9,28,6343.00,877.97,0.00,13.84
+FUR-BO-10001358,"Bush 3-Shelf Cabinet, Traditional",Furniture,Bookcases,3,10,688.00,-239.03,0.00,-34.74
+FUR-BO-10001362,"Ikea Classic Bookcase, Metal",Furniture,Bookcases,2,4,1315.00,-82.25,0.00,-6.25
+FUR-BO-10001369,"Sauder Stackable Bookrack, Mobile",Furniture,Bookcases,4,7,666.00,144.78,0.00,21.74
+FUR-BO-10001370,"Sauder Classic Bookcase, Mobile",Furniture,Bookcases,2,3,1140.00,-17.54,0.00,-1.54
+FUR-BO-10001372,"Safco Classic Bookcase, Pine",Furniture,Bookcases,4,21,9099.00,513.90,0.00,5.65
+FUR-BO-10001385,"Sauder Corner Shelving, Metal",Furniture,Bookcases,4,18,2053.00,573.57,0.00,27.94
+FUR-BO-10001387,"Safco Floating Shelf Set, Traditional",Furniture,Bookcases,4,17,2419.00,546.67,0.25,22.60
+FUR-BO-10001390,"Bush Floating Shelf Set, Traditional",Furniture,Bookcases,4,12,1097.00,301.25,0.00,27.46
+FUR-BO-10001392,"Sauder Classic Bookcase, Traditional",Furniture,Bookcases,4,10,4055.00,1482.20,0.00,36.55
+FUR-BO-10001393,"Safco 3-Shelf Cabinet, Pine",Furniture,Bookcases,6,25,3845.00,57.85,0.00,1.50
+FUR-BO-10001405,"Bush Stackable Bookrack, Pine",Furniture,Bookcases,8,38,4482.00,1588.01,0.00,35.43
+FUR-BO-10001436,"Bush Corner Shelving, Traditional",Furniture,Bookcases,2,14,1413.00,41.76,0.00,2.96
+FUR-BO-10001452,"Dania Stackable Bookrack, Pine",Furniture,Bookcases,1,2,248.00,96.78,0.00,39.02
+FUR-BO-10001461,"Safco Floating Shelf Set, Traditional",Furniture,Bookcases,4,11,2123.00,1040.75,0.00,49.02
+FUR-BO-10001471,"Sauder Classic Bookcase, Metal",Furniture,Bookcases,4,26,10538.00,4650.45,0.00,44.13
+FUR-BO-10001476,"Safco Corner Shelving, Pine",Furniture,Bookcases,5,9,805.00,62.18,0.00,7.72
+FUR-BO-10001483,"Bush Corner Shelving, Metal",Furniture,Bookcases,9,39,2404.00,-390.02,0.11,-16.22
+FUR-BO-10001498,"Dania Classic Bookcase, Pine",Furniture,Bookcases,10,40,9726.00,2801.79,0.10,28.81
+FUR-BO-10001501,"Bush Classic Bookcase, Metal",Furniture,Bookcases,9,32,11561.00,4042.76,0.00,34.97
+FUR-BO-10001507,"Ikea Library with Doors, Traditional",Furniture,Bookcases,1,2,485.00,58.12,0.00,11.98
+FUR-BO-10001519,"O'Sullivan 3-Shelf Heavy-Duty Bookcases",Furniture,Bookcases,5,22,1118.00,147.09,0.00,13.16
+FUR-BO-10001524,"Bush Stackable Bookrack, Pine",Furniture,Bookcases,1,5,166.00,-116.62,1.00,-70.25
+FUR-BO-10001537,"Ikea Corner Shelving, Metal",Furniture,Bookcases,3,9,1103.00,44.01,0.00,3.99
+FUR-BO-10001541,"Bush Stackable Bookrack, Traditional",Furniture,Bookcases,6,28,2937.00,-231.97,0.00,-7.90
+FUR-BO-10001553,"Sauder Library with Doors, Traditional",Furniture,Bookcases,4,20,7481.00,-193.94,0.00,-2.59
+FUR-BO-10001555,"Bush Corner Shelving, Metal",Furniture,Bookcases,3,10,1235.00,172.80,0.00,13.99
+FUR-BO-10001558,"Safco 3-Shelf Cabinet, Pine",Furniture,Bookcases,2,8,953.00,-258.70,0.00,-27.15
+FUR-BO-10001567,"Bush Westfield Collection Bookcases, Dark Cherry Finish, Fully Assembled",Furniture,Bookcases,1,3,91.00,-190.85,1.00,-209.73
+FUR-BO-10001580,"Dania Stackable Bookrack, Pine",Furniture,Bookcases,6,31,3535.00,370.66,0.00,10.49
+FUR-BO-10001585,"Ikea Floating Shelf Set, Traditional",Furniture,Bookcases,8,22,2067.00,267.63,0.00,12.95
+FUR-BO-10001585,"Sauder Floating Shelf Set, Mobile",Furniture,Bookcases,1,3,591.00,218.70,0.00,37.01
+FUR-BO-10001596,"Dania Library with Doors, Mobile",Furniture,Bookcases,4,21,3601.00,-588.96,0.00,-16.36
+FUR-BO-10001598,"Bush Corner Shelving, Pine",Furniture,Bookcases,6,24,2919.00,1264.61,0.00,43.32
+FUR-BO-10001601,"Sauder Mission Library with Doors, Fruitwood Finish",Furniture,Bookcases,3,10,935.00,-125.74,0.00,-13.45
+FUR-BO-10001608,"Hon Metal Bookcases, Black",Furniture,Bookcases,5,30,1570.00,-26.96,0.20,-1.72
+FUR-BO-10001619,"O'Sullivan Cherrywood Estates Traditional Bookcase",Furniture,Bookcases,2,6,425.00,27.20,0.00,6.40
+FUR-BO-10001621,"Dania Stackable Bookrack, Traditional",Furniture,Bookcases,6,18,2021.00,757.40,0.17,37.48
+FUR-BO-10001641,"Bush 3-Shelf Cabinet, Traditional",Furniture,Bookcases,5,15,2139.00,742.36,0.00,34.71
+FUR-BO-10001646,"Safco Corner Shelving, Metal",Furniture,Bookcases,6,18,1430.00,321.55,0.00,22.49
+FUR-BO-10001646,"Safco Library with Doors, Pine",Furniture,Bookcases,8,25,4745.00,834.34,0.00,17.58
+FUR-BO-10001668,"Ikea Floating Shelf Set, Pine",Furniture,Bookcases,8,31,4743.00,-368.28,0.00,-7.76
+FUR-BO-10001679,"Ikea 3-Shelf Cabinet, Traditional",Furniture,Bookcases,4,11,1171.00,262.04,0.00,22.38
+FUR-BO-10001699,"Ikea 3-Shelf Cabinet, Mobile",Furniture,Bookcases,1,2,77.00,-61.89,1.00,-80.38
+FUR-BO-10001708,"Safco Stackable Bookrack, Pine",Furniture,Bookcases,7,28,3591.00,196.95,0.00,5.48
+FUR-BO-10001714,"Dania Floating Shelf Set, Mobile",Furniture,Bookcases,2,9,980.00,-149.75,0.00,-15.28
+FUR-BO-10001721,"Bush Corner Shelving, Mobile",Furniture,Bookcases,4,10,776.00,303.53,0.00,39.11
+FUR-BO-10001739,"Dania Classic Bookcase, Mobile",Furniture,Bookcases,6,21,5236.00,490.14,0.00,9.36
+FUR-BO-10001746,"Dania 3-Shelf Cabinet, Pine",Furniture,Bookcases,1,2,171.00,-17.16,0.00,-10.04
+FUR-BO-10001749,"Bush Classic Bookcase, Traditional",Furniture,Bookcases,7,27,10109.00,-363.45,0.00,-3.60
+FUR-BO-10001753,"Dania Stackable Bookrack, Traditional",Furniture,Bookcases,9,34,3372.00,1066.05,0.00,31.61
+FUR-BO-10001779,"Safco Stackable Bookrack, Pine",Furniture,Bookcases,7,28,2805.00,1150.24,0.00,41.01
+FUR-BO-10001781,"Bush Library with Doors, Traditional",Furniture,Bookcases,8,30,5345.00,-48.84,0.25,-0.91
+FUR-BO-10001798,"Bush Somerset Collection Bookcase",Furniture,Bookcases,4,12,1264.00,-56.33,0.00,-4.46
+FUR-BO-10001811,"Atlantic Metals Mobile 5-Shelf Bookcases, Custom Colors",Furniture,Bookcases,8,26,5493.00,15.05,0.13,0.27
+FUR-BO-10001822,"Dania Library with Doors, Metal",Furniture,Bookcases,5,20,6368.00,-651.86,0.00,-10.24
+FUR-BO-10001831,"Sauder Floating Shelf Set, Metal",Furniture,Bookcases,4,12,2270.00,500.51,0.00,22.05
+FUR-BO-10001834,"Ikea 3-Shelf Cabinet, Mobile",Furniture,Bookcases,4,14,1899.00,356.32,0.00,18.76
+FUR-BO-10001835,"Safco Library with Doors, Traditional",Furniture,Bookcases,1,2,780.00,202.68,0.00,25.98
+FUR-BO-10001860,"Sauder Corner Shelving, Traditional",Furniture,Bookcases,5,20,2457.00,569.69,0.00,23.19
+FUR-BO-10001867,"Dania Corner Shelving, Mobile",Furniture,Bookcases,7,21,1528.00,254.86,0.00,16.68
+FUR-BO-10001872,"Bush Stackable Bookrack, Pine",Furniture,Bookcases,1,6,449.00,-30.02,0.00,-6.69
+FUR-BO-10001873,"Ikea Floating Shelf Set, Mobile",Furniture,Bookcases,2,6,674.00,-311.17,0.50,-46.17
+FUR-BO-10001874,"Sauder Corner Shelving, Pine",Furniture,Bookcases,8,29,4042.00,507.61,0.00,12.56
+FUR-BO-10001875,"Bush Library with Doors, Mobile",Furniture,Bookcases,2,5,1834.00,788.70,0.00,43.00
+FUR-BO-10001876,"Safco Corner Shelving, Pine",Furniture,Bookcases,1,6,814.00,217.13,0.00,26.67
+FUR-BO-10001888,"Dania Floating Shelf Set, Pine",Furniture,Bookcases,3,5,768.00,204.75,0.00,26.66
+FUR-BO-10001892,"Sauder Library with Doors, Pine",Furniture,Bookcases,4,11,3578.00,-357.95,0.00,-10.00
+FUR-BO-10001918,"Sauder Forest Hills Library with Doors, Woodland Oak Finish",Furniture,Bookcases,3,10,1015.00,-418.55,0.00,-41.24
+FUR-BO-10001934,"Bush Library with Doors, Metal",Furniture,Bookcases,14,52,17093.00,-309.34,0.00,-1.81
+FUR-BO-10001943,"Safco Library with Doors, Traditional",Furniture,Bookcases,3,12,4210.00,-327.71,0.00,-7.78
+FUR-BO-10001946,"Sauder 3-Shelf Cabinet, Metal",Furniture,Bookcases,8,31,3014.00,-386.79,0.00,-12.83
+FUR-BO-10001966,"Ikea Corner Shelving, Metal",Furniture,Bookcases,3,9,686.00,9.67,0.00,1.41
+FUR-BO-10001967,"Safco Corner Shelving, Mobile",Furniture,Bookcases,3,10,1337.00,-15.27,0.00,-1.14
+FUR-BO-10001969,"Sauder 3-Shelf Cabinet, Pine",Furniture,Bookcases,4,19,1546.00,-561.22,0.00,-36.30
+FUR-BO-10001972,"O'Sullivan 4-Shelf Bookcase in Odessa Pine",Furniture,Bookcases,7,37,2740.00,-975.12,0.43,-35.59
+FUR-BO-10002000,"Ikea Classic Bookcase, Metal",Furniture,Bookcases,5,18,7043.00,752.49,0.00,10.68
+FUR-BO-10002003,"Sauder Classic Bookcase, Metal",Furniture,Bookcases,5,26,7838.00,-1785.55,0.00,-22.78
+FUR-BO-10002008,"Bush Stackable Bookrack, Traditional",Furniture,Bookcases,3,5,328.00,-12.38,0.00,-3.77
+FUR-BO-10002031,"Sauder Classic Bookcase, Pine",Furniture,Bookcases,6,20,7370.00,546.58,0.00,7.42
+FUR-BO-10002032,"Ikea Stackable Bookrack, Pine",Furniture,Bookcases,4,15,1747.00,334.41,0.00,19.14
+FUR-BO-10002042,"Bush Classic Bookcase, Metal",Furniture,Bookcases,1,2,220.00,-219.83,1.00,-99.92
+FUR-BO-10002084,"Dania Library with Doors, Metal",Furniture,Bookcases,5,17,2943.00,-50.91,0.00,-1.73
+FUR-BO-10002109,"Safco Stackable Bookrack, Pine",Furniture,Bookcases,3,13,909.00,-49.62,0.00,-5.46
+FUR-BO-10002133,"Bush Corner Shelving, Mobile",Furniture,Bookcases,3,8,950.00,361.79,0.00,38.08
+FUR-BO-10002142,"Ikea Classic Bookcase, Traditional",Furniture,Bookcases,2,5,933.00,-219.60,0.00,-23.54
+FUR-BO-10002182,"Safco Floating Shelf Set, Pine",Furniture,Bookcases,7,24,4120.00,78.90,0.00,1.92
+FUR-BO-10002202,"Atlantic Metals Mobile 2-Shelf Bookcases, Custom Colors",Furniture,Bookcases,2,3,400.00,-113.26,0.50,-28.32
+FUR-BO-10002204,"Bush Classic Bookcase, Pine",Furniture,Bookcases,3,14,4637.00,1217.08,0.00,26.25
+FUR-BO-10002204,"Bush Corner Shelving, Traditional",Furniture,Bookcases,3,20,2052.00,712.83,0.00,34.74
+FUR-BO-10002204,"Dania Floating Shelf Set, Traditional",Furniture,Bookcases,2,4,654.00,274.25,0.00,41.93
+FUR-BO-10002206,"Bush Saratoga Collection 5-Shelf Bookcase, Hanover Cherry, *Special Order",Furniture,Bookcases,1,1,120.00,-12.69,0.00,-10.58
+FUR-BO-10002213,"DMI Eclipse Executive Suite Bookcases",Furniture,Bookcases,6,27,11048.00,90.17,0.00,0.82
+FUR-BO-10002213,"Sauder Forest Hills Library, Woodland Oak Finish",Furniture,Bookcases,4,15,1874.00,-70.50,0.00,-3.76
+FUR-BO-10002214,"Dania Floating Shelf Set, Traditional",Furniture,Bookcases,8,33,2710.00,-979.14,0.00,-36.13
+FUR-BO-10002235,"Bush 3-Shelf Cabinet, Pine",Furniture,Bookcases,5,14,1195.00,331.71,0.00,27.76
+FUR-BO-10002250,"Dania Floating Shelf Set, Mobile",Furniture,Bookcases,4,12,1376.00,659.76,0.00,47.95
+FUR-BO-10002268,"Sauder Barrister Bookcases",Furniture,Bookcases,3,16,755.00,-294.77,0.33,-39.04
+FUR-BO-10002277,"Bush Floating Shelf Set, Mobile",Furniture,Bookcases,4,16,2662.00,20.54,0.00,0.77
+FUR-BO-10002285,"Safco Corner Shelving, Pine",Furniture,Bookcases,2,8,1048.00,34.61,0.00,3.30
+FUR-BO-10002289,"Ikea Corner Shelving, Pine",Furniture,Bookcases,2,5,622.00,149.25,0.00,24.00
+FUR-BO-10002300,"Dania Classic Bookcase, Traditional",Furniture,Bookcases,7,31,7613.00,3283.30,0.00,43.13
+FUR-BO-10002300,"Safco 3-Shelf Cabinet, Mobile",Furniture,Bookcases,3,9,1457.00,145.44,0.00,9.98
+FUR-BO-10002308,"Safco Floating Shelf Set, Metal",Furniture,Bookcases,6,24,4525.00,757.33,0.00,16.74
+FUR-BO-10002309,"Dania 3-Shelf Cabinet, Traditional",Furniture,Bookcases,2,4,320.00,-30.18,0.00,-9.43
+FUR-BO-10002318,"Dania Classic Bookcase, Mobile",Furniture,Bookcases,4,10,3844.00,454.40,0.00,11.82
+FUR-BO-10002324,"Sauder Stackable Bookrack, Pine",Furniture,Bookcases,4,19,1771.00,523.49,0.00,29.56
+FUR-BO-10002325,"Bush Classic Bookcase, Metal",Furniture,Bookcases,4,12,2527.00,-110.06,0.00,-4.36
+FUR-BO-10002334,"Ikea 3-Shelf Cabinet, Pine",Furniture,Bookcases,2,5,403.00,-23.99,0.00,-5.95
+FUR-BO-10002346,"Dania Stackable Bookrack, Mobile",Furniture,Bookcases,7,31,2123.00,339.41,0.00,15.99
+FUR-BO-10002352,"Ikea 3-Shelf Cabinet, Mobile",Furniture,Bookcases,7,27,2300.00,420.83,0.00,18.30
+FUR-BO-10002378,"Dania 3-Shelf Cabinet, Metal",Furniture,Bookcases,5,13,1090.00,-21.80,0.00,-2.00
+FUR-BO-10002383,"Sauder Floating Shelf Set, Pine",Furniture,Bookcases,11,48,4779.00,579.74,0.00,12.13
+FUR-BO-10002387,"Safco Library with Doors, Metal",Furniture,Bookcases,3,14,4987.00,190.74,0.00,3.82
+FUR-BO-10002390,"Ikea Library with Doors, Metal",Furniture,Bookcases,7,17,5410.00,-203.48,0.00,-3.76
+FUR-BO-10002423,"Safco Floating Shelf Set, Mobile",Furniture,Bookcases,4,7,1048.00,57.75,0.00,5.51
+FUR-BO-10002444,"Sauder Library with Doors, Mobile",Furniture,Bookcases,3,11,4022.00,1146.83,0.00,28.51
+FUR-BO-10002462,"Ikea Classic Bookcase, Pine",Furniture,Bookcases,4,12,4817.00,-41.45,0.00,-0.86
+FUR-BO-10002471,"Safco 3-Shelf Cabinet, Metal",Furniture,Bookcases,5,15,1570.00,22.20,0.00,1.41
+FUR-BO-10002510,"Bush 3-Shelf Cabinet, Mobile",Furniture,Bookcases,6,15,1876.00,-27.80,0.00,-1.48
+FUR-BO-10002510,"Safco 3-Shelf Cabinet, Traditional",Furniture,Bookcases,6,23,3614.00,467.46,0.00,12.93
+FUR-BO-10002529,"Safco Library with Doors, Metal",Furniture,Bookcases,1,7,2452.00,190.58,0.00,7.77
+FUR-BO-10002545,"Atlantic Metals Mobile 3-Shelf Bookcases, Custom Colors",Furniture,Bookcases,8,35,7539.00,780.32,0.00,10.35
+FUR-BO-10002574,"Bush Corner Shelving, Traditional",Furniture,Bookcases,1,4,132.00,-119.10,1.00,-90.23
+FUR-BO-10002580,"Safco Classic Bookcase, Pine",Furniture,Bookcases,3,14,3516.00,-503.96,0.00,-14.33
+FUR-BO-10002592,"Safco Stackable Bookrack, Traditional",Furniture,Bookcases,1,5,198.00,-183.08,1.00,-92.46
+FUR-BO-10002598,"Hon Metal Bookcases, Putty",Furniture,Bookcases,5,19,1321.00,362.72,0.00,27.46
+FUR-BO-10002613,"Atlantic Metals Mobile 4-Shelf Bookcases, Custom Colors",Furniture,Bookcases,6,27,5184.00,-126.43,0.17,-2.44
+FUR-BO-10002632,"Sauder Corner Shelving, Pine",Furniture,Bookcases,7,31,4401.00,713.53,0.00,16.21
+FUR-BO-10002679,"Ikea Stackable Bookrack, Mobile",Furniture,Bookcases,8,36,2886.00,843.72,0.00,29.23
+FUR-BO-10002680,"Sauder 3-Shelf Cabinet, Traditional",Furniture,Bookcases,2,6,833.00,43.20,0.00,5.19
+FUR-BO-10002682,"Safco Stackable Bookrack, Mobile",Furniture,Bookcases,2,7,998.00,80.26,0.00,8.04
+FUR-BO-10002708,"Dania Library with Doors, Pine",Furniture,Bookcases,4,18,5056.00,-771.56,0.00,-15.26
+FUR-BO-10002736,"Sauder Stackable Bookrack, Mobile",Furniture,Bookcases,5,25,3311.00,227.55,0.00,6.87
+FUR-BO-10002738,"Sauder Corner Shelving, Mobile",Furniture,Bookcases,4,7,744.00,-274.33,0.00,-36.87
+FUR-BO-10002740,"Ikea Classic Bookcase, Metal",Furniture,Bookcases,4,18,3947.00,641.37,0.00,16.25
+FUR-BO-10002766,"Bush Classic Bookcase, Traditional",Furniture,Bookcases,7,28,6932.00,-462.34,0.00,-6.67
+FUR-BO-10002781,"Sauder Floating Shelf Set, Traditional",Furniture,Bookcases,4,23,3444.00,624.03,0.00,18.12
+FUR-BO-10002782,"Safco Corner Shelving, Traditional",Furniture,Bookcases,6,23,1814.00,552.59,0.00,30.46
+FUR-BO-10002793,"Safco Floating Shelf Set, Traditional",Furniture,Bookcases,2,10,1810.00,826.31,0.00,45.65
+FUR-BO-10002812,"Sauder 3-Shelf Cabinet, Pine",Furniture,Bookcases,6,23,3613.00,636.67,0.00,17.62
+FUR-BO-10002819,"Ikea Stackable Bookrack, Traditional",Furniture,Bookcases,7,25,2866.00,689.42,0.00,24.06
+FUR-BO-10002824,"Bush Mission Pointe Library",Furniture,Bookcases,3,6,749.00,24.15,0.00,3.22
+FUR-BO-10002852,"Bush Stackable Bookrack, Pine",Furniture,Bookcases,1,2,252.00,12.60,0.00,5.00
+FUR-BO-10002853,"O'Sullivan 5-Shelf Heavy-Duty Bookcases",Furniture,Bookcases,4,9,541.00,-12.29,0.00,-2.27
+FUR-BO-10002866,"Safco Classic Bookcase, Pine",Furniture,Bookcases,1,6,1582.00,-870.30,0.00,-55.01
+FUR-BO-10002889,"Dania Stackable Bookrack, Pine",Furniture,Bookcases,2,12,1340.00,536.15,0.00,40.01
+FUR-BO-10002892,"Safco Classic Bookcase, Mobile",Furniture,Bookcases,5,24,8549.00,1991.25,0.00,23.29
+FUR-BO-10002906,"Ikea Corner Shelving, Traditional",Furniture,Bookcases,3,11,755.00,-48.45,0.00,-6.42
+FUR-BO-10002916,"Rush Hierlooms Collection 1" Thick Stackable Bookcases",Furniture,Bookcases,4,15,2488.00,410.36,0.00,16.49
+FUR-BO-10002926,"Bush Stackable Bookrack, Mobile",Furniture,Bookcases,2,6,742.00,81.36,0.00,10.96
+FUR-BO-10002936,"Ikea Stackable Bookrack, Pine",Furniture,Bookcases,5,12,1389.00,644.26,0.00,46.38
+FUR-BO-10002964,"Dania Floating Shelf Set, Pine",Furniture,Bookcases,3,15,1930.00,-324.70,0.00,-16.82
+FUR-BO-10002968,"Bush Library with Doors, Metal",Furniture,Bookcases,4,7,1456.00,29.08,0.00,2.00
+FUR-BO-10002975,"Dania Stackable Bookrack, Traditional",Furniture,Bookcases,5,16,984.00,3.10,0.00,0.32
+FUR-BO-10002981,"Bush Floating Shelf Set, Metal",Furniture,Bookcases,5,16,1411.00,154.73,0.00,10.97
+FUR-BO-10002981,"Sauder Stackable Bookrack, Traditional",Furniture,Bookcases,3,11,976.00,-86.96,0.00,-8.91
+FUR-BO-10002985,"Sauder Corner Shelving, Mobile",Furniture,Bookcases,3,17,1439.00,368.30,0.00,25.59
+FUR-BO-10002990,"Dania Library with Doors, Traditional",Furniture,Bookcases,6,27,9198.00,3913.27,0.00,42.54
+FUR-BO-10002992,"Dania Library with Doors, Traditional",Furniture,Bookcases,6,21,4348.00,-116.22,0.00,-2.67
+FUR-BO-10003007,"Ikea Stackable Bookrack, Metal",Furniture,Bookcases,6,24,2806.00,551.15,0.00,19.64
+FUR-BO-10003022,"Dania 3-Shelf Cabinet, Metal",Furniture,Bookcases,3,11,1550.00,542.19,0.00,34.98
+FUR-BO-10003028,"Sauder 3-Shelf Cabinet, Mobile",Furniture,Bookcases,6,24,3385.00,987.84,0.00,29.18
+FUR-BO-10003029,"Sauder Library with Doors, Traditional",Furniture,Bookcases,3,9,3345.00,100.66,0.00,3.01
+FUR-BO-10003034,"O'Sullivan Elevations Bookcase, Cherry Finish",Furniture,Bookcases,5,18,1912.00,-68.11,0.00,-3.56
+FUR-BO-10003034,"Sauder Stackable Bookrack, Pine",Furniture,Bookcases,6,22,1915.00,47.21,0.00,2.47
+FUR-BO-10003043,"Dania 3-Shelf Cabinet, Mobile",Furniture,Bookcases,3,7,634.00,68.99,0.00,10.88
+FUR-BO-10003046,"Safco Library with Doors, Mobile",Furniture,Bookcases,6,18,6120.00,1176.88,0.00,19.23
+FUR-BO-10003078,"Safco Corner Shelving, Traditional",Furniture,Bookcases,2,3,269.00,-8.98,0.00,-3.34
+FUR-BO-10003086,"Safco Library with Doors, Traditional",Furniture,Bookcases,3,6,2175.00,444.32,0.00,20.43
+FUR-BO-10003103,"Dania Floating Shelf Set, Pine",Furniture,Bookcases,3,7,592.00,-53.50,0.00,-9.04
+FUR-BO-10003103,"Ikea Classic Bookcase, Metal",Furniture,Bookcases,9,33,11020.00,28.46,0.11,0.26
+FUR-BO-10003106,"Sauder Corner Shelving, Metal",Furniture,Bookcases,7,34,2935.00,240.37,0.00,8.19
+FUR-BO-10003112,"Sauder Floating Shelf Set, Traditional",Furniture,Bookcases,2,6,778.00,303.48,0.00,39.01
+FUR-BO-10003126,"Dania Library with Doors, Traditional",Furniture,Bookcases,4,13,4348.00,155.52,0.00,3.58
+FUR-BO-10003159,"Dania Stackable Bookrack, Pine",Furniture,Bookcases,5,24,1722.00,107.88,0.00,6.26
+FUR-BO-10003159,"Sauder Camden County Collection Libraries, Planked Cherry Finish",Furniture,Bookcases,7,19,1909.00,-78.20,0.00,-4.10
+FUR-BO-10003174,"Dania Floating Shelf Set, Pine",Furniture,Bookcases,1,4,182.00,-186.64,1.00,-102.55
+FUR-BO-10003181,"Safco Corner Shelving, Metal",Furniture,Bookcases,1,1,89.00,-59.57,0.00,-66.93
+FUR-BO-10003185,"Ikea Floating Shelf Set, Metal",Furniture,Bookcases,3,8,1358.00,13.44,0.00,0.99
+FUR-BO-10003199,"Bush Classic Bookcase, Mobile",Furniture,Bookcases,4,14,3044.00,642.12,0.00,21.09
+FUR-BO-10003206,"Sauder Floating Shelf Set, Pine",Furniture,Bookcases,5,20,3645.00,117.50,0.00,3.22
+FUR-BO-10003221,"Safco Corner Shelving, Mobile",Furniture,Bookcases,6,21,1824.00,14.82,0.00,0.81
+FUR-BO-10003272,"O'Sullivan Living Dimensions 5-Shelf Bookcases",Furniture,Bookcases,6,21,3422.00,-755.76,0.00,-22.09
+FUR-BO-10003282,"Ikea Classic Bookcase, Mobile",Furniture,Bookcases,3,20,8078.00,2443.67,0.00,30.25
+FUR-BO-10003284,"Sauder Floating Shelf Set, Mobile",Furniture,Bookcases,4,12,1156.00,-57.84,0.00,-5.00
+FUR-BO-10003287,"Dania Corner Shelving, Traditional",Furniture,Bookcases,3,15,1156.00,142.20,0.00,12.30
+FUR-BO-10003291,"Dania Corner Shelving, Metal",Furniture,Bookcases,7,23,1329.00,24.18,0.00,1.82
+FUR-BO-10003297,"Ikea 3-Shelf Cabinet, Metal",Furniture,Bookcases,8,28,2365.00,-151.64,0.00,-6.41
+FUR-BO-10003301,"Dania Floating Shelf Set, Metal",Furniture,Bookcases,6,34,5503.00,909.47,0.00,16.53
+FUR-BO-10003320,"Dania Classic Bookcase, Metal",Furniture,Bookcases,3,12,3008.00,678.12,0.00,22.54
+FUR-BO-10003323,"Safco 3-Shelf Cabinet, Mobile",Furniture,Bookcases,5,25,2444.00,759.24,0.00,31.07
+FUR-BO-10003326,"Safco Stackable Bookrack, Traditional",Furniture,Bookcases,5,12,1030.00,114.78,0.00,11.14
+FUR-BO-10003333,"Sauder Stackable Bookrack, Traditional",Furniture,Bookcases,3,9,1317.00,197.37,0.00,14.99
+FUR-BO-10003383,"Safco Floating Shelf Set, Mobile",Furniture,Bookcases,1,2,399.00,115.56,0.00,28.96
+FUR-BO-10003384,"Ikea Corner Shelving, Traditional",Furniture,Bookcases,3,11,1243.00,254.56,0.00,20.48
+FUR-BO-10003386,"Sauder 3-Shelf Cabinet, Mobile",Furniture,Bookcases,1,2,338.00,135.36,0.00,40.05
+FUR-BO-10003404,"Global Adaptabilites Bookcase, Cherry/Storm Gray Finish",Furniture,Bookcases,2,8,3448.00,206.87,0.00,6.00
+FUR-BO-10003408,"Ikea 3-Shelf Cabinet, Metal",Furniture,Bookcases,5,19,2486.00,327.79,0.00,13.19
+FUR-BO-10003433,"Sauder Cornerstone Collection Library",Furniture,Bookcases,3,14,322.00,-81.17,0.00,-25.21
+FUR-BO-10003438,"Dania Corner Shelving, Pine",Furniture,Bookcases,11,52,3768.00,387.38,0.00,10.28
+FUR-BO-10003441,"Bush Westfield Collection Bookcases, Fully Assembled",Furniture,Bookcases,6,18,1472.00,73.73,0.00,5.01
+FUR-BO-10003450,"Bush Westfield Collection Bookcases, Dark Cherry Finish",Furniture,Bookcases,3,14,650.00,-97.40,0.33,-14.98
+FUR-BO-10003463,"Ikea Stackable Bookrack, Metal",Furniture,Bookcases,6,28,1595.00,-569.75,0.17,-35.72
+FUR-BO-10003499,"Ikea Library with Doors, Pine",Furniture,Bookcases,8,25,4330.00,-1386.25,0.00,-32.02
+FUR-BO-10003530,"Safco 3-Shelf Cabinet, Pine",Furniture,Bookcases,3,8,863.00,45.34,0.00,5.25
+FUR-BO-10003530,"Safco Classic Bookcase, Metal",Furniture,Bookcases,1,3,350.00,-385.15,1.00,-110.04
+FUR-BO-10003541,"Bush Classic Bookcase, Metal",Furniture,Bookcases,7,20,7749.00,2307.43,0.00,29.78
+FUR-BO-10003543,"Safco Floating Shelf Set, Mobile",Furniture,Bookcases,5,17,1967.00,791.68,0.00,40.25
+FUR-BO-10003546,"Hon 4-Shelf Metal Bookcases",Furniture,Bookcases,4,22,1474.00,-191.85,0.25,-13.02
+FUR-BO-10003549,"Sauder Floating Shelf Set, Metal",Furniture,Bookcases,6,33,6137.00,694.46,0.00,11.32
+FUR-BO-10003554,"Dania 3-Shelf Cabinet, Mobile",Furniture,Bookcases,5,23,3081.00,0.80,0.00,0.03
+FUR-BO-10003559,"Sauder Stackable Bookrack, Pine",Furniture,Bookcases,7,18,2271.00,602.98,0.14,26.55
+FUR-BO-10003563,"Bush 3-Shelf Cabinet, Mobile",Furniture,Bookcases,7,22,1984.00,250.50,0.00,12.63
+FUR-BO-10003589,"Dania Floating Shelf Set, Traditional",Furniture,Bookcases,1,1,102.00,6.75,0.00,6.62
+FUR-BO-10003604,"Ikea Corner Shelving, Mobile",Furniture,Bookcases,2,10,1256.00,163.20,0.00,12.99
+FUR-BO-10003631,"Safco Stackable Bookrack, Mobile",Furniture,Bookcases,7,19,1549.00,152.89,0.00,9.87
+FUR-BO-10003647,"Ikea Classic Bookcase, Pine",Furniture,Bookcases,1,2,826.00,16.50,0.00,2.00
+FUR-BO-10003660,"Bush Cubix Collection Bookcases, Fully Assembled",Furniture,Bookcases,3,4,729.00,48.62,0.33,6.67
+FUR-BO-10003661,"Sauder Floating Shelf Set, Traditional",Furniture,Bookcases,1,7,1362.00,340.41,0.00,24.99
+FUR-BO-10003668,"Sauder Floating Shelf Set, Pine",Furniture,Bookcases,1,2,157.00,-195.94,1.00,-124.80
+FUR-BO-10003688,"Bush Stackable Bookrack, Pine",Furniture,Bookcases,8,19,1192.00,267.03,0.00,22.40
+FUR-BO-10003697,"Safco Floating Shelf Set, Mobile",Furniture,Bookcases,5,21,3985.00,302.85,0.00,7.60
+FUR-BO-10003706,"Sauder Stackable Bookrack, Pine",Furniture,Bookcases,7,23,3080.00,1307.84,0.00,42.46
+FUR-BO-10003713,"Sauder Corner Shelving, Mobile",Furniture,Bookcases,2,8,959.00,-203.95,0.00,-21.27
+FUR-BO-10003734,"Dania Classic Bookcase, Metal",Furniture,Bookcases,4,18,6768.00,1821.15,0.00,26.91
+FUR-BO-10003738,"Dania Library with Doors, Mobile",Furniture,Bookcases,5,12,4197.00,824.46,0.00,19.64
+FUR-BO-10003768,"Sauder 3-Shelf Cabinet, Traditional",Furniture,Bookcases,4,23,1556.00,-182.67,0.25,-11.74
+FUR-BO-10003779,"Ikea Library with Doors, Traditional",Furniture,Bookcases,4,11,3852.00,1613.21,0.00,41.88
+FUR-BO-10003783,"Dania Library with Doors, Pine",Furniture,Bookcases,5,20,6492.00,527.14,0.00,8.12
+FUR-BO-10003793,"Bush 3-Shelf Cabinet, Metal",Furniture,Bookcases,5,21,2619.00,939.29,0.00,35.86
+FUR-BO-10003828,"Bush 3-Shelf Cabinet, Metal",Furniture,Bookcases,6,16,2114.00,491.00,0.00,23.23
+FUR-BO-10003873,"Safco Library with Doors, Mobile",Furniture,Bookcases,4,15,3558.00,1281.45,0.00,36.02
+FUR-BO-10003878,"Safco Corner Shelving, Mobile",Furniture,Bookcases,4,10,1368.00,516.72,0.00,37.77
+FUR-BO-10003880,"Dania Corner Shelving, Pine",Furniture,Bookcases,1,7,230.00,-224.76,1.00,-97.72
+FUR-BO-10003881,"Sauder Floating Shelf Set, Mobile",Furniture,Bookcases,7,20,3784.00,1300.32,0.00,34.36
+FUR-BO-10003887,"Ikea Floating Shelf Set, Traditional",Furniture,Bookcases,8,30,4199.00,-707.02,0.00,-16.84
+FUR-BO-10003893,"Sauder Camden County Collection Library",Furniture,Bookcases,2,16,1368.00,-103.49,0.00,-7.57
+FUR-BO-10003894,"Safco Value Mate Steel Bookcase, Baked Enamel Finish on Steel, Black",Furniture,Bookcases,3,14,803.00,106.47,0.00,13.26
+FUR-BO-10003903,"Dania 3-Shelf Cabinet, Pine",Furniture,Bookcases,5,16,2042.00,-37.32,0.00,-1.83
+FUR-BO-10003904,"Ikea Corner Shelving, Traditional",Furniture,Bookcases,4,10,862.00,98.22,0.25,11.39
+FUR-BO-10003905,"Ikea Stackable Bookrack, Mobile",Furniture,Bookcases,7,30,3252.00,1300.50,0.14,39.99
+FUR-BO-10003913,"Safco Stackable Bookrack, Pine",Furniture,Bookcases,5,20,2721.00,14.97,0.00,0.55
+FUR-BO-10003945,"Sauder 3-Shelf Cabinet, Metal",Furniture,Bookcases,8,26,3790.00,1413.77,0.00,37.30
+FUR-BO-10003965,"O'Sullivan Manor Hill 2-Door Library in Brianna Oak",Furniture,Bookcases,4,12,1647.00,-285.95,0.00,-17.36
+FUR-BO-10003966,"Sauder Facets Collection Library, Sky Alder Finish",Furniture,Bookcases,4,10,1428.00,-8.55,0.00,-0.60
+FUR-BO-10003968,"Sauder Library with Doors, Mobile",Furniture,Bookcases,2,5,1833.00,175.46,0.00,9.57
+FUR-BO-10003985,"Sauder Classic Bookcase, Traditional",Furniture,Bookcases,1,4,1046.00,-52.34,0.00,-5.00
+FUR-BO-10003991,"Bush Classic Bookcase, Traditional",Furniture,Bookcases,5,18,7015.00,2632.38,0.00,37.53
+FUR-BO-10004015,"Bush Andora Bookcase, Maple/Graphite Gray Finish",Furniture,Bookcases,9,34,3318.00,135.59,0.00,4.09
+FUR-BO-10004032,"Bush Corner Shelving, Pine",Furniture,Bookcases,1,4,134.00,-80.22,1.00,-59.87
+FUR-BO-10004043,"Dania Classic Bookcase, Metal",Furniture,Bookcases,3,15,6154.00,122.85,0.00,2.00
+FUR-BO-10004053,"Dania Library with Doors, Metal",Furniture,Bookcases,7,18,5574.00,1338.50,0.00,24.01
+FUR-BO-10004055,"Safco Corner Shelving, Metal",Furniture,Bookcases,5,19,2010.00,-111.69,0.00,-5.56
+FUR-BO-10004075,"Safco Floating Shelf Set, Metal",Furniture,Bookcases,5,20,1882.00,-706.48,0.00,-37.54
+FUR-BO-10004080,"Ikea Stackable Bookrack, Traditional",Furniture,Bookcases,4,20,1839.00,293.70,0.00,15.97
+FUR-BO-10004082,"Sauder Classic Bookcase, Metal",Furniture,Bookcases,3,9,2381.00,838.94,0.00,35.23
+FUR-BO-10004098,"Ikea Stackable Bookrack, Pine",Furniture,Bookcases,1,6,397.00,-84.38,0.00,-21.25
+FUR-BO-10004103,"Dania Library with Doors, Pine",Furniture,Bookcases,1,3,291.00,-72.78,1.00,-25.01
+FUR-BO-10004113,"Sauder Classic Bookcase, Pine",Furniture,Bookcases,9,27,7173.00,2999.79,0.00,41.82
+FUR-BO-10004119,"Ikea Floating Shelf Set, Traditional",Furniture,Bookcases,9,37,5400.00,-525.40,0.11,-9.73
+FUR-BO-10004129,"Sauder Classic Bookcase, Pine",Furniture,Bookcases,2,10,3499.00,-131.28,0.00,-3.75
+FUR-BO-10004135,"Ikea Stackable Bookrack, Traditional",Furniture,Bookcases,2,6,490.00,39.12,0.00,7.98
+FUR-BO-10004142,"Safco Classic Bookcase, Traditional",Furniture,Bookcases,7,25,6425.00,2117.70,0.00,32.96
+FUR-BO-10004161,"Bush Corner Shelving, Mobile",Furniture,Bookcases,6,20,2148.00,-332.93,0.00,-15.50
+FUR-BO-10004162,"Ikea Floating Shelf Set, Pine",Furniture,Bookcases,7,28,2771.00,878.82,0.00,31.71
+FUR-BO-10004191,"Safco Corner Shelving, Traditional",Furniture,Bookcases,4,11,1525.00,176.11,0.00,11.55
+FUR-BO-10004199,"Ikea 3-Shelf Cabinet, Pine",Furniture,Bookcases,4,17,2084.00,-286.55,0.00,-13.75
+FUR-BO-10004218,"Bush Heritage Pine Collection 5-Shelf Bookcase, Albany Pine Finish, *Special Order",Furniture,Bookcases,8,34,3625.00,-208.64,0.00,-5.76
+FUR-BO-10004219,"Safco 3-Shelf Cabinet, Metal",Furniture,Bookcases,3,17,2642.00,782.34,0.00,29.61
+FUR-BO-10004230,"Bush Corner Shelving, Metal",Furniture,Bookcases,5,14,1628.00,609.78,0.00,37.46
+FUR-BO-10004238,"Ikea Corner Shelving, Pine",Furniture,Bookcases,1,2,66.00,-19.93,1.00,-30.20
+FUR-BO-10004254,"Ikea Classic Bookcase, Traditional",Furniture,Bookcases,6,18,6094.00,1498.51,0.00,24.59
+FUR-BO-10004312,"Bush Floating Shelf Set, Traditional",Furniture,Bookcases,1,2,319.00,68.48,0.00,21.47
+FUR-BO-10004316,"Bush 3-Shelf Cabinet, Pine",Furniture,Bookcases,2,4,549.00,17.26,0.00,3.14
+FUR-BO-10004327,"Bush 3-Shelf Cabinet, Mobile",Furniture,Bookcases,4,10,1124.00,-116.85,0.00,-10.40
+FUR-BO-10004340,"Safco Classic Bookcase, Mobile",Furniture,Bookcases,8,28,6521.00,-1292.89,0.00,-19.83
+FUR-BO-10004357,"O'Sullivan Living Dimensions 3-Shelf Bookcases",Furniture,Bookcases,4,17,2903.00,-170.84,0.00,-5.88
+FUR-BO-10004360,"Rush Hierlooms Collection Rich Wood Bookcases",Furniture,Bookcases,2,4,489.00,-70.83,0.00,-14.48
+FUR-BO-10004371,"Dania Classic Bookcase, Pine",Furniture,Bookcases,1,5,549.00,-316.02,1.00,-57.56
+FUR-BO-10004388,"Ikea Library with Doors, Metal",Furniture,Bookcases,4,15,4789.00,1306.17,0.00,27.27
+FUR-BO-10004399,"Bush Floating Shelf Set, Pine",Furniture,Bookcases,4,12,1768.00,-179.61,0.00,-10.16
+FUR-BO-10004404,"Ikea 3-Shelf Cabinet, Pine",Furniture,Bookcases,4,13,1484.00,6.99,0.00,0.47
+FUR-BO-10004407,"Ikea Floating Shelf Set, Metal",Furniture,Bookcases,8,33,3214.00,39.62,0.00,1.23
+FUR-BO-10004408,"Dania Stackable Bookrack, Pine",Furniture,Bookcases,4,16,1819.00,-128.33,0.00,-7.05
+FUR-BO-10004409,"Safco Value Mate Series Steel Bookcases, Baked Enamel Finish on Steel, Gray",Furniture,Bookcases,6,17,858.00,-9.95,0.00,-1.16
+FUR-BO-10004423,"Ikea Corner Shelving, Pine",Furniture,Bookcases,6,23,1593.00,600.23,0.00,37.68
+FUR-BO-10004425,"Sauder Library with Doors, Mobile",Furniture,Bookcases,6,21,4525.00,374.46,0.17,8.28
+FUR-BO-10004430,"Bush Floating Shelf Set, Metal",Furniture,Bookcases,6,18,2850.00,54.53,0.00,1.91
+FUR-BO-10004434,"Ikea Library with Doors, Traditional",Furniture,Bookcases,1,1,363.00,10.89,0.00,3.00
+FUR-BO-10004441,"Ikea Library with Doors, Metal",Furniture,Bookcases,4,17,3435.00,-142.84,0.00,-4.16
+FUR-BO-10004445,"Bush Stackable Bookrack, Pine",Furniture,Bookcases,4,20,2268.00,277.14,0.25,12.22
+FUR-BO-10004452,"Bush Classic Bookcase, Pine",Furniture,Bookcases,3,12,2925.00,1170.21,0.00,40.01
+FUR-BO-10004459,"Safco 3-Shelf Cabinet, Traditional",Furniture,Bookcases,6,18,1621.00,-20.37,0.00,-1.26
+FUR-BO-10004467,"Bestar Classic Bookcase",Furniture,Bookcases,8,31,1898.00,-612.93,0.25,-32.29
+FUR-BO-10004472,"Dania Library with Doors, Pine",Furniture,Bookcases,8,26,5142.00,1988.24,0.00,38.67
+FUR-BO-10004483,"Ikea Floating Shelf Set, Pine",Furniture,Bookcases,2,8,1236.00,54.88,0.00,4.44
+FUR-BO-10004504,"Sauder 3-Shelf Cabinet, Mobile",Furniture,Bookcases,9,37,3361.00,-19.62,0.00,-0.58
+FUR-BO-10004507,"Ikea Corner Shelving, Metal",Furniture,Bookcases,3,9,995.00,-8.72,0.00,-0.88
+FUR-BO-10004508,"Ikea Floating Shelf Set, Mobile",Furniture,Bookcases,4,16,1843.00,774.40,0.00,42.02
+FUR-BO-10004529,"Sauder 3-Shelf Cabinet, Pine",Furniture,Bookcases,8,25,3830.00,134.33,0.00,3.51
+FUR-BO-10004537,"Dania Floating Shelf Set, Mobile",Furniture,Bookcases,3,8,1194.00,328.10,0.00,27.48
+FUR-BO-10004541,"Dania Library with Doors, Mobile",Furniture,Bookcases,6,16,5497.00,649.13,0.00,11.81
+FUR-BO-10004547,"Bush Stackable Bookrack, Traditional",Furniture,Bookcases,9,28,3271.00,688.01,0.00,21.03
+FUR-BO-10004558,"Sauder Library with Doors, Pine",Furniture,Bookcases,2,9,2126.00,399.32,0.00,18.78
+FUR-BO-10004560,"Bush Floating Shelf Set, Mobile",Furniture,Bookcases,3,15,2555.00,599.46,0.00,23.46
+FUR-BO-10004565,"Sauder Corner Shelving, Traditional",Furniture,Bookcases,5,17,1551.00,299.34,0.00,19.30
+FUR-BO-10004567,"Bush Floating Shelf Set, Mobile",Furniture,Bookcases,8,20,2039.00,324.34,0.00,15.91
+FUR-BO-10004585,"Ikea 3-Shelf Cabinet, Traditional",Furniture,Bookcases,4,19,2506.00,1018.11,0.00,40.63
+FUR-BO-10004620,"Safco Stackable Bookrack, Mobile",Furniture,Bookcases,3,9,1057.00,-122.42,0.33,-11.58
+FUR-BO-10004630,"Ikea Library with Doors, Mobile",Furniture,Bookcases,3,13,4574.00,54.56,0.00,1.19
+FUR-BO-10004633,"Safco Stackable Bookrack, Traditional",Furniture,Bookcases,2,14,1901.00,72.41,0.00,3.81
+FUR-BO-10004648,"Sauder Library with Doors, Pine",Furniture,Bookcases,3,17,6477.00,855.30,0.00,13.21
+FUR-BO-10004660,"Sauder Library with Doors, Metal",Furniture,Bookcases,3,9,2672.00,336.49,0.00,12.59
+FUR-BO-10004665,"Bush Classic Bookcase, Mobile",Furniture,Bookcases,5,21,8087.00,3030.46,0.00,37.47
+FUR-BO-10004670,"Dania Library with Doors, Mobile",Furniture,Bookcases,1,2,730.00,124.02,0.00,16.99
+FUR-BO-10004679,"Safco Library with Doors, Pine",Furniture,Bookcases,8,49,17433.00,375.23,0.00,2.15
+FUR-BO-10004681,"Ikea Stackable Bookrack, Metal",Furniture,Bookcases,1,2,244.00,68.34,0.00,28.01
+FUR-BO-10004690,"O'Sullivan Cherrywood Estates Traditional Barrister Bookcase",Furniture,Bookcases,2,9,1072.00,-78.36,0.00,-7.31
+FUR-BO-10004695,"O'Sullivan 2-Door Barrister Bookcase in Odessa Pine",Furniture,Bookcases,7,31,4887.00,566.48,0.00,11.59
+FUR-BO-10004699,"Dania 3-Shelf Cabinet, Mobile",Furniture,Bookcases,6,18,2563.00,-28.79,0.00,-1.12
+FUR-BO-10004704,"Bush Corner Shelving, Pine",Furniture,Bookcases,5,19,1968.00,729.23,0.00,37.05
+FUR-BO-10004707,"Ikea Library with Doors, Traditional",Furniture,Bookcases,6,32,9629.00,-1650.18,0.00,-17.14
+FUR-BO-10004709,"Bush Classic Bookcase, Pine",Furniture,Bookcases,3,11,4388.00,2065.85,0.00,47.08
+FUR-BO-10004709,"Bush Westfield Collection Bookcases, Medium Cherry Finish",Furniture,Bookcases,9,32,1427.00,-20.29,0.00,-1.42
+FUR-BO-10004725,"Sauder Library with Doors, Metal",Furniture,Bookcases,5,19,4078.00,350.69,0.00,8.60
+FUR-BO-10004771,"Ikea Classic Bookcase, Traditional",Furniture,Bookcases,5,21,8315.00,1482.15,0.00,17.83
+FUR-BO-10004771,"Safco Library with Doors, Traditional",Furniture,Bookcases,3,21,3274.00,-1582.65,0.00,-48.34
+FUR-BO-10004773,"Ikea Floating Shelf Set, Mobile",Furniture,Bookcases,4,14,2127.00,504.56,0.00,23.72
+FUR-BO-10004806,"Safco Corner Shelving, Traditional",Furniture,Bookcases,5,23,2959.00,827.90,0.00,27.98
+FUR-BO-10004806,"Sauder Classic Bookcase, Metal",Furniture,Bookcases,1,6,1568.00,208.98,0.00,13.33
+FUR-BO-10004821,"Dania Corner Shelving, Traditional",Furniture,Bookcases,6,37,4221.00,155.25,0.00,3.68
+FUR-BO-10004824,"Safco Stackable Bookrack, Traditional",Furniture,Bookcases,5,17,2182.00,62.00,0.00,2.84
+FUR-BO-10004834,"Riverside Palais Royal Lawyers Bookcase, Royale Cherry Finish",Furniture,Bookcases,5,24,15611.00,-669.53,0.00,-4.29
+FUR-BO-10004834,"Safco 3-Shelf Cabinet, Mobile",Furniture,Bookcases,3,17,2776.00,241.33,0.00,8.69
+FUR-BO-10004842,"Dania 3-Shelf Cabinet, Pine",Furniture,Bookcases,3,20,2682.00,796.58,0.00,29.70
+FUR-BO-10004844,"Sauder Corner Shelving, Mobile",Furniture,Bookcases,3,13,1798.00,434.40,0.00,24.16
+FUR-BO-10004852,"Sauder Classic Bookcase, Traditional",Furniture,Bookcases,7,35,14475.00,4861.07,0.00,33.58
+FUR-BO-10004878,"Ikea 3-Shelf Cabinet, Traditional",Furniture,Bookcases,1,2,171.00,5.69,0.00,3.33
+FUR-BO-10004899,"Safco Floating Shelf Set, Pine",Furniture,Bookcases,3,14,1426.00,-385.63,0.00,-27.04
+FUR-BO-10004911,"Ikea Corner Shelving, Mobile",Furniture,Bookcases,5,20,2363.00,-22.78,0.00,-0.96
+FUR-BO-10004914,"Bush 3-Shelf Cabinet, Traditional",Furniture,Bookcases,9,21,2665.00,318.03,0.00,11.93
+FUR-BO-10004917,"Dania Stackable Bookrack, Mobile",Furniture,Bookcases,3,4,487.00,179.88,0.00,36.94
+FUR-BO-10004924,"Sauder Library with Doors, Traditional",Furniture,Bookcases,2,10,2584.00,310.00,0.00,12.00
+FUR-BO-10004926,"Safco 3-Shelf Cabinet, Traditional",Furniture,Bookcases,2,9,1368.00,288.68,0.00,21.10
+FUR-BO-10004935,"Ikea Stackable Bookrack, Mobile",Furniture,Bookcases,1,4,133.00,-93.44,1.00,-70.26
+FUR-BO-10004947,"Safco Stackable Bookrack, Pine",Furniture,Bookcases,7,30,3877.00,991.32,0.00,25.57
+FUR-BO-10004980,"Bush Library with Doors, Mobile",Furniture,Bookcases,2,3,685.00,-4.93,0.00,-0.72
+FUR-BO-10004999,"Safco Classic Bookcase, Metal",Furniture,Bookcases,5,25,10372.00,4681.86,0.00,45.14
+FUR-BUS-10000332,"Bush Library with Doors, Traditional",Furniture,Bookcases,4,8,2040.00,-728.69,0.25,-35.72
+FUR-BUS-10000984,"Bush 3-Shelf Cabinet, Traditional",Furniture,Bookcases,2,5,616.00,57.29,0.50,9.30
+FUR-BUS-10001187,"Bush Classic Bookcase, Metal",Furniture,Bookcases,2,6,1483.00,-148.54,0.50,-10.02
+FUR-BUS-10001243,"Bush Classic Bookcase, Pine",Furniture,Bookcases,4,13,4802.00,2057.54,0.25,42.85
+FUR-BUS-10001781,"Bush Library with Doors, Metal",Furniture,Bookcases,1,6,2183.00,327.24,0.00,14.99
+FUR-BUS-10001876,"Bush 3-Shelf Cabinet, Pine",Furniture,Bookcases,1,1,43.00,-89.75,1.00,-208.72
+FUR-BUS-10002040,"Bush Library with Doors, Mobile",Furniture,Bookcases,9,20,5099.00,109.48,0.44,2.15
+FUR-BUS-10002138,"Bush Stackable Bookrack, Pine",Furniture,Bookcases,3,7,882.00,185.22,0.00,21.00
+FUR-BUS-10002192,"Bush 3-Shelf Cabinet, Metal",Furniture,Bookcases,1,1,143.00,41.40,0.00,28.95
+FUR-BUS-10002639,"Bush Corner Shelving, Mobile",Furniture,Bookcases,8,33,2201.00,-220.26,0.50,-10.01
+FUR-BUS-10002989,"Bush Classic Bookcase, Traditional",Furniture,Bookcases,3,6,2475.00,1015.02,0.00,41.01
+FUR-BUS-10003055,"Bush Stackable Bookrack, Pine",Furniture,Bookcases,5,15,1349.00,205.94,0.20,15.27
+FUR-BUS-10003368,"Bush Floating Shelf Set, Mobile",Furniture,Bookcases,2,6,799.00,17.33,0.50,2.17
+FUR-BUS-10003708,"Bush Stackable Bookrack, Traditional",Furniture,Bookcases,2,3,197.00,-80.00,0.50,-40.61
+FUR-BUS-10003724,"Bush Corner Shelving, Metal",Furniture,Bookcases,1,6,741.00,103.68,0.00,13.99
+FUR-BUS-10004121,"Bush 3-Shelf Cabinet, Mobile",Furniture,Bookcases,3,4,278.00,-218.89,0.67,-78.74
+FUR-BUS-10004336,"Bush Corner Shelving, Traditional",Furniture,Bookcases,3,5,471.00,-18.74,0.33,-3.98
+FUR-BUS-10004475,"Bush Floating Shelf Set, Traditional",Furniture,Bookcases,3,4,565.00,3.35,0.33,0.59
+FUR-BUS-10004622,"Bush Corner Shelving, Pine",Furniture,Bookcases,2,2,250.00,120.30,0.00,48.12
+FUR-BUS-10004644,"Bush Library with Doors, Pine",Furniture,Bookcases,1,2,731.00,80.40,0.00,11.00
+FUR-BUS-10004820,"Bush Classic Bookcase, Mobile",Furniture,Bookcases,6,9,3446.00,-103.80,0.17,-3.01
+FUR-BUS-10004854,"Bush Floating Shelf Set, Pine",Furniture,Bookcases,7,17,2210.00,184.32,0.29,8.34
+FUR-BUS-10004882,"Bush Floating Shelf Set, Metal",Furniture,Bookcases,3,5,649.00,-128.08,0.33,-19.73
+FUR-CH-10000005,"Office Star Executive Leather Armchair, Adjustable",Furniture,Chairs,1,2,564.00,-263.20,0.00,-46.67
+FUR-CH-10000013,"Hon Steel Folding Chair, Black",Furniture,Chairs,2,9,513.00,15.56,0.00,3.03
+FUR-CH-10000015,"Hon Multipurpose Stacking Arm Chairs",Furniture,Chairs,6,36,6584.00,814.41,0.00,12.37
+FUR-CH-10000025,"Office Star Rocking Chair, Set of Two",Furniture,Chairs,10,33,3971.00,192.87,0.00,4.86
+FUR-CH-10000026,"SAFCO Rocking Chair, Black",Furniture,Chairs,15,47,5350.00,-627.53,0.00,-11.73
+FUR-CH-10000027,"SAFCO Executive Leather Armchair, Black",Furniture,Chairs,12,50,21329.00,1363.23,0.00,6.39
+FUR-CH-10000042,"Harbour Creations Swivel Stool, Black",Furniture,Chairs,1,2,355.00,170.58,0.00,48.05
+FUR-CH-10000051,"Harbour Creations Executive Leather Armchair, Black",Furniture,Chairs,2,10,3979.00,663.02,0.00,16.66
+FUR-CH-10000068,"Office Star Steel Folding Chair, Red",Furniture,Chairs,4,20,1156.00,-459.05,0.00,-39.71
+FUR-CH-10000068,"SAFCO Rocking Chair, Black",Furniture,Chairs,1,1,132.00,5.28,0.00,4.00
+FUR-CH-10000089,"Hon Rocking Chair, Black",Furniture,Chairs,1,4,137.00,-41.02,1.00,-29.94
+FUR-CH-10000105,"Hon Steel Folding Chair, Set of Two",Furniture,Chairs,3,19,1029.00,-227.14,0.33,-22.07
+FUR-CH-10000105,"Novimex Bag Chairs, Black",Furniture,Chairs,13,64,1647.00,607.69,0.00,36.90
+FUR-CH-10000110,"Hon Bag Chairs, Red",Furniture,Chairs,7,29,1104.00,357.01,0.00,32.34
+FUR-CH-10000117,"Novimex Steel Folding Chair, Black",Furniture,Chairs,6,22,1626.00,184.61,0.00,11.35
+FUR-CH-10000133,"Harbour Creations Steel Folding Chair, Black",Furniture,Chairs,3,16,1251.00,-32.51,0.00,-2.60
+FUR-CH-10000136,"Harbour Creations Steel Folding Chair, Set of Two",Furniture,Chairs,1,2,53.00,-17.39,1.00,-32.81
+FUR-CH-10000155,"Global Comet Stacking Armless Chair",Furniture,Chairs,6,14,3528.00,514.36,0.00,14.58
+FUR-CH-10000171,"SAFCO Steel Folding Chair, Adjustable",Furniture,Chairs,4,12,589.00,164.64,0.00,27.95
+FUR-CH-10000182,"Office Star Bag Chairs, Adjustable",Furniture,Chairs,1,5,77.00,-36.76,1.00,-47.74
+FUR-CH-10000187,"Hon Chairmat, Red",Furniture,Chairs,10,34,1614.00,196.92,0.00,12.20
+FUR-CH-10000213,"Hon Swivel Stool, Red",Furniture,Chairs,2,9,1326.00,73.58,0.00,5.55
+FUR-CH-10000214,"Harbour Creations Bag Chairs, Black",Furniture,Chairs,3,10,444.00,-94.87,0.67,-21.37
+FUR-CH-10000214,"Hon Rocking Chair, Set of Two",Furniture,Chairs,2,4,318.00,-191.36,0.00,-60.18
+FUR-CH-10000225,"Global Geo Office Task Chair, Gray",Furniture,Chairs,7,25,1758.00,-166.02,0.00,-9.44
+FUR-CH-10000229,"Global Enterprise Series Seating High-Back Swivel/Tilt Chairs",Furniture,Chairs,4,10,2032.00,-460.67,0.00,-22.67
+FUR-CH-10000233,"SAFCO Chairmat, Red",Furniture,Chairs,7,18,535.00,89.08,0.00,16.65
+FUR-CH-10000258,"Office Star Steel Folding Chair, Red",Furniture,Chairs,9,33,2671.00,-174.66,0.00,-6.54
+FUR-CH-10000265,"Office Star Chairmat, Adjustable",Furniture,Chairs,8,37,1631.00,332.37,0.00,20.38
+FUR-CH-10000294,"Office Star Swivel Stool, Red",Furniture,Chairs,6,24,4176.00,918.00,0.00,21.98
+FUR-CH-10000302,"Novimex Rocking Chair, Red",Furniture,Chairs,9,24,1680.00,-21.21,0.11,-1.26
+FUR-CH-10000309,"Global Comet Stacking Arm Chair",Furniture,Chairs,5,17,6084.00,697.13,0.00,11.46
+FUR-CH-10000326,"SAFCO Rocking Chair, Red",Furniture,Chairs,5,27,1980.00,569.82,0.00,28.78
+FUR-CH-10000333,"SAFCO Swivel Stool, Black",Furniture,Chairs,3,8,1043.00,195.27,0.00,18.72
+FUR-CH-10000336,"SAFCO Chairmat, Set of Two",Furniture,Chairs,5,22,695.00,-124.53,0.00,-17.92
+FUR-CH-10000343,"Hon Executive Leather Armchair, Black",Furniture,Chairs,6,16,4023.00,755.63,0.00,18.78
+FUR-CH-10000351,"Novimex Chairmat, Set of Two",Furniture,Chairs,13,47,2558.00,821.75,0.00,32.12
+FUR-CH-10000373,"Hon Steel Folding Chair, Set of Two",Furniture,Chairs,1,2,167.00,81.96,0.00,49.08
+FUR-CH-10000391,"Novimex Bag Chairs, Red",Furniture,Chairs,8,29,1218.00,-9.22,0.00,-0.76
+FUR-CH-10000399,"Hon Swivel Stool, Set of Two",Furniture,Chairs,4,16,2356.00,338.34,0.25,14.36
+FUR-CH-10000414,"Novimex Chairmat, Black",Furniture,Chairs,7,23,633.00,-144.85,0.00,-22.88
+FUR-CH-10000422,"Global Highback Leather Tilter in Burgundy",Furniture,Chairs,9,34,2647.00,49.13,0.00,1.86
+FUR-CH-10000423,"Hon Chairmat, Set of Two",Furniture,Chairs,4,16,861.00,139.48,0.00,16.20
+FUR-CH-10000430,"SAFCO Rocking Chair, Set of Two",Furniture,Chairs,7,33,2742.00,600.18,0.00,21.89
+FUR-CH-10000430,"SAFCO Swivel Stool, Red",Furniture,Chairs,6,25,3636.00,1074.65,0.00,29.56
+FUR-CH-10000432,"Harbour Creations Swivel Stool, Adjustable",Furniture,Chairs,12,39,6173.00,-520.69,0.00,-8.43
+FUR-CH-10000438,"Novimex Chairmat, Adjustable",Furniture,Chairs,1,4,141.00,-94.13,0.00,-66.76
+FUR-CH-10000454,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",Furniture,Chairs,12,51,10638.00,1927.45,0.00,18.12
+FUR-CH-10000470,"Novimex Executive Leather Armchair, Red",Furniture,Chairs,1,2,552.00,-331.38,0.00,-60.03
+FUR-CH-10000479,"Harbour Creations Executive Leather Armchair, Adjustable",Furniture,Chairs,3,9,3816.00,1653.59,0.00,43.33
+FUR-CH-10000488,"SAFCO Steel Folding Chair, Black",Furniture,Chairs,4,11,649.00,-19.32,0.25,-2.98
+FUR-CH-10000513,"High-Back Leather Manager's Chair",Furniture,Chairs,9,42,4771.00,-197.59,0.00,-4.14
+FUR-CH-10000527,"Office Star Executive Leather Armchair, Adjustable",Furniture,Chairs,1,8,3720.00,632.40,0.00,17.00
+FUR-CH-10000528,"Novimex Steel Folding Chair, Adjustable",Furniture,Chairs,5,25,1208.00,-189.32,0.00,-15.67
+FUR-CH-10000546,"Harbour Creations Executive Leather Armchair, Adjustable",Furniture,Chairs,3,14,5666.00,1666.35,0.00,29.41
+FUR-CH-10000553,"Metal Folding Chairs, Beige, 4/Carton",Furniture,Chairs,5,23,687.00,115.73,0.00,16.85
+FUR-CH-10000568,"Hon Bag Chairs, Black",Furniture,Chairs,1,2,68.00,-0.05,0.00,-0.07
+FUR-CH-10000583,"Novimex Swivel Stool, Set of Two",Furniture,Chairs,3,16,2400.00,746.55,0.00,31.11
+FUR-CH-10000595,"Safco Contoured Stacking Chairs",Furniture,Chairs,8,27,5697.00,870.16,0.00,15.27
+FUR-CH-10000602,"Novimex Executive Leather Armchair, Red",Furniture,Chairs,8,36,15560.00,-345.80,0.00,-2.22
+FUR-CH-10000603,"Hon Bag Chairs, Red",Furniture,Chairs,5,15,627.00,173.54,0.00,27.68
+FUR-CH-10000604,"Office Star Rocking Chair, Set of Two",Furniture,Chairs,1,3,115.00,-105.97,1.00,-92.15
+FUR-CH-10000608,"Office Star Chairmat, Set of Two",Furniture,Chairs,6,25,1306.00,233.76,0.00,17.90
+FUR-CH-10000656,"Hon Swivel Stool, Adjustable",Furniture,Chairs,5,19,1816.00,322.30,0.00,17.75
+FUR-CH-10000660,"Novimex Executive Leather Armchair, Adjustable",Furniture,Chairs,7,27,11312.00,2824.19,0.00,24.97
+FUR-CH-10000663,"Hon Steel Folding Chair, Adjustable",Furniture,Chairs,2,11,831.00,73.69,0.00,8.87
+FUR-CH-10000665,"Global Airflow Leather Mesh Back Chair, Black",Furniture,Chairs,9,32,3955.00,573.72,0.00,14.51
+FUR-CH-10000666,"SAFCO Chairmat, Black",Furniture,Chairs,1,2,69.00,-26.41,0.00,-38.28
+FUR-CH-10000667,"Novimex Chairmat, Black",Furniture,Chairs,4,11,421.00,-42.16,0.50,-10.01
+FUR-CH-10000677,"Hon Steel Folding Chair, Red",Furniture,Chairs,5,15,586.00,-65.37,0.00,-11.16
+FUR-CH-10000685,"Hon Executive Leather Armchair, Black",Furniture,Chairs,3,10,4343.00,1462.83,0.00,33.68
+FUR-CH-10000689,"SAFCO Chairmat, Red",Furniture,Chairs,1,1,36.00,-0.62,0.00,-1.72
+FUR-CH-10000690,"Novimex Bag Chairs, Black",Furniture,Chairs,2,7,165.00,-5.32,0.50,-3.22
+FUR-CH-10000694,"Novimex Steel Folding Chair, Red",Furniture,Chairs,6,16,1101.00,74.82,0.00,6.80
+FUR-CH-10000727,"Office Star Chairmat, Set of Two",Furniture,Chairs,2,5,313.00,122.47,0.00,39.13
+FUR-CH-10000745,"Hon Chairmat, Adjustable",Furniture,Chairs,6,30,1584.00,260.94,0.00,16.47
+FUR-CH-10000749,"Office Star - Ergonomic Mid Back Chair with 2-Way Adjustable Arms",Furniture,Chairs,2,13,2208.00,231.65,0.00,10.49
+FUR-CH-10000774,"SAFCO Rocking Chair, Set of Two",Furniture,Chairs,1,2,274.00,0.00,0.00,0.00
+FUR-CH-10000777,"Harbour Creations Executive Leather Armchair, Adjustable",Furniture,Chairs,8,26,6973.00,1337.71,0.00,19.18
+FUR-CH-10000783,"Office Star Executive Leather Armchair, Adjustable",Furniture,Chairs,3,11,5076.00,526.09,0.00,10.36
+FUR-CH-10000785,"Global Ergonomic Managers Chair",Furniture,Chairs,11,39,6008.00,785.43,0.00,13.07
+FUR-CH-10000788,"Hon Rocking Chair, Adjustable",Furniture,Chairs,10,29,2181.00,-339.42,0.00,-15.56
+FUR-CH-10000790,"Hon Chairmat, Adjustable",Furniture,Chairs,1,2,116.00,58.02,0.00,50.02
+FUR-CH-10000807,"Hon Rocking Chair, Adjustable",Furniture,Chairs,4,16,1917.00,808.95,0.00,42.20
+FUR-CH-10000825,"SAFCO Chairmat, Red",Furniture,Chairs,11,31,1645.00,514.45,0.00,31.27
+FUR-CH-10000836,"SAFCO Swivel Stool, Adjustable",Furniture,Chairs,7,22,2499.00,74.80,0.00,2.99
+FUR-CH-10000843,"SAFCO Executive Leather Armchair, Set of Two",Furniture,Chairs,9,21,5810.00,-95.84,0.00,-1.65
+FUR-CH-10000847,"Global Executive Mid-Back Manager's Chair",Furniture,Chairs,6,18,4626.00,750.72,0.00,16.23
+FUR-CH-10000848,"SAFCO Executive Leather Armchair, Set of Two",Furniture,Chairs,1,2,835.00,296.72,0.00,35.54
+FUR-CH-10000852,"Novimex Chairmat, Set of Two",Furniture,Chairs,10,36,1069.00,310.65,0.00,29.06
+FUR-CH-10000857,"Harbour Creations Rocking Chair, Black",Furniture,Chairs,2,12,1562.00,346.97,0.00,22.21
+FUR-CH-10000863,"Novimex Swivel Fabric Task Chair",Furniture,Chairs,8,25,2914.00,-445.39,0.00,-15.28
+FUR-CH-10000885,"Hon Executive Leather Armchair, Adjustable",Furniture,Chairs,10,36,8886.00,1054.03,0.00,11.86
+FUR-CH-10000891,"Harbour Creations Executive Leather Armchair, Black",Furniture,Chairs,8,45,11430.00,772.88,0.00,6.76
+FUR-CH-10000892,"SAFCO Executive Leather Armchair, Red",Furniture,Chairs,5,30,7997.00,-1046.28,0.00,-13.08
+FUR-CH-10000920,"Novimex Executive Leather Armchair, Adjustable",Furniture,Chairs,1,2,243.00,-230.82,1.00,-94.99
+FUR-CH-10000932,"Harbour Creations Executive Leather Armchair, Red",Furniture,Chairs,5,28,8185.00,3387.83,0.00,41.39
+FUR-CH-10000953,"Harbour Creations Swivel Stool, Black",Furniture,Chairs,8,40,3861.00,-592.60,0.00,-15.35
+FUR-CH-10000966,"Harbour Creations Chairmat, Set of Two",Furniture,Chairs,6,23,1516.00,28.44,0.17,1.88
+FUR-CH-10000969,"Hon Executive Leather Armchair, Red",Furniture,Chairs,4,8,3078.00,-597.21,0.00,-19.40
+FUR-CH-10000974,"Harbour Creations Executive Leather Armchair, Black",Furniture,Chairs,7,24,9386.00,1430.24,0.00,15.24
+FUR-CH-10000981,"Novimex Swivel Stool, Set of Two",Furniture,Chairs,1,5,750.00,-41.81,0.00,-5.57
+FUR-CH-10000988,"Hon Olson Stacker Stools",Furniture,Chairs,10,44,5294.00,833.59,0.00,15.75
+FUR-CH-10000994,"Harbour Creations Rocking Chair, Black",Furniture,Chairs,10,41,5302.00,378.10,0.00,7.13
+FUR-CH-10000994,"Office Star Steel Folding Chair, Red",Furniture,Chairs,2,6,550.00,32.94,0.00,5.99
+FUR-CH-10000996,"Harbour Creations Steel Folding Chair, Black",Furniture,Chairs,6,24,1322.00,-127.33,0.00,-9.63
+FUR-CH-10001021,"Office Star Rocking Chair, Red",Furniture,Chairs,1,3,282.00,118.32,0.00,41.96
+FUR-CH-10001037,"SAFCO Chairmat, Adjustable",Furniture,Chairs,3,14,804.00,122.98,0.00,15.30
+FUR-CH-10001039,"Harbour Creations Rocking Chair, Adjustable",Furniture,Chairs,5,20,2064.00,29.60,0.20,1.43
+FUR-CH-10001043,"Harbour Creations Bag Chairs, Red",Furniture,Chairs,2,9,259.00,-57.37,0.50,-22.15
+FUR-CH-10001044,"Harbour Creations Steel Folding Chair, Adjustable",Furniture,Chairs,7,23,1298.00,-179.74,0.00,-13.85
+FUR-CH-10001051,"Hon Chairmat, Red",Furniture,Chairs,5,21,973.00,-31.19,0.20,-3.21
+FUR-CH-10001114,"Hon Chairmat, Set of Two",Furniture,Chairs,8,32,1095.00,415.57,0.00,37.95
+FUR-CH-10001130,"Harbour Creations Swivel Stool, Set of Two",Furniture,Chairs,10,35,3770.00,66.68,0.00,1.77
+FUR-CH-10001138,"Office Star Swivel Stool, Black",Furniture,Chairs,6,16,2266.00,646.12,0.00,28.51
+FUR-CH-10001146,"Global Task Chair, Black",Furniture,Chairs,5,12,462.00,-80.41,0.00,-17.40
+FUR-CH-10001146,"Global Value Mid-Back Manager's Chair, Gray",Furniture,Chairs,10,39,1979.00,197.90,0.00,10.00
+FUR-CH-10001147,"Hon Swivel Stool, Adjustable",Furniture,Chairs,8,30,4288.00,-247.92,0.00,-5.78
+FUR-CH-10001150,"SAFCO Steel Folding Chair, Red",Furniture,Chairs,4,15,1140.00,458.20,0.00,40.19
+FUR-CH-10001153,"Harbour Creations Bag Chairs, Adjustable",Furniture,Chairs,5,19,961.00,303.87,0.00,31.62
+FUR-CH-10001187,"Novimex Chairmat, Set of Two",Furniture,Chairs,1,6,352.00,129.96,0.00,36.92
+FUR-CH-10001190,"Global Deluxe High-Back Office Chair in Storm",Furniture,Chairs,3,10,1088.00,-149.60,0.00,-13.75
+FUR-CH-10001191,"Hon Bag Chairs, Adjustable",Furniture,Chairs,1,2,57.00,-15.25,0.00,-26.75
+FUR-CH-10001191,"Office Star Steel Folding Chair, Red",Furniture,Chairs,1,5,122.00,-149.82,1.00,-122.80
+FUR-CH-10001203,"Novimex Steel Folding Chair, Set of Two",Furniture,Chairs,8,32,2333.00,-262.51,0.00,-11.25
+FUR-CH-10001204,"Harbour Creations Steel Folding Chair, Red",Furniture,Chairs,6,12,976.00,260.18,0.00,26.66
+FUR-CH-10001207,"Hon Executive Leather Armchair, Red",Furniture,Chairs,5,18,7323.00,293.49,0.00,4.01
+FUR-CH-10001215,"Global Troy Executive Leather Low-Back Tilter",Furniture,Chairs,9,32,12976.00,951.88,0.00,7.34
+FUR-CH-10001220,"Harbour Creations Chairmat, Set of Two",Furniture,Chairs,1,4,178.00,-115.92,0.00,-65.12
+FUR-CH-10001237,"Hon Swivel Stool, Black",Furniture,Chairs,5,22,3191.00,637.95,0.00,19.99
+FUR-CH-10001262,"Novimex Bag Chairs, Red",Furniture,Chairs,8,25,620.00,-70.56,0.00,-11.38
+FUR-CH-10001262,"Office Star Rocking Chair, Set of Two",Furniture,Chairs,2,9,1288.00,257.58,0.00,20.00
+FUR-CH-10001270,"Harbour Creations Steel Folding Chair",Furniture,Chairs,8,34,2391.00,336.39,0.00,14.07
+FUR-CH-10001270,"SAFCO Rocking Chair, Black",Furniture,Chairs,5,31,2279.00,662.93,0.00,29.09
+FUR-CH-10001271,"SAFCO Executive Leather Armchair, Red",Furniture,Chairs,4,14,5676.00,1088.77,0.00,19.18
+FUR-CH-10001278,"SAFCO Chairmat, Black",Furniture,Chairs,5,18,810.00,-172.52,0.20,-21.30
+FUR-CH-10001282,"Hon Bag Chairs, Adjustable",Furniture,Chairs,10,35,781.00,-74.80,0.00,-9.58
+FUR-CH-10001313,"SAFCO Steel Folding Chair, Black",Furniture,Chairs,7,28,1959.00,697.08,0.00,35.58
+FUR-CH-10001317,"Harbour Creations Rocking Chair, Red",Furniture,Chairs,1,1,88.00,-20.62,0.00,-23.43
+FUR-CH-10001322,"Harbour Creations Executive Leather Armchair, Adjustable",Furniture,Chairs,6,18,7536.00,852.00,0.00,11.31
+FUR-CH-10001332,"Hon Chairmat, Black",Furniture,Chairs,3,21,595.00,-52.08,0.00,-8.75
+FUR-CH-10001332,"Office Star Executive Leather Armchair, Red",Furniture,Chairs,5,25,6825.00,-375.98,0.00,-5.51
+FUR-CH-10001343,"SAFCO Swivel Stool, Set of Two",Furniture,Chairs,6,26,2540.00,564.98,0.00,22.24
+FUR-CH-10001347,"SAFCO Steel Folding Chair, Black",Furniture,Chairs,1,5,111.00,-163.86,1.00,-147.62
+FUR-CH-10001374,"Novimex Steel Folding Chair, Black",Furniture,Chairs,11,41,1831.00,630.42,0.00,34.43
+FUR-CH-10001382,"Office Star Chairmat, Red",Furniture,Chairs,9,33,1885.00,777.29,0.00,41.24
+FUR-CH-10001394,"Global Leather Executive Chair",Furniture,Chairs,7,21,5862.00,701.99,0.00,11.98
+FUR-CH-10001397,"SAFCO Chairmat, Set of Two",Furniture,Chairs,7,21,1169.00,322.04,0.00,27.55
+FUR-CH-10001414,"Hon Chairmat, Red",Furniture,Chairs,1,2,111.00,27.72,0.00,24.97
+FUR-CH-10001415,"Office Star Executive Leather Armchair, Red",Furniture,Chairs,7,27,11765.00,3015.05,0.00,25.63
+FUR-CH-10001423,"Harbour Creations Rocking Chair, Black",Furniture,Chairs,9,29,2353.00,339.37,0.00,14.42
+FUR-CH-10001429,"SAFCO Executive Leather Armchair, Adjustable",Furniture,Chairs,4,12,4965.00,-213.58,0.00,-4.30
+FUR-CH-10001455,"Office Star Swivel Stool, Adjustable",Furniture,Chairs,11,40,4069.00,352.84,0.09,8.67
+FUR-CH-10001465,"Hon Swivel Stool, Red",Furniture,Chairs,8,23,3447.00,1413.73,0.00,41.01
+FUR-CH-10001477,"Novimex Chairmat, Black",Furniture,Chairs,9,40,1999.00,769.53,0.00,38.50
+FUR-CH-10001482,"Office Star - Mesh Screen back chair with Vinyl seat",Furniture,Chairs,7,20,2200.00,-130.98,0.00,-5.95
+FUR-CH-10001490,"Novimex Executive Leather Armchair, Red",Furniture,Chairs,6,27,6319.00,1598.32,0.17,25.29
+FUR-CH-10001492,"Novimex Executive Leather Armchair, Adjustable",Furniture,Chairs,5,12,3069.00,969.84,0.00,31.60
+FUR-CH-10001536,"Harbour Creations Chairmat, Red",Furniture,Chairs,1,2,144.00,67.68,0.00,47.00
+FUR-CH-10001536,"Harbour Creations Swivel Stool, Red",Furniture,Chairs,1,3,144.00,-111.68,1.00,-77.56
+FUR-CH-10001545,"Hon Comfortask Task/Swivel Chairs",Furniture,Chairs,6,18,1687.00,-36.47,0.00,-2.16
+FUR-CH-10001553,"Hon Bag Chairs, Adjustable",Furniture,Chairs,3,20,876.00,133.18,0.00,15.20
+FUR-CH-10001559,"SAFCO Executive Leather Armchair, Black",Furniture,Chairs,1,4,1836.00,238.68,0.00,13.00
+FUR-CH-10001582,"Office Star Executive Leather Armchair, Black",Furniture,Chairs,5,22,6498.00,-3066.78,0.20,-47.20
+FUR-CH-10001588,"Hon Executive Leather Armchair, Red",Furniture,Chairs,2,14,3430.00,600.16,0.00,17.50
+FUR-CH-10001607,"Novimex Swivel Stool, Set of Two",Furniture,Chairs,5,13,1268.00,356.73,0.00,28.13
+FUR-CH-10001616,"Harbour Creations Bag Chairs, Red",Furniture,Chairs,7,20,672.00,73.72,0.00,10.97
+FUR-CH-10001634,"Novimex Rocking Chair, Adjustable",Furniture,Chairs,9,40,3073.00,-143.16,0.00,-4.66
+FUR-CH-10001647,"Novimex Swivel Stool, Black",Furniture,Chairs,11,31,2721.00,-291.71,0.00,-10.72
+FUR-CH-10001658,"SAFCO Chairmat, Adjustable",Furniture,Chairs,13,47,1653.00,-202.28,0.00,-12.24
+FUR-CH-10001663,"SAFCO Chairmat, Set of Two",Furniture,Chairs,1,3,149.00,33.50,0.00,22.48
+FUR-CH-10001664,"Novimex Swivel Stool, Black",Furniture,Chairs,14,63,9365.00,1404.38,0.00,15.00
+FUR-CH-10001674,"Office Star Chairmat, Adjustable",Furniture,Chairs,8,30,1891.00,642.10,0.00,33.96
+FUR-CH-10001675,"Office Star Steel Folding Chair, Adjustable",Furniture,Chairs,8,35,1808.00,50.24,0.13,2.78
+FUR-CH-10001684,"Office Star Rocking Chair, Adjustable",Furniture,Chairs,6,31,3925.00,-432.19,0.00,-11.01
+FUR-CH-10001695,"Harbour Creations Chairmat, Set of Two",Furniture,Chairs,7,25,1679.00,-158.73,0.00,-9.45
+FUR-CH-10001701,"Hon Chairmat, Set of Two",Furniture,Chairs,1,1,15.00,-5.79,1.00,-38.60
+FUR-CH-10001708,"Office Star - Contemporary Swivel Chair with Padded Adjustable Arms and Flex Back",Furniture,Chairs,7,32,3990.00,425.76,0.00,10.67
+FUR-CH-10001714,"Global Leather & Oak Executive Chair, Burgundy",Furniture,Chairs,5,13,1689.00,-114.67,0.00,-6.79
+FUR-CH-10001726,"Office Star Steel Folding Chair, Adjustable",Furniture,Chairs,6,36,2760.00,996.42,0.00,36.10
+FUR-CH-10001752,"Harbour Creations Steel Folding Chair, Black",Furniture,Chairs,6,23,1768.00,33.26,0.00,1.88
+FUR-CH-10001756,"Novimex Bag Chairs, Adjustable",Furniture,Chairs,11,55,2274.00,755.09,0.00,33.21
+FUR-CH-10001784,"SAFCO Bag Chairs, Adjustable",Furniture,Chairs,2,10,363.00,-62.49,0.50,-17.21
+FUR-CH-10001784,"SAFCO Steel Folding Chair, Set of Two",Furniture,Chairs,7,45,2358.00,958.73,0.00,40.66
+FUR-CH-10001795,"SAFCO Steel Folding Chair, Red",Furniture,Chairs,8,31,1496.00,327.74,0.00,21.91
+FUR-CH-10001797,"Harbour Creations Bag Chairs, Adjustable",Furniture,Chairs,8,21,1188.00,352.57,0.00,29.68
+FUR-CH-10001797,"Safco Chair Connectors, 6/Carton",Furniture,Chairs,4,26,881.00,170.85,0.00,19.39
+FUR-CH-10001802,"Hon Every-Day Chair Series Swivel Task Chairs",Furniture,Chairs,3,10,968.00,12.10,0.00,1.25
+FUR-CH-10001802,"Novimex Rocking Chair, Black",Furniture,Chairs,5,26,2399.00,-552.12,0.20,-23.01
+FUR-CH-10001805,"Office Star Chairmat, Set of Two",Furniture,Chairs,1,4,272.00,100.68,0.00,37.01
+FUR-CH-10001810,"Harbour Creations Chairmat, Red",Furniture,Chairs,4,19,778.00,-97.92,0.00,-12.59
+FUR-CH-10001819,"Office Star Chairmat, Set of Two",Furniture,Chairs,12,45,1915.00,729.74,0.00,38.11
+FUR-CH-10001831,"Novimex Rocking Chair, Set of Two",Furniture,Chairs,5,17,1964.00,-57.56,0.20,-2.93
+FUR-CH-10001832,"Novimex Rocking Chair, Red",Furniture,Chairs,7,29,3063.00,-444.65,0.00,-14.52
+FUR-CH-10001854,"Office Star - Professional Matrix Back Chair with 2-to-1 Synchro Tilt and Mesh Fabric Seat",Furniture,Chairs,8,28,8775.00,1305.66,0.00,14.88
+FUR-CH-10001871,"Harbour Creations Steel Folding Chair, Set of Two",Furniture,Chairs,7,37,3167.00,-315.76,0.00,-9.97
+FUR-CH-10001891,"Global Deluxe Office Fabric Chairs",Furniture,Chairs,6,17,1420.00,229.39,0.00,16.15
+FUR-CH-10001895,"Hon Chairmat, Adjustable",Furniture,Chairs,6,14,766.00,359.72,0.00,46.96
+FUR-CH-10001897,"Hon Executive Leather Armchair, Adjustable",Furniture,Chairs,7,25,5883.00,-409.59,0.00,-6.96
+FUR-CH-10001913,"Office Star Swivel Stool, Adjustable",Furniture,Chairs,8,34,4781.00,-438.09,0.00,-9.16
+FUR-CH-10001914,"Harbour Creations Bag Chairs, Black",Furniture,Chairs,7,27,940.00,86.48,0.00,9.20
+FUR-CH-10001919,"Harbour Creations Steel Folding Chair, Red",Furniture,Chairs,1,2,196.00,76.32,0.00,38.94
+FUR-CH-10001944,"Harbour Creations Rocking Chair, Red",Furniture,Chairs,3,8,608.00,-121.63,0.00,-20.00
+FUR-CH-10001972,"Hon Chairmat, Adjustable",Furniture,Chairs,4,21,627.00,0.81,0.00,0.13
+FUR-CH-10001973,"Office Star Flex Back Scooter Chair with White Frame",Furniture,Chairs,7,21,1775.00,-228.60,0.00,-12.88
+FUR-CH-10001975,"Hon Swivel Stool, Red",Furniture,Chairs,4,14,1200.00,-128.78,0.00,-10.73
+FUR-CH-10002002,"Hon Rocking Chair, Black",Furniture,Chairs,6,23,2205.00,376.36,0.33,17.07
+FUR-CH-10002010,"Office Star Bag Chairs, Adjustable",Furniture,Chairs,8,30,996.00,312.39,0.13,31.36
+FUR-CH-10002017,"SAFCO Optional Arm Kit for Workspace Cribbage Stacking Chair",Furniture,Chairs,5,12,246.00,14.91,0.00,6.06
+FUR-CH-10002024,"HON 5400 Series Task Chairs for Big and Tall",Furniture,Chairs,8,39,21870.00,0.00,0.00,0.00
+FUR-CH-10002030,"Office Star Swivel Stool, Red",Furniture,Chairs,5,11,1513.00,-304.69,0.20,-20.14
+FUR-CH-10002033,"Harbour Creations Executive Leather Armchair, Adjustable",Furniture,Chairs,5,19,5524.00,1180.50,0.00,21.37
+FUR-CH-10002044,"Office Star - Contemporary Task Swivel chair with 2-way adjustable arms, Plum",Furniture,Chairs,2,7,694.00,-158.49,0.00,-22.84
+FUR-CH-10002045,"SAFCO Bag Chairs, Red",Furniture,Chairs,3,8,356.00,47.33,0.00,13.29
+FUR-CH-10002053,"Novimex Chairmat, Set of Two",Furniture,Chairs,2,10,557.00,64.31,0.00,11.55
+FUR-CH-10002060,"SAFCO Rocking Chair, Adjustable",Furniture,Chairs,4,20,2666.00,384.36,0.00,14.42
+FUR-CH-10002061,"Harbour Creations Executive Leather Armchair, Red",Furniture,Chairs,8,26,9385.00,-19.73,0.00,-0.21
+FUR-CH-10002073,"Hon Olson Stacker Chairs",Furniture,Chairs,4,22,5428.00,1292.12,0.00,23.80
+FUR-CH-10002084,"Hon Mobius Operator's Chair",Furniture,Chairs,5,23,2706.00,499.33,0.00,18.45
+FUR-CH-10002085,"Novimex Steel Folding Chair, Red",Furniture,Chairs,10,27,1726.00,460.77,0.10,26.70
+FUR-CH-10002088,"Novimex Steel Folding Chair, Set of Two",Furniture,Chairs,7,27,1272.00,116.69,0.00,9.17
+FUR-CH-10002090,"Hon Swivel Stool, Adjustable",Furniture,Chairs,3,8,1280.00,122.72,0.00,9.59
+FUR-CH-10002091,"Harbour Creations Swivel Stool, Set of Two",Furniture,Chairs,9,27,4632.00,1381.68,0.00,29.83
+FUR-CH-10002093,"Harbour Creations Rocking Chair, Adjustable",Furniture,Chairs,6,23,2173.00,705.58,0.00,32.47
+FUR-CH-10002116,"SAFCO Rocking Chair, Black",Furniture,Chairs,3,5,569.00,-19.99,0.00,-3.51
+FUR-CH-10002117,"Hon Steel Folding Chair, Red",Furniture,Chairs,7,36,2428.00,610.30,0.00,25.14
+FUR-CH-10002126,"Hon Deluxe Fabric Upholstered Stacking Chairs",Furniture,Chairs,4,15,2586.00,-48.80,0.00,-1.89
+FUR-CH-10002132,"Hon Rocking Chair, Black",Furniture,Chairs,13,41,3144.00,1322.88,0.00,42.08
+FUR-CH-10002152,"Hon Bag Chairs, Set of Two",Furniture,Chairs,2,8,166.00,-167.94,0.50,-101.17
+FUR-CH-10002188,"SAFCO Steel Folding Chair, Set of Two",Furniture,Chairs,3,9,721.00,261.12,0.00,36.22
+FUR-CH-10002203,"SAFCO Executive Leather Armchair, Black",Furniture,Chairs,5,30,12301.00,5003.10,0.00,40.67
+FUR-CH-10002207,"Hon Chairmat, Set of Two",Furniture,Chairs,6,26,1409.00,567.06,0.00,40.25
+FUR-CH-10002209,"Novimex Chairmat, Red",Furniture,Chairs,7,25,1247.00,233.18,0.00,18.70
+FUR-CH-10002212,"Hon Chairmat, Black",Furniture,Chairs,4,28,1375.00,-52.71,0.00,-3.83
+FUR-CH-10002212,"Novimex Swivel Stool, Adjustable",Furniture,Chairs,4,9,1068.00,-313.93,0.25,-29.39
+FUR-CH-10002213,"Hon Executive Leather Armchair, Black",Furniture,Chairs,12,45,16702.00,-1811.36,0.00,-10.85
+FUR-CH-10002224,"Hon Rocking Chair, Set of Two",Furniture,Chairs,9,31,3768.00,-186.17,0.00,-4.94
+FUR-CH-10002226,"Hon Steel Folding Chair, Black",Furniture,Chairs,1,4,84.00,-75.90,1.00,-90.36
+FUR-CH-10002228,"Harbour Creations Steel Folding Chair, Set of Two",Furniture,Chairs,1,4,240.00,-136.22,0.00,-56.76
+FUR-CH-10002247,"Hon Executive Leather Armchair, Adjustable",Furniture,Chairs,11,41,17122.00,1855.70,0.00,10.84
+FUR-CH-10002250,"Office Star Executive Leather Armchair, Black",Furniture,Chairs,10,37,15289.00,6123.26,0.00,40.05
+FUR-CH-10002273,"Harbour Creations Rocking Chair, Black",Furniture,Chairs,1,6,521.00,-199.76,0.00,-38.34
+FUR-CH-10002275,"Novimex Executive Leather Armchair, Adjustable",Furniture,Chairs,1,8,1473.00,-1694.59,1.00,-115.04
+FUR-CH-10002288,"SAFCO Bag Chairs, Red",Furniture,Chairs,5,17,731.00,-50.11,0.20,-6.85
+FUR-CH-10002291,"Hon Bag Chairs, Set of Two",Furniture,Chairs,11,56,1435.00,178.00,0.00,12.40
+FUR-CH-10002297,"Novimex Bag Chairs, Set of Two",Furniture,Chairs,7,26,744.00,18.16,0.00,2.44
+FUR-CH-10002304,"Global Stack Chair without Arms, Black",Furniture,Chairs,7,44,902.00,44.17,0.00,4.90
+FUR-CH-10002316,"Harbour Creations Bag Chairs, Red",Furniture,Chairs,3,12,641.00,182.21,0.00,28.43
+FUR-CH-10002317,"Global Enterprise Series Seating Low-Back Swivel/Tilt Chairs",Furniture,Chairs,1,1,207.00,25.90,0.00,12.51
+FUR-CH-10002320,"Hon Pagoda Stacking Chairs",Furniture,Chairs,4,22,6484.00,1540.70,0.00,23.76
+FUR-CH-10002331,"Hon 4700 Series Mobuis Mid-Back Task Chairs with Adjustable Arms",Furniture,Chairs,6,24,7583.00,833.00,0.00,10.99
+FUR-CH-10002335,"Hon Bag Chairs, Set of Two",Furniture,Chairs,1,6,284.00,68.22,0.00,24.02
+FUR-CH-10002335,"Hon GuestStacker Chair",Furniture,Chairs,9,34,6936.00,1233.07,0.00,17.78
+FUR-CH-10002335,"Hon Steel Folding Chair, Red",Furniture,Chairs,4,13,863.00,301.84,0.00,34.98
+FUR-CH-10002344,"Novimex Rocking Chair, Adjustable",Furniture,Chairs,4,13,1635.00,606.56,0.00,37.10
+FUR-CH-10002362,"Hon Bag Chairs, Red",Furniture,Chairs,1,2,54.00,2.70,0.00,5.00
+FUR-CH-10002372,"Office Star - Ergonomically Designed Knee Chair",Furniture,Chairs,7,19,1312.00,-42.11,0.00,-3.21
+FUR-CH-10002373,"Office Star Rocking Chair, Set of Two",Furniture,Chairs,2,6,858.00,34.20,0.00,3.99
+FUR-CH-10002374,"SAFCO Bag Chairs, Black",Furniture,Chairs,7,24,607.00,-46.72,0.00,-7.70
+FUR-CH-10002378,"Harbour Creations Swivel Stool, Black",Furniture,Chairs,5,13,1564.00,15.76,0.40,1.01
+FUR-CH-10002410,"Office Star Rocking Chair, Red",Furniture,Chairs,4,8,789.00,-214.35,0.00,-27.17
+FUR-CH-10002412,"Hon Bag Chairs, Black",Furniture,Chairs,10,39,1401.00,-246.78,0.00,-17.61
+FUR-CH-10002417,"Hon Rocking Chair, Red",Furniture,Chairs,1,6,470.00,-7.85,0.00,-1.67
+FUR-CH-10002435,"Novimex Executive Leather Armchair, Black",Furniture,Chairs,1,2,550.00,-338.94,0.00,-61.63
+FUR-CH-10002438,"SAFCO Executive Leather Armchair, Red",Furniture,Chairs,1,3,369.00,-535.30,1.00,-145.07
+FUR-CH-10002439,"Iceberg Nesting Folding Chair, 19w x 6d x 43h",Furniture,Chairs,6,31,1589.00,253.85,0.00,15.98
+FUR-CH-10002468,"Hon Rocking Chair, Adjustable",Furniture,Chairs,7,23,2835.00,569.30,0.00,20.08
+FUR-CH-10002477,"Harbour Creations Executive Leather Armchair, Red",Furniture,Chairs,4,9,3854.00,1241.94,0.00,32.22
+FUR-CH-10002481,"Hon Executive Leather Armchair, Adjustable",Furniture,Chairs,1,3,368.00,-284.98,1.00,-77.44
+FUR-CH-10002498,"Harbour Creations Steel Folding Chair, Red",Furniture,Chairs,6,16,1183.00,41.10,0.17,3.47
+FUR-CH-10002510,"Office Star Steel Folding Chair, Adjustable",Furniture,Chairs,5,25,1987.00,714.68,0.00,35.97
+FUR-CH-10002542,"Office Star Steel Folding Chair, Set of Two",Furniture,Chairs,3,10,539.00,-0.10,0.00,-0.02
+FUR-CH-10002543,"SAFCO Steel Folding Chair, Set of Two",Furniture,Chairs,2,14,563.00,-139.30,0.50,-24.74
+FUR-CH-10002547,"Office Star Steel Folding Chair, Red",Furniture,Chairs,11,41,2105.00,-128.00,0.00,-6.08
+FUR-CH-10002555,"Novimex Rocking Chair, Black",Furniture,Chairs,9,40,2873.00,602.00,0.00,20.95
+FUR-CH-10002573,"Office Star Executive Leather Armchair, Adjustable",Furniture,Chairs,12,34,14416.00,1292.70,0.00,8.97
+FUR-CH-10002574,"Office Star Chairmat, Black",Furniture,Chairs,2,7,298.00,-21.69,0.00,-7.28
+FUR-CH-10002585,"Harbour Creations Executive Leather Armchair, Black",Furniture,Chairs,4,12,5540.00,1506.00,0.00,27.18
+FUR-CH-10002589,"SAFCO Steel Folding Chair, Red",Furniture,Chairs,3,14,1199.00,239.82,0.00,20.00
+FUR-CH-10002602,"DMI Arturo Collection Mission-style Design Wood Chair",Furniture,Chairs,11,37,4621.00,486.15,0.00,10.52
+FUR-CH-10002610,"Novimex Swivel Stool, Black",Furniture,Chairs,10,32,4698.00,-330.58,0.00,-7.04
+FUR-CH-10002626,"Hon Steel Folding Chair, Adjustable",Furniture,Chairs,10,30,2202.00,914.16,0.00,41.51
+FUR-CH-10002631,"Office Star Bag Chairs, Black",Furniture,Chairs,8,28,1458.00,107.06,0.00,7.34
+FUR-CH-10002647,"Novimex Rocking Chair, Red",Furniture,Chairs,5,17,2063.00,231.02,0.00,11.20
+FUR-CH-10002647,"Situations Contoured Folding Chairs, 4/Set",Furniture,Chairs,15,64,3641.00,234.24,0.00,6.43
+FUR-CH-10002653,"Office Star Rocking Chair, Adjustable",Furniture,Chairs,13,53,4186.00,133.84,0.00,3.20
+FUR-CH-10002693,"Harbour Creations Swivel Stool, Set of Two",Furniture,Chairs,1,1,49.00,-57.15,1.00,-116.63
+FUR-CH-10002727,"SAFCO Bag Chairs, Set of Two",Furniture,Chairs,7,24,641.00,219.04,0.00,34.17
+FUR-CH-10002743,"Novimex Chairmat, Adjustable",Furniture,Chairs,2,8,411.00,-58.83,0.00,-14.31
+FUR-CH-10002749,"SAFCO Chairmat, Black",Furniture,Chairs,7,22,1117.00,68.15,0.00,6.10
+FUR-CH-10002752,"Harbour Creations Bag Chairs, Set of Two",Furniture,Chairs,3,9,364.00,-26.91,0.00,-7.39
+FUR-CH-10002758,"Hon Deluxe Fabric Upholstered Stacking Chairs, Squared Back",Furniture,Chairs,2,7,1269.00,73.19,0.00,5.77
+FUR-CH-10002768,"Office Star Swivel Stool, Black",Furniture,Chairs,6,12,1211.00,-77.75,0.00,-6.42
+FUR-CH-10002774,"Global Deluxe Stacking Chair, Gray",Furniture,Chairs,7,19,764.00,76.97,0.00,10.07
+FUR-CH-10002780,"Office Star - Task Chair with Contemporary Loop Arms",Furniture,Chairs,2,8,601.00,47.31,0.00,7.87
+FUR-CH-10002780,"Office Star Executive Leather Armchair, Black",Furniture,Chairs,5,27,6233.00,-1256.32,0.00,-20.16
+FUR-CH-10002782,"Office Star Executive Leather Armchair, Adjustable",Furniture,Chairs,5,14,5781.00,-75.20,0.00,-1.30
+FUR-CH-10002793,"Office Star Bag Chairs, Adjustable",Furniture,Chairs,3,6,256.00,14.96,0.00,5.84
+FUR-CH-10002816,"Harbour Creations Swivel Stool, Adjustable",Furniture,Chairs,1,3,548.00,153.36,0.00,27.99
+FUR-CH-10002817,"Harbour Creations Chairmat, Set of Two",Furniture,Chairs,1,3,59.00,-44.58,1.00,-75.56
+FUR-CH-10002819,"SAFCO Chairmat, Red",Furniture,Chairs,6,25,1000.00,-183.00,0.17,-18.30
+FUR-CH-10002830,"Office Star Rocking Chair, Red",Furniture,Chairs,7,24,3100.00,1104.19,0.00,35.62
+FUR-CH-10002846,"Hon Steel Folding Chair, Black",Furniture,Chairs,8,27,1211.00,130.10,0.00,10.74
+FUR-CH-10002872,"SAFCO Executive Leather Armchair, Adjustable",Furniture,Chairs,9,21,8547.00,-515.26,0.00,-6.03
+FUR-CH-10002880,"Global High-Back Leather Tilter, Burgundy",Furniture,Chairs,14,54,5436.00,-474.74,0.00,-8.73
+FUR-CH-10002882,"Harbour Creations Bag Chairs, Adjustable",Furniture,Chairs,8,36,1206.00,297.35,0.00,24.66
+FUR-CH-10002890,"Office Star Chairmat, Adjustable",Furniture,Chairs,6,21,1399.00,91.63,0.00,6.55
+FUR-CH-10002891,"Hon Executive Leather Armchair, Adjustable",Furniture,Chairs,4,21,8413.00,-86.55,0.00,-1.03
+FUR-CH-10002923,"SAFCO Rocking Chair, Set of Two",Furniture,Chairs,1,2,274.00,63.06,0.00,23.01
+FUR-CH-10002924,"Novimex Steel Folding Chair, Set of Two",Furniture,Chairs,1,3,68.00,-60.88,1.00,-89.53
+FUR-CH-10002927,"Office Star Swivel Stool, Black",Furniture,Chairs,2,7,652.00,-140.80,0.50,-21.60
+FUR-CH-10002932,"Harbour Creations Rocking Chair, Adjustable",Furniture,Chairs,8,18,2237.00,-187.30,0.00,-8.37
+FUR-CH-10002938,"Novimex Chairmat, Red",Furniture,Chairs,1,1,34.00,-6.79,0.00,-19.97
+FUR-CH-10002940,"Harbour Creations Chairmat, Black",Furniture,Chairs,9,35,2144.00,-23.05,0.00,-1.08
+FUR-CH-10002944,"Office Star Steel Folding Chair, Black",Furniture,Chairs,8,32,2654.00,-32.67,0.00,-1.23
+FUR-CH-10002961,"Leather Task Chair, Black",Furniture,Chairs,6,19,1438.00,54.59,0.00,3.80
+FUR-CH-10002965,"Global Leather Highback Executive Chair with Pneumatic Height Adjustment, Black",Furniture,Chairs,10,37,5708.00,279.35,0.00,4.89
+FUR-CH-10002966,"Harbour Creations Swivel Stool, Red",Furniture,Chairs,11,34,5300.00,-639.54,0.00,-12.07
+FUR-CH-10002970,"Harbour Creations Chairmat, Black",Furniture,Chairs,7,44,2240.00,-179.41,0.29,-8.01
+FUR-CH-10002974,"SAFCO Rocking Chair, Red",Furniture,Chairs,4,12,1498.00,-40.77,0.00,-2.72
+FUR-CH-10002980,"Hon Executive Leather Armchair, Red",Furniture,Chairs,2,10,3492.00,-413.74,0.00,-11.85
+FUR-CH-10002989,"SAFCO Bag Chairs, Adjustable",Furniture,Chairs,3,10,353.00,-83.37,0.00,-23.62
+FUR-CH-10002991,"Novimex Steel Folding Chair, Adjustable",Furniture,Chairs,5,19,1517.00,131.95,0.00,8.70
+FUR-CH-10003009,"Novimex Swivel Stool, Adjustable",Furniture,Chairs,11,37,6022.00,1387.09,0.00,23.03
+FUR-CH-10003026,"Novimex Bag Chairs, Adjustable",Furniture,Chairs,4,10,412.00,48.22,0.00,11.70
+FUR-CH-10003033,"Novimex Rocking Chair, Adjustable",Furniture,Chairs,3,19,1380.00,-173.31,0.33,-12.56
+FUR-CH-10003054,"Novimex Executive Leather Armchair, Adjustable",Furniture,Chairs,2,6,2460.00,81.83,0.00,3.33
+FUR-CH-10003061,"Global Leather Task Chair, Black",Furniture,Chairs,8,19,1449.00,63.89,0.00,4.41
+FUR-CH-10003062,"Novimex Chairmat, Red",Furniture,Chairs,4,16,551.00,-79.07,0.50,-14.35
+FUR-CH-10003077,"SAFCO Bag Chairs, Adjustable",Furniture,Chairs,9,35,948.00,221.30,0.11,23.34
+FUR-CH-10003097,"Hon Rocking Chair, Black",Furniture,Chairs,6,29,3126.00,263.38,0.00,8.43
+FUR-CH-10003107,"Office Star Swivel Stool, Red",Furniture,Chairs,10,31,3085.00,496.04,0.00,16.08
+FUR-CH-10003109,"Office Star Rocking Chair, Set of Two",Furniture,Chairs,12,42,3417.00,329.76,0.00,9.65
+FUR-CH-10003114,"Harbour Creations Swivel Stool, Red",Furniture,Chairs,7,22,2556.00,-18.29,0.29,-0.72
+FUR-CH-10003123,"Hon Chairmat, Black",Furniture,Chairs,5,16,805.00,99.40,0.00,12.35
+FUR-CH-10003143,"Harbour Creations Bag Chairs, Black",Furniture,Chairs,1,2,118.00,57.96,0.00,49.12
+FUR-CH-10003155,"Harbour Creations Bag Chairs, Red",Furniture,Chairs,1,3,49.00,-40.70,1.00,-83.06
+FUR-CH-10003168,"Office Star Swivel Stool, Set of Two",Furniture,Chairs,1,2,317.00,70.42,0.00,22.21
+FUR-CH-10003180,"Novimex Steel Folding Chair, Adjustable",Furniture,Chairs,1,2,45.00,-66.66,1.00,-148.13
+FUR-CH-10003195,"Hon Rocking Chair, Red",Furniture,Chairs,7,20,1513.00,-104.80,0.00,-6.93
+FUR-CH-10003199,"Office Star - Contemporary Task Swivel Chair",Furniture,Chairs,6,20,1842.00,155.37,0.00,8.43
+FUR-CH-10003232,"Harbour Creations Executive Leather Armchair, Adjustable",Furniture,Chairs,6,29,11426.00,2133.65,0.00,18.67
+FUR-CH-10003248,"SAFCO Bag Chairs, Black",Furniture,Chairs,6,25,757.00,-218.89,0.17,-28.92
+FUR-CH-10003249,"Novimex Chairmat, Adjustable",Furniture,Chairs,3,16,900.00,316.42,0.00,35.16
+FUR-CH-10003249,"Office Star Steel Folding Chair, Black",Furniture,Chairs,9,51,3615.00,-937.43,0.00,-25.93
+FUR-CH-10003282,"SAFCO Bag Chairs, Black",Furniture,Chairs,3,13,535.00,137.56,0.00,25.71
+FUR-CH-10003298,"Office Star - Contemporary Task Swivel chair with Loop Arms, Charcoal",Furniture,Chairs,9,35,3680.00,-491.17,0.00,-13.35
+FUR-CH-10003312,"Hon 2090 “Pillow Soft” Series Mid Back Swivel/Tilt Chairs",Furniture,Chairs,6,24,5283.00,-989.04,0.00,-18.72
+FUR-CH-10003312,"SAFCO Swivel Stool, Adjustable",Furniture,Chairs,1,2,341.00,122.70,0.00,35.98
+FUR-CH-10003336,"SAFCO Chairmat, Adjustable",Furniture,Chairs,8,24,1219.00,-37.62,0.00,-3.09
+FUR-CH-10003341,"Office Star Chairmat, Red",Furniture,Chairs,1,2,132.00,64.50,0.00,48.86
+FUR-CH-10003353,"Hon Executive Leather Armchair, Black",Furniture,Chairs,2,8,976.00,-658.37,1.00,-67.46
+FUR-CH-10003354,"Harbour Creations Swivel Stool, Red",Furniture,Chairs,17,59,6339.00,1309.89,0.00,20.66
+FUR-CH-10003354,"Novimex Bag Chairs, Black",Furniture,Chairs,11,47,1845.00,-181.82,0.00,-9.85
+FUR-CH-10003355,"Harbour Creations Chairmat, Adjustable",Furniture,Chairs,5,18,1146.00,315.54,0.00,27.53
+FUR-CH-10003362,"Office Star Swivel Stool, Adjustable",Furniture,Chairs,4,13,1906.00,-158.82,0.25,-8.33
+FUR-CH-10003365,"Office Star Executive Leather Armchair, Adjustable",Furniture,Chairs,7,24,9255.00,2669.10,0.14,28.84
+FUR-CH-10003379,"Global Commerce Series High-Back Swivel/Tilt Chairs",Furniture,Chairs,9,33,7979.00,926.19,0.00,11.61
+FUR-CH-10003392,"Novimex Steel Folding Chair, Red",Furniture,Chairs,12,37,1885.00,-142.53,0.00,-7.56
+FUR-CH-10003396,"Global Deluxe Steno Chair",Furniture,Chairs,10,29,1773.00,-216.29,0.00,-12.20
+FUR-CH-10003419,"Hon Steel Folding Chair, Black",Furniture,Chairs,6,19,1007.00,-283.93,0.00,-28.20
+FUR-CH-10003423,"Novimex Rocking Chair, Set of Two",Furniture,Chairs,7,20,1515.00,374.24,0.00,24.70
+FUR-CH-10003440,"Harbour Creations Steel Folding Chair, Set of Two",Furniture,Chairs,3,7,630.00,175.18,0.00,27.81
+FUR-CH-10003448,"Harbour Creations Bag Chairs, Set of Two",Furniture,Chairs,5,17,553.00,104.74,0.00,18.94
+FUR-CH-10003485,"Hon Swivel Stool, Set of Two",Furniture,Chairs,6,24,1946.00,8.80,0.00,0.45
+FUR-CH-10003499,"SAFCO Swivel Stool, Red",Furniture,Chairs,2,7,890.00,302.29,0.50,33.97
+FUR-CH-10003508,"Novimex Swivel Stool, Set of Two",Furniture,Chairs,1,2,333.00,16.62,0.00,4.99
+FUR-CH-10003512,"Novimex Bag Chairs, Set of Two",Furniture,Chairs,6,21,930.00,251.95,0.00,27.09
+FUR-CH-10003514,"Harbour Creations Rocking Chair, Set of Two",Furniture,Chairs,10,35,2965.00,248.79,0.00,8.39
+FUR-CH-10003535,"Global Armless Task Chair, Royal Blue",Furniture,Chairs,8,28,1396.00,-20.73,0.00,-1.48
+FUR-CH-10003540,"Office Star Bag Chairs, Set of Two",Furniture,Chairs,6,29,1298.00,-291.48,0.17,-22.46
+FUR-CH-10003551,"Hon Swivel Stool, Black",Furniture,Chairs,9,49,6850.00,2739.98,0.00,40.00
+FUR-CH-10003558,"Hon Swivel Stool, Black",Furniture,Chairs,1,6,580.00,77.29,0.00,13.33
+FUR-CH-10003559,"Office Star Chairmat, Black",Furniture,Chairs,6,15,550.00,232.29,0.00,42.23
+FUR-CH-10003580,"Harbour Creations Bag Chairs, Black",Furniture,Chairs,10,33,1790.00,793.58,0.00,44.33
+FUR-CH-10003581,"Hon Executive Leather Armchair, Adjustable",Furniture,Chairs,8,22,8986.00,2582.43,0.00,28.74
+FUR-CH-10003597,"SAFCO Executive Leather Armchair, Set of Two",Furniture,Chairs,4,14,5824.00,1928.74,0.00,33.12
+FUR-CH-10003606,"SAFCO Folding Chair Trolley",Furniture,Chairs,3,6,706.00,151.33,0.00,21.43
+FUR-CH-10003608,"SAFCO Chairmat, Set of Two",Furniture,Chairs,2,8,347.00,24.79,0.00,7.14
+FUR-CH-10003616,"Novimex Executive Leather Armchair, Adjustable",Furniture,Chairs,3,13,4789.00,1376.47,0.00,28.74
+FUR-CH-10003618,"SAFCO Rocking Chair, Red",Furniture,Chairs,1,2,162.00,-29.69,0.00,-18.33
+FUR-CH-10003621,"Harbour Creations Chairmat, Adjustable",Furniture,Chairs,3,13,428.00,-70.05,0.00,-16.37
+FUR-CH-10003623,"SAFCO Steel Folding Chair, Black",Furniture,Chairs,3,10,512.00,-39.02,0.00,-7.62
+FUR-CH-10003692,"SAFCO Swivel Stool, Set of Two",Furniture,Chairs,8,33,5140.00,141.22,0.00,2.75
+FUR-CH-10003696,"Novimex Bag Chairs, Black",Furniture,Chairs,1,5,58.00,-23.26,1.00,-40.10
+FUR-CH-10003697,"Novimex Chairmat, Adjustable",Furniture,Chairs,12,54,1616.00,-269.82,0.00,-16.70
+FUR-CH-10003702,"Office Star Rocking Chair, Adjustable",Furniture,Chairs,1,8,688.00,-436.08,0.00,-63.38
+FUR-CH-10003706,"Harbour Creations Chairmat, Black",Furniture,Chairs,11,69,2857.00,200.51,0.00,7.02
+FUR-CH-10003733,"Hon Steel Folding Chair, Set of Two",Furniture,Chairs,9,49,2096.00,74.62,0.00,3.56
+FUR-CH-10003746,"Hon 4070 Series Pagoda Round Back Stacking Chairs",Furniture,Chairs,7,21,5906.00,1052.82,0.00,17.83
+FUR-CH-10003746,"Novimex Executive Leather Armchair, Black",Furniture,Chairs,2,9,3709.00,906.53,0.00,24.44
+FUR-CH-10003750,"Harbour Creations Rocking Chair, Red",Furniture,Chairs,1,5,662.00,-36.80,0.00,-5.56
+FUR-CH-10003760,"Office Star Bag Chairs, Set of Two",Furniture,Chairs,6,27,1323.00,480.09,0.00,36.29
+FUR-CH-10003761,"Global Italian Leather Office Chair",Furniture,Chairs,2,8,969.00,204.33,0.00,21.09
+FUR-CH-10003771,"Harbour Creations Steel Folding Chair, Black",Furniture,Chairs,1,4,382.00,80.16,0.00,20.98
+FUR-CH-10003772,"Office Star Chairmat, Red",Furniture,Chairs,3,13,711.00,197.23,0.00,27.74
+FUR-CH-10003774,"Global Wood Trimmed Manager's Task Chair, Khaki",Furniture,Chairs,14,59,4166.00,-503.12,0.00,-12.08
+FUR-CH-10003794,"SAFCO Bag Chairs, Set of Two",Furniture,Chairs,3,7,264.00,17.49,0.33,6.63
+FUR-CH-10003808,"Harbour Creations Steel Folding Chair, Adjustable",Furniture,Chairs,1,3,151.00,-48.24,0.00,-31.95
+FUR-CH-10003817,"Global Value Steno Chair, Gray",Furniture,Chairs,10,43,2205.00,246.01,0.00,11.16
+FUR-CH-10003822,"SAFCO Steel Folding Chair, Adjustable",Furniture,Chairs,8,34,2665.00,1075.23,0.00,40.35
+FUR-CH-10003833,"Novimex Fabric Task Chair",Furniture,Chairs,9,39,1890.00,-131.13,0.00,-6.94
+FUR-CH-10003836,"Harbour Creations Rocking Chair, Red",Furniture,Chairs,8,29,3286.00,128.77,0.00,3.92
+FUR-CH-10003841,"Harbour Creations Swivel Stool, Black",Furniture,Chairs,3,14,2008.00,714.30,0.00,35.57
+FUR-CH-10003842,"Harbour Creations Chairmat, Red",Furniture,Chairs,4,15,986.00,133.20,0.00,13.51
+FUR-CH-10003844,"Office Star Rocking Chair, Black",Furniture,Chairs,7,19,1478.00,196.51,0.00,13.30
+FUR-CH-10003846,"Hon Valutask Swivel Chairs",Furniture,Chairs,4,13,1243.00,139.35,0.00,11.21
+FUR-CH-10003846,"Office Star Swivel Stool, Set of Two",Furniture,Chairs,9,38,6026.00,-669.53,0.00,-11.11
+FUR-CH-10003848,"Office Star Rocking Chair, Adjustable",Furniture,Chairs,5,20,2036.00,200.28,0.40,9.84
+FUR-CH-10003853,"Harbour Creations Steel Folding Chair, Red",Furniture,Chairs,6,20,1071.00,-169.74,0.00,-15.85
+FUR-CH-10003861,"Novimex Rocking Chair, Set of Two",Furniture,Chairs,8,29,3204.00,1032.79,0.00,32.23
+FUR-CH-10003874,"Hon Chairmat, Red",Furniture,Chairs,1,9,133.00,-126.65,1.00,-95.23
+FUR-CH-10003875,"Office Star Swivel Stool, Set of Two",Furniture,Chairs,1,4,705.00,0.00,0.00,0.00
+FUR-CH-10003883,"Office Star Swivel Stool, Set of Two",Furniture,Chairs,6,19,2020.00,56.10,0.00,2.78
+FUR-CH-10003894,"Harbour Creations Steel Folding Chair, Adjustable",Furniture,Chairs,1,8,803.00,345.12,0.00,42.98
+FUR-CH-10003910,"Harbour Creations Chairmat, Adjustable",Furniture,Chairs,6,25,1648.00,605.96,0.00,36.77
+FUR-CH-10003941,"Novimex Executive Leather Armchair, Adjustable",Furniture,Chairs,11,42,11174.00,1226.47,0.00,10.98
+FUR-CH-10003948,"Harbour Creations Swivel Stool, Set of Two",Furniture,Chairs,2,10,1678.00,473.90,0.00,28.24
+FUR-CH-10003950,"Novimex Executive Leather Armchair, Black",Furniture,Chairs,10,37,15455.00,-981.09,0.00,-6.35
+FUR-CH-10003956,"Novimex High-Tech Fabric Mesh Task Chair",Furniture,Chairs,4,16,923.00,-133.44,0.00,-14.46
+FUR-CH-10003965,"Hon Rocking Chair, Red",Furniture,Chairs,6,35,3808.00,1018.78,0.00,26.75
+FUR-CH-10003968,"Novimex Turbo Task Chair",Furniture,Chairs,6,22,1341.00,-32.66,0.00,-2.44
+FUR-CH-10003973,"GuestStacker Chair with Chrome Finish Legs",Furniture,Chairs,8,31,9070.00,773.25,0.00,8.53
+FUR-CH-10003981,"Global Commerce Series Low-Back Swivel/Tilt Chairs",Furniture,Chairs,7,24,4420.00,41.11,0.00,0.93
+FUR-CH-10003982,"Harbour Creations Swivel Stool, Adjustable",Furniture,Chairs,8,33,2921.00,591.30,0.00,20.24
+FUR-CH-10004007,"SAFCO Steel Folding Chair, Set of Two",Furniture,Chairs,2,6,458.00,151.21,0.00,33.02
+FUR-CH-10004009,"SAFCO Rocking Chair, Set of Two",Furniture,Chairs,7,29,3841.00,777.21,0.00,20.23
+FUR-CH-10004010,"SAFCO Bag Chairs, Red",Furniture,Chairs,11,29,864.00,98.54,0.00,11.41
+FUR-CH-10004011,"SAFCO Executive Leather Armchair, Black",Furniture,Chairs,5,16,3977.00,746.64,0.00,18.77
+FUR-CH-10004026,"SAFCO Rocking Chair, Adjustable",Furniture,Chairs,1,4,330.00,-126.48,0.00,-38.33
+FUR-CH-10004040,"Office Star Steel Folding Chair, Set of Two",Furniture,Chairs,2,6,508.00,146.48,0.00,28.83
+FUR-CH-10004047,"SAFCO Rocking Chair, Adjustable",Furniture,Chairs,4,16,1923.00,516.24,0.00,26.85
+FUR-CH-10004049,"SAFCO Bag Chairs, Set of Two",Furniture,Chairs,6,17,758.00,222.29,0.00,29.33
+FUR-CH-10004050,"Novimex Executive Leather Armchair, Adjustable",Furniture,Chairs,2,6,2733.00,847.26,0.00,31.00
+FUR-CH-10004054,"Hon Rocking Chair, Set of Two",Furniture,Chairs,9,50,3437.00,-195.09,0.11,-5.68
+FUR-CH-10004062,"Office Star Rocking Chair, Adjustable",Furniture,Chairs,2,11,420.00,-420.64,1.00,-100.15
+FUR-CH-10004063,"Global Deluxe High-Back Manager's Chair",Furniture,Chairs,8,35,8667.00,1558.59,0.00,17.98
+FUR-CH-10004065,"SAFCO Bag Chairs, Adjustable",Furniture,Chairs,4,23,1093.00,89.18,0.00,8.16
+FUR-CH-10004082,"Office Star Chairmat, Black",Furniture,Chairs,7,43,2649.00,903.69,0.00,34.11
+FUR-CH-10004086,"Hon 4070 Series Pagoda Armless Upholstered Stacking Chairs",Furniture,Chairs,8,34,8431.00,1388.65,0.00,16.47
+FUR-CH-10004089,"Harbour Creations Bag Chairs, Set of Two",Furniture,Chairs,6,18,1058.00,241.21,0.00,22.80
+FUR-CH-10004095,"Novimex Steel Folding Chair, Black",Furniture,Chairs,7,41,2505.00,-210.12,0.14,-8.39
+FUR-CH-10004095,"SAFCO Executive Leather Armchair, Adjustable",Furniture,Chairs,9,25,6621.00,1824.59,0.00,27.56
+FUR-CH-10004101,"SAFCO Swivel Stool, Adjustable",Furniture,Chairs,5,13,1943.00,790.44,0.00,40.68
+FUR-CH-10004151,"Harbour Creations Steel Folding Chair, Red",Furniture,Chairs,2,8,209.00,-287.17,1.00,-137.40
+FUR-CH-10004163,"Novimex Steel Folding Chair, Adjustable",Furniture,Chairs,5,14,1168.00,219.94,0.00,18.83
+FUR-CH-10004194,"Harbour Creations Steel Folding Chair, Set of Two",Furniture,Chairs,7,26,1521.00,601.73,0.00,39.56
+FUR-CH-10004194,"Novimex Bag Chairs, Red",Furniture,Chairs,4,16,584.00,39.38,0.25,6.74
+FUR-CH-10004196,"Novimex Swivel Stool, Red",Furniture,Chairs,9,42,6331.00,1150.58,0.00,18.17
+FUR-CH-10004199,"SAFCO Executive Leather Armchair, Adjustable",Furniture,Chairs,2,4,1114.00,-612.44,0.00,-54.98
+FUR-CH-10004218,"Global Fabric Manager's Chair, Dark Gray",Furniture,Chairs,9,35,3151.00,499.87,0.00,15.86
+FUR-CH-10004219,"Office Star Bag Chairs, Red",Furniture,Chairs,6,21,644.00,60.99,0.00,9.47
+FUR-CH-10004242,"Office Star Steel Folding Chair, Black",Furniture,Chairs,8,24,1240.00,466.18,0.00,37.60
+FUR-CH-10004255,"SAFCO Executive Leather Armchair, Red",Furniture,Chairs,5,17,7337.00,-429.55,0.00,-5.85
+FUR-CH-10004277,"SAFCO Swivel Stool, Black",Furniture,Chairs,6,17,1435.00,-441.35,0.00,-30.76
+FUR-CH-10004287,"SAFCO Arco Folding Chair",Furniture,Chairs,13,53,11575.00,1179.37,0.00,10.19
+FUR-CH-10004289,"Global Super Steno Chair",Furniture,Chairs,7,30,2390.00,-0.01,0.00,0.00
+FUR-CH-10004306,"SAFCO Bag Chairs, Red",Furniture,Chairs,6,22,824.00,-23.60,0.00,-2.86
+FUR-CH-10004309,"SAFCO Steel Folding Chair, Adjustable",Furniture,Chairs,1,5,397.00,-4.50,0.00,-1.13
+FUR-CH-10004312,"Hon Bag Chairs, Set of Two",Furniture,Chairs,14,56,2179.00,160.35,0.00,7.36
+FUR-CH-10004331,"SAFCO Rocking Chair, Red",Furniture,Chairs,9,28,3235.00,551.68,0.00,17.05
+FUR-CH-10004338,"Hon Bag Chairs, Red",Furniture,Chairs,6,21,559.00,-47.04,0.00,-8.42
+FUR-CH-10004339,"SAFCO Steel Folding Chair, Red",Furniture,Chairs,11,38,2877.00,273.83,0.00,9.52
+FUR-CH-10004355,"Harbour Creations Rocking Chair, Set of Two",Furniture,Chairs,2,5,493.00,-119.48,0.00,-24.24

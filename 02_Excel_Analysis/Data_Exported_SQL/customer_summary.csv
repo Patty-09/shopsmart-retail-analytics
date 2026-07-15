@@ -1,0 +1,1001 @@
+customer_id,customer_name,segment,total_orders,total_quantity,total_revenue,total_profit,average_discount,profit_margin
+AA-103151,Alex Avila,Consumer,5,44,1445,12.88,0,0.89
+AA-103152,Alex Avila,Consumer,7,50,6105,568.74,0,9.32
+AA-103153,Alex Avila,Consumer,2,21,633,228.96,0,36.17
+AA-103154,Alex Avila,Consumer,5,30,5565,-362.87,0,-6.52
+AA-103751,Allen Armold,Consumer,4,35,2407,577.93,0,24.01
+AA-103752,Allen Armold,Consumer,3,28,560,-60.26,0.14,-10.76
+AA-103753,Allen Armold,Consumer,7,35,1861,-117.59,0.18,-6.32
+AA-103754,Allen Armold,Consumer,9,41,1056,277.4,0,26.27
+AA-104801,Andrew Allen,Consumer,5,21,5946,601.39,0,10.11
+AA-104802,Andrew Allen,Consumer,7,44,5253,191,0,3.64
+AA-104803,Andrew Allen,Consumer,4,49,4704,288.27,0,6.13
+AA-104804,Andrew Allen,Consumer,4,36,1792,435.82,0,24.32
+AA-106451,Anna Andreadi,Consumer,12,91,5264,1578.09,0,29.98
+AA-106452,Anna Andreadi,Consumer,9,62,2730,219.05,0,8.02
+AA-106453,Anna Andreadi,Consumer,9,50,2263,396.49,0,17.52
+AA-106454,Anna Andreadi,Consumer,6,64,5087,857.8,0,16.86
+AA-3151,Alex Avila,Consumer,1,1,11,4.29,0,39
+AA-3152,Alex Avila,Consumer,6,19,2234,531.27,0.43,23.78
+AA-3751,Allen Armold,Consumer,4,18,365,49.48,0.17,13.56
+AA-3752,Allen Armold,Consumer,1,4,27,11.28,0,41.78
+AA-3753,Allen Armold,Consumer,3,8,261,16.68,0.33,6.39
+AA-4801,Andrew Allen,Consumer,2,8,496,25.68,0,5.18
+AA-4802,Andrew Allen,Consumer,1,2,1085,488.1,0,44.99
+AA-4803,Andrew Allen,Consumer,2,15,482,40.83,0.75,8.47
+AA-6451,Anna Andreadi,Consumer,8,32,1503,-820.42,0.73,-54.59
+AA-6452,Anna Andreadi,Consumer,3,3,465,212.07,0,45.61
+AB-100151,Aaron Bergman,Consumer,9,128,10662,1772.73,0,16.63
+AB-100152,Aaron Bergman,Consumer,12,81,6116,1122.9,0,18.36
+AB-100153,Aaron Bergman,Consumer,8,46,2375,694.55,0,29.24
+AB-100154,Aaron Bergman,Consumer,3,13,887,129.34,0,14.58
+AB-100601,Adam Bellavance,Home Office,9,42,2107,320.27,0,15.2
+AB-100602,Adam Bellavance,Home Office,5,31,3345,1020.07,0,30.5
+AB-100603,Adam Bellavance,Home Office,10,103,5210,1119.13,0,21.48
+AB-100604,Adam Bellavance,Home Office,8,52,7708,2031.51,0,26.36
+AB-101051,Adrian Barton,Consumer,7,54,4309,1451.59,0,33.69
+AB-101052,Adrian Barton,Consumer,6,41,2949,276.91,0,9.39
+AB-101053,Adrian Barton,Consumer,10,54,1234,-260.71,0.07,-21.13
+AB-101054,Adrian Barton,Consumer,10,73,14476,5444.81,0.15,37.61
+AB-101501,Aimee Bixby,Consumer,4,11,429,92.79,0,21.63
+AB-101502,Aimee Bixby,Consumer,6,61,9139,1009.52,0,11.05
+AB-101503,Aimee Bixby,Consumer,9,71,2523,648.26,0,25.69
+AB-101504,Aimee Bixby,Consumer,5,37,969,313.66,0.08,32.37
+AB-101651,Alan Barnes,Consumer,5,42,3435,578.79,0,16.85
+AB-101652,Alan Barnes,Consumer,11,99,6437,1322.79,0,20.55
+AB-101653,Alan Barnes,Consumer,5,24,668,207.08,0,31
+AB-101654,Alan Barnes,Consumer,8,48,1114,220.82,0,19.82
+AB-102551,Alejandro Ballentine,Home Office,7,68,4277,-879.94,0.07,-20.57
+AB-102552,Alejandro Ballentine,Home Office,6,25,949,262.75,0,27.69
+AB-102553,Alejandro Ballentine,Home Office,9,48,4644,309.38,0.07,6.66
+AB-102554,Alejandro Ballentine,Home Office,9,39,914,264.57,0,28.95
+AB-1051,Adrian Barton,Consumer,2,3,97,10.41,0,10.73
+AB-1052,Adrian Barton,Consumer,1,4,64,25.02,0,39.09
+AB-1053,Adrian Barton,Consumer,4,36,1996,-530.76,0.64,-26.59
+AB-106001,Ann Blume,Corporate,9,57,7148,1608.95,0,22.51
+AB-106002,Ann Blume,Corporate,6,58,4276,-503.3,0,-11.77
+AB-106003,Ann Blume,Corporate,3,20,377,74.66,0,19.8
+AB-106004,Ann Blume,Corporate,4,38,1515,-274.95,0.38,-18.15
+AB-1501,Aimee Bixby,Consumer,4,28,3145,862.14,0.13,27.41
+AB-151,Aaron Bergman,Consumer,2,18,2125,386.64,0,18.19
+AB-152,Aaron Bergman,Consumer,3,15,2481,577.08,0,23.26
+AB-1651,Alan Barnes,Consumer,1,2,160,35.22,0,22.01
+AB-1652,Alan Barnes,Consumer,1,8,411,78,0,18.98
+AB-1653,Alan Barnes,Consumer,4,9,828,-6.63,0.4,-0.8
+AB-2551,Alejandro Ballentine,Home Office,5,20,4083,787.2,0,19.28
+AB-2552,Alejandro Ballentine,Home Office,1,3,283,57.96,0,20.48
+AB-2553,Alejandro Ballentine,Home Office,2,4,313,-43.31,0.5,-13.84
+AB-6001,Ann Blume,Corporate,3,55,1384,253.56,0,18.32
+AB-6002,Ann Blume,Corporate,2,10,4027,711.09,0,17.66
+AB-601,Adam Bellavance,Home Office,3,18,1483,686,0.2,46.26
+AB-602,Adam Bellavance,Home Office,6,12,287,-220.08,0.33,-76.68
+AC-104201,Alyssa Crouse,Corporate,5,36,4086,709.75,0,17.37
+AC-104202,Alyssa Crouse,Corporate,7,32,1033,214.28,0,20.74
+AC-104203,Alyssa Crouse,Corporate,9,67,4561,-655.41,0.13,-14.37
+AC-104204,Alyssa Crouse,Corporate,3,17,926,-62.13,0.2,-6.71
+AC-104501,Amy Cox,Consumer,5,35,7610,2310.45,0,30.36
+AC-104502,Amy Cox,Consumer,4,26,2295,614.19,0,26.76
+AC-104503,Amy Cox,Consumer,3,18,694,-185.04,0,-26.66
+AC-104504,Amy Cox,Consumer,7,43,5529,1366.01,0.11,24.71
+AC-106151,Ann Chong,Corporate,11,100,5753,1253.52,0,21.79
+AC-106152,Ann Chong,Corporate,5,44,2738,-394.92,0,-14.42
+AC-106153,Ann Chong,Corporate,8,29,1699,3.26,0.08,0.19
+AC-106154,Ann Chong,Corporate,5,59,2538,298.82,0.06,11.77
+AC-106601,Anna Chung,Consumer,4,26,1175,-38.55,0,-3.28
+AC-106602,Anna Chung,Consumer,6,36,2234,-87.88,0,-3.93
+AC-106603,Anna Chung,Consumer,6,58,2189,-843.88,0.13,-38.55
+AC-106604,Anna Chung,Consumer,5,16,658,-28.7,0,-4.36
+AC-4201,Alyssa Crouse,Corporate,6,17,841,150.16,0.13,17.85
+AC-4202,Alyssa Crouse,Corporate,3,11,849,87.39,0.33,10.29
+AC-4501,Amy Cox,Consumer,3,4,670,81.78,0,12.21
+AC-4502,Amy Cox,Consumer,2,6,147,34.32,0,23.35
+AC-4503,Amy Cox,Consumer,2,11,210,-241.29,0.75,-114.9
+AC-6151,Ann Chong,Corporate,3,14,1706,-438.86,0.43,-25.72
+AC-6152,Ann Chong,Corporate,4,18,593,158.31,0,26.7
+AC-6601,Anna Chung,Consumer,3,15,2666,726.12,0,27.24
+AC-6602,Anna Chung,Consumer,1,1,10,0.75,0,7.5
+AD-101801,Alan Dominguez,Home Office,8,66,9209,-25.89,0,-0.28
+AD-101802,Alan Dominguez,Home Office,5,20,1001,119.88,0,11.98
+AD-101803,Alan Dominguez,Home Office,6,27,1541,86.82,0,5.63
+AD-101804,Alan Dominguez,Home Office,8,40,6106,1869.92,0,30.62
+AD-1801,Alan Dominguez,Home Office,1,1,12,3.45,0,28.75
+AD-1802,Alan Dominguez,Home Office,2,13,669,-514.23,1,-76.87
+AF-108701,Art Ferguson,Consumer,14,137,10793,-411.66,0,-3.81
+AF-108702,Art Ferguson,Consumer,6,39,7808,-172.32,0,-2.21
+AF-108703,Art Ferguson,Consumer,9,65,5832,2002.03,0,34.33
+AF-108704,Art Ferguson,Consumer,7,51,2052,317.97,0.13,15.5
+AF-108851,Art Foster,Consumer,10,81,8347,1099.37,0,13.17
+AF-108852,Art Foster,Consumer,13,98,5880,921.5,0,15.67
+AF-108853,Art Foster,Consumer,8,58,4621,1025.17,0,22.19
+AF-108854,Art Foster,Consumer,4,37,862,-163.13,0.14,-18.92
+AF-8701,Art Ferguson,Consumer,4,21,672,201.33,0,29.96
+AF-8702,Art Ferguson,Consumer,1,3,125,43.8,0,35.04
+AF-8703,Art Ferguson,Consumer,4,10,901,297.1,0.17,32.97
+AF-8851,Art Foster,Consumer,1,2,139,32.46,0,23.35
+AF-8852,Art Foster,Consumer,1,7,215,55.86,0,25.98
+AG-102701,Alejandro Grove,Consumer,7,79,4771,891.39,0,18.68
+AG-102702,Alejandro Grove,Consumer,4,30,1663,249.21,0,14.99
+AG-102703,Alejandro Grove,Consumer,9,41,1622,278.66,0,17.18
+AG-102704,Alejandro Grove,Consumer,5,58,2584,732.75,0,28.36
+AG-103001,Aleksandra Gannaway,Corporate,5,31,3212,385.79,0,12.01
+AG-103002,Aleksandra Gannaway,Corporate,7,46,6071,1280.6,0,21.09
+AG-103003,Aleksandra Gannaway,Corporate,8,66,3364,120.09,0.08,3.57
+AG-103004,Aleksandra Gannaway,Corporate,4,16,367,59.3,0,16.16
+AG-103301,Alex Grayson,Consumer,5,42,4208,259.67,0.07,6.17
+AG-103302,Alex Grayson,Consumer,9,54,3590,661.55,0,18.43
+AG-103303,Alex Grayson,Consumer,10,78,6078,13.4,0.13,0.22
+AG-103304,Alex Grayson,Consumer,5,47,662,-5.14,0.11,-0.78
+AG-103901,Allen Goldenen,Consumer,2,27,2228,377.23,0,16.93
+AG-103902,Allen Goldenen,Consumer,4,33,2646,28.83,0,1.09
+AG-103903,Allen Goldenen,Consumer,8,69,3380,520.39,0,15.4
+AG-103904,Allen Goldenen,Consumer,5,33,201,69.27,0.25,34.46
+AG-104951,Andrew Gjertsen,Corporate,6,44,3451,463.53,0,13.43
+AG-104952,Andrew Gjertsen,Corporate,11,109,7461,1669.56,0.04,22.38
+AG-104953,Andrew Gjertsen,Corporate,4,18,2110,320.31,0,15.18
+AG-104954,Andrew Gjertsen,Corporate,8,93,2356,295.68,0.05,12.55
+AG-105251,Andy Gerbode,Corporate,3,9,324,13.26,0,4.09
+AG-105252,Andy Gerbode,Corporate,8,44,4071,151.72,0,3.73
+AG-105253,Andy Gerbode,Corporate,5,22,2620,23.82,0,0.91
+AG-105254,Andy Gerbode,Corporate,4,33,1455,-152.75,0,-10.5
+AG-106751,Anna Gayman,Consumer,3,57,3644,360.42,0,9.89
+AG-106752,Anna Gayman,Consumer,7,39,2284,206.2,0,9.03
+AG-106753,Anna Gayman,Consumer,4,50,3606,360.58,0,10
+AG-106754,Anna Gayman,Consumer,7,54,3489,-246.4,0,-7.06
+AG-107651,Anthony Garverick,Home Office,4,12,1586,93.21,0,5.88
+AG-107652,Anthony Garverick,Home Office,6,52,2159,110.8,0.1,5.13
+AG-107653,Anthony Garverick,Home Office,13,117,5913,1055,0.08,17.84
+AG-107654,Anthony Garverick,Home Office,4,20,170,-8.42,0.6,-4.95
+AG-109001,Arthur Gainer,Consumer,8,65,5035,359.27,0,7.14
+AG-109002,Arthur Gainer,Consumer,8,49,3108,551.17,0,17.73
+AG-109003,Arthur Gainer,Consumer,3,32,2276,301.45,0,13.24
+AG-109004,Arthur Gainer,Consumer,10,92,4511,343.67,0.1,7.62
+AG-2701,Alejandro Grove,Consumer,5,26,1997,232.11,0,11.62
+AG-2702,Alejandro Grove,Consumer,1,16,296,55.44,0,18.73
+AG-2703,Alejandro Grove,Consumer,2,5,486,163.02,0.5,33.54
+AG-3001,Aleksandra Gannaway,Corporate,2,23,866,-802.45,0.4,-92.66
+AG-3002,Aleksandra Gannaway,Corporate,4,24,835,-270.16,0.42,-32.35
+AG-3301,Alex Grayson,Consumer,6,27,513,74.2,0.44,14.46
+AG-3302,Alex Grayson,Consumer,1,2,20,3.3,0,16.5
+AG-3901,Allen Goldenen,Consumer,2,9,414,-504.78,0.86,-121.93
+AG-3902,Allen Goldenen,Consumer,2,7,59,-43.7,0.67,-74.07
+AG-4951,Andrew Gjertsen,Corporate,3,19,469,48.66,0,10.38
+AG-4952,Andrew Gjertsen,Corporate,2,2,52,9.15,0,17.6
+AG-4953,Andrew Gjertsen,Corporate,6,17,482,-164.67,0.6,-34.16
+AG-5251,Andy Gerbode,Corporate,6,15,802,-211.65,0.55,-26.39
+AG-5252,Andy Gerbode,Corporate,1,16,2067,345,0,16.69
+AG-6751,Anna Gayman,Consumer,6,36,774,-318.03,0.5,-41.09
+AG-6752,Anna Gayman,Consumer,4,13,1595,560.29,0.29,35.13
+AG-7651,Anthony Garverick,Home Office,4,15,769,-891.06,0.43,-115.87
+AG-7652,Anthony Garverick,Home Office,4,11,1090,-184.22,0.57,-16.9
+AG-9001,Arthur Gainer,Consumer,4,37,1698,-146.53,0.5,-8.63
+AH-100301,Aaron Hawkins,Corporate,6,39,4154,911.39,0,21.94
+AH-100302,Aaron Hawkins,Corporate,8,42,3973,981.59,0,24.71
+AH-100303,Aaron Hawkins,Corporate,6,56,4568,343.24,0,7.51
+AH-100304,Aaron Hawkins,Corporate,7,54,1744,365.22,0,20.94
+AH-100751,Adam Hart,Corporate,9,73,7291,-928.86,0,-12.74
+AH-100752,Adam Hart,Corporate,9,72,4526,528.42,0,11.68
+AH-100753,Adam Hart,Corporate,6,27,3044,1105.31,0.14,36.31
+AH-100754,Adam Hart,Corporate,10,75,3251,281.2,0.05,8.65
+AH-101201,Adrian Hane,Home Office,3,17,558,28.51,0,5.11
+AH-101202,Adrian Hane,Home Office,6,55,3590,905.52,0,25.22
+AH-101203,Adrian Hane,Home Office,6,57,4044,773.43,0,19.13
+AH-101204,Adrian Hane,Home Office,7,65,1736,-2.3,0.13,-0.13
+AH-101951,Alan Haines,Corporate,6,47,3839,-308.29,0,-8.03
+AH-101952,Alan Haines,Corporate,9,70,1833,391.05,0,21.33
+AH-101953,Alan Haines,Corporate,6,59,5370,454.69,0.22,8.47
+AH-101954,Alan Haines,Corporate,4,28,1588,-378.54,0.25,-23.84
+AH-102101,Alan Hwang,Consumer,2,10,1111,271.98,0,24.48
+AH-102102,Alan Hwang,Consumer,11,96,7417,1478.29,0,19.93
+AH-102103,Alan Hwang,Consumer,12,106,7031,1080.86,0.08,15.37
+AH-102104,Alan Hwang,Consumer,9,53,4805,1308.56,0,27.23
+AH-104651,Amy Hunt,Consumer,6,37,2183,314.89,0,14.42
+AH-104652,Amy Hunt,Consumer,2,8,251,59.75,0,23.8
+AH-104653,Amy Hunt,Consumer,7,54,3621,433.37,0,11.97
+AH-104654,Amy Hunt,Consumer,5,35,2495,-196.13,0,-7.86
+AH-105851,Angele Hood,Consumer,9,75,6205,1046.58,0,16.87
+AH-105852,Angele Hood,Consumer,5,27,1615,437.32,0,27.08
+AH-105853,Angele Hood,Consumer,4,18,567,-109.52,0.25,-19.32
+AH-105854,Angele Hood,Consumer,4,17,738,83.97,0,11.38
+AH-106901,Anna Häberlin,Corporate,6,54,4163,552.99,0,13.28
+AH-106902,Anna Häberlin,Corporate,9,77,3514,790.01,0,22.48
+AH-106903,Anna Häberlin,Corporate,4,14,710,154.83,0,21.81
+AH-106904,Anna Häberlin,Corporate,12,102,7889,1298,0.17,16.45
+AH-1201,Adrian Hane,Home Office,3,12,1476,379.62,0,25.72
+AH-1202,Adrian Hane,Home Office,1,1,2,-3.38,1,-169
+AH-1951,Alan Haines,Corporate,2,9,80,-99.3,1,-124.13
+AH-1952,Alan Haines,Corporate,1,6,88,29.7,0,33.75
+AH-1953,Alan Haines,Corporate,6,39,2483,-681.57,0.38,-27.45
+AH-2101,Alan Hwang,Consumer,2,24,3090,423.6,0,13.71
+AH-2102,Alan Hwang,Consumer,2,3,187,-220.89,0.67,-118.12
+AH-301,Aaron Hawkins,Corporate,4,28,5072,-576.62,0.63,-11.37
+AH-302,Aaron Hawkins,Corporate,3,12,1248,426.12,0,34.14
+AH-4651,Amy Hunt,Consumer,2,6,540,129.84,0,24.04
+AH-4652,Amy Hunt,Consumer,2,3,112,-23.39,0.5,-20.88
+AH-5851,Angele Hood,Consumer,2,5,889,416.67,0,46.87
+AH-5852,Angele Hood,Consumer,7,28,1343,-264.94,0.64,-19.73
+AH-6901,Anna Häberlin,Corporate,3,24,948,-492.61,0.57,-51.96
+AH-6902,Anna Häberlin,Corporate,2,9,869,162.78,0.33,18.73
+AH-751,Adam Hart,Corporate,6,42,3426,842.31,0,24.59
+AH-752,Adam Hart,Corporate,1,1,137,54.9,0,40.07
+AH-753,Adam Hart,Corporate,1,3,45,18.78,0,41.73
+AI-108551,Arianne Irving,Consumer,4,28,1859,266.58,0,14.34
+AI-108552,Arianne Irving,Consumer,7,56,2105,473.18,0,22.48
+AI-108553,Arianne Irving,Consumer,1,5,20,5.26,0,26.3
+AI-108554,Arianne Irving,Consumer,10,72,4376,867.73,0,19.83
+AI-8551,Arianne Irving,Consumer,1,1,30,4.83,0,16.1
+AI-8552,Arianne Irving,Consumer,3,14,891,-79.41,0.22,-8.91
+AJ-107801,Anthony Jacobs,Corporate,5,19,5821,988.02,0,16.97
+AJ-107802,Anthony Jacobs,Corporate,7,56,3898,576.23,0,14.78
+AJ-107803,Anthony Jacobs,Corporate,6,55,601,69.27,0.23,11.53
+AJ-107804,Anthony Jacobs,Corporate,7,62,4868,150.72,0.07,3.1
+AJ-107951,Anthony Johnson,Corporate,6,29,1209,209.4,0,17.32
+AJ-107952,Anthony Johnson,Corporate,6,37,2249,384.96,0,17.12
+AJ-107953,Anthony Johnson,Corporate,3,29,846,70.23,0,8.3
+AJ-107954,Anthony Johnson,Corporate,7,88,4501,1158.71,0,25.74
+AJ-109451,Ashley Jarboe,Consumer,9,45,2329,395.51,0,16.98
+AJ-109452,Ashley Jarboe,Consumer,7,31,3402,945.83,0,27.8
+AJ-109453,Ashley Jarboe,Consumer,6,33,3517,-294.84,0.11,-8.38
+AJ-109454,Ashley Jarboe,Consumer,7,40,1839,521.14,0,28.34
+AJ-109601,Astrea Jones,Consumer,4,16,1709,135.9,0,7.95
+AJ-109602,Astrea Jones,Consumer,6,64,4502,914.08,0,20.3
+AJ-109603,Astrea Jones,Consumer,4,45,1792,408.26,0,22.78
+AJ-109604,Astrea Jones,Consumer,3,22,629,60.43,0,9.61
+AJ-7801,Anthony Jacobs,Corporate,7,30,1608,-811.61,0.71,-50.47
+AJ-7802,Anthony Jacobs,Corporate,1,1,19,6.81,0,35.84
+AJ-7803,Anthony Jacobs,Corporate,4,9,942,192.78,0,20.46
+AJ-7951,Anthony Johnson,Corporate,5,28,1276,160.32,0,12.56
+AJ-7952,Anthony Johnson,Corporate,5,34,2119,457.17,0.27,21.57
+AJ-9451,Ashley Jarboe,Consumer,5,38,3817,1272.98,0.17,33.35
+AJ-9452,Ashley Jarboe,Consumer,2,8,1045,166.08,0,15.89
+AJ-9601,Astrea Jones,Consumer,6,33,4071,1417.22,0.14,34.81
+AJ-9602,Astrea Jones,Consumer,4,26,556,-404.53,1,-72.76
+AM-103601,Alice McCarthy,Corporate,8,62,3217,291.95,0,9.08
+AM-103602,Alice McCarthy,Corporate,11,75,8940,2375.5,0,26.57
+AM-103603,Alice McCarthy,Corporate,9,80,3759,-113.97,0,-3.03
+AM-103604,Alice McCarthy,Corporate,5,48,813,194.99,0,23.98
+AM-107051,Anne McFarland,Consumer,10,93,11709,-251.87,0,-2.15
+AM-107052,Anne McFarland,Consumer,7,76,6094,1797.75,0,29.5
+AM-107053,Anne McFarland,Consumer,5,33,742,95.44,0,12.86
+AM-107054,Anne McFarland,Consumer,8,81,5665,1085.75,0.05,19.17
+AM-3601,Alice McCarthy,Corporate,4,12,435,-94.68,0.14,-21.77
+AM-3602,Alice McCarthy,Corporate,2,7,1601,324.06,0,20.24
+AM-7051,Anne McFarland,Consumer,4,16,867,297.96,0,34.37
+AM-7052,Anne McFarland,Consumer,1,1,24,9.72,0,40.5
+AM-7053,Anne McFarland,Consumer,1,2,411,202.26,0,49.21
+AO-108101,Anthony O'Donnell,Corporate,12,84,7085,-88.93,0,-1.26
+AO-108102,Anthony O'Donnell,Corporate,10,99,5657,786.61,0,13.91
+AO-108103,Anthony O'Donnell,Corporate,4,31,1636,318.64,0,19.48
+AO-108104,Anthony O'Donnell,Corporate,1,2,161,12.1,0,7.52
+AO-8101,Anthony O'Donnell,Corporate,1,5,24,-32.47,1,-135.29
+AO-8102,Anthony O'Donnell,Corporate,1,3,386,90.21,0,23.37
+AO-8103,Anthony O'Donnell,Corporate,3,4,76,6.96,0,9.16
+AP-107201,Anne Pryor,Home Office,7,93,9040,1631.82,0,18.05
+AP-107202,Anne Pryor,Home Office,2,9,1763,324.6,0,18.41
+AP-107203,Anne Pryor,Home Office,3,28,2919,695.26,0,23.82
+AP-107204,Anne Pryor,Home Office,8,85,1639,285.8,0.05,17.44
+AP-109151,Arthur Prichep,Consumer,9,86,9049,1413.62,0,15.62
+AP-109152,Arthur Prichep,Consumer,6,25,1435,-0.95,0,-0.07
+AP-109153,Arthur Prichep,Consumer,7,36,2070,428.14,0.1,20.68
+AP-109154,Arthur Prichep,Consumer,10,102,3324,579.31,0.03,17.43
+AP-7201,Anne Pryor,Home Office,4,17,423,119.68,0.13,28.29
+AP-7202,Anne Pryor,Home Office,2,12,576,-64.38,0.33,-11.18
+AP-9151,Arthur Prichep,Consumer,3,26,2151,685.05,0,31.85
+AP-9152,Arthur Prichep,Consumer,2,9,517,32.46,0.25,6.28
+AR-103451,Alex Russell,Corporate,9,72,4462,1030.89,0,23.1
+AR-103452,Alex Russell,Corporate,9,61,7043,771.62,0,10.96
+AR-103453,Alex Russell,Corporate,4,21,1607,102.45,0.17,6.38
+AR-103454,Alex Russell,Corporate,4,18,1056,-221.05,0,-20.93
+AR-104051,Allen Rosenblatt,Corporate,6,37,2010,-425.53,0,-21.17
+AR-104052,Allen Rosenblatt,Corporate,7,57,3532,-231.98,0,-6.57
+AR-104053,Allen Rosenblatt,Corporate,4,37,1182,172.78,0,14.62
+AR-104054,Allen Rosenblatt,Corporate,5,29,2235,-98.76,0,-4.42
+AR-105101,Andrew Roberts,Consumer,11,63,6254,2106.54,0,33.68
+AR-105102,Andrew Roberts,Consumer,7,66,6533,1174,0,17.97
+AR-105103,Andrew Roberts,Consumer,6,31,1210,192.24,0,15.89
+AR-105104,Andrew Roberts,Consumer,5,33,264,43.65,0.14,16.53
+AR-105401,Andy Reiter,Consumer,4,20,1154,145.05,0,12.57
+AR-105402,Andy Reiter,Consumer,2,2,64,1.5,0,2.34
+AR-105403,Andy Reiter,Consumer,3,13,157,19.74,0,12.57
+AR-105404,Andy Reiter,Consumer,6,33,6609,2884.61,0,43.65
+AR-105701,Anemone Ratner,Consumer,7,53,4880,929.77,0,19.05
+AR-105702,Anemone Ratner,Consumer,4,14,1898,262.18,0,13.81
+AR-105703,Anemone Ratner,Consumer,6,50,2581,360.26,0,13.96
+AR-105704,Anemone Ratner,Consumer,1,6,88,32.64,0,37.09
+AR-108251,Anthony Rawles,Corporate,4,20,633,223.88,0,35.37
+AR-108252,Anthony Rawles,Corporate,15,95,7720,1978.18,0,25.62
+AR-108253,Anthony Rawles,Corporate,11,59,2435,131.22,0.07,5.39
+AR-108254,Anthony Rawles,Corporate,8,54,4523,494.83,0,10.94
+AR-3451,Alex Russell,Corporate,3,21,1243,230.64,0,18.56
+AR-3452,Alex Russell,Corporate,6,16,1058,376.09,0.1,35.55
+AR-4051,Allen Rosenblatt,Corporate,2,2,144,25.86,0,17.96
+AR-4052,Allen Rosenblatt,Corporate,4,6,426,5.34,0.6,1.25
+AR-5101,Andrew Roberts,Consumer,2,5,371,148.89,0,40.13
+AR-5102,Andrew Roberts,Consumer,8,34,2267,-106.09,0.46,-4.68
+AR-5401,Andy Reiter,Consumer,4,13,325,108.66,0,33.43
+AR-5402,Andy Reiter,Consumer,4,8,236,-20.5,0.5,-8.69
+AR-5701,Anemone Ratner,Consumer,3,27,970,242.82,0,25.03
+AR-5702,Anemone Ratner,Consumer,6,28,1075,167,0.33,15.53
+AR-8251,Anthony Rawles,Corporate,3,11,1704,318.51,0.33,18.69
+AR-8252,Anthony Rawles,Corporate,4,9,324,-28.98,0.29,-8.94
+AS-100451,Aaron Smayling,Corporate,5,21,2056,257.63,0,12.53
+AS-100452,Aaron Smayling,Corporate,13,95,6708,421.92,0,6.29
+AS-100453,Aaron Smayling,Corporate,3,26,779,234.94,0,30.16
+AS-100454,Aaron Smayling,Corporate,7,48,3051,-253.59,0.3,-8.31
+AS-100901,Adam Shillingsburg,Consumer,5,26,1502,208.88,0,13.91
+AS-100902,Adam Shillingsburg,Consumer,8,61,4140,330.15,0,7.97
+AS-100903,Adam Shillingsburg,Consumer,10,60,6112,741.37,0.13,12.13
+AS-100904,Adam Shillingsburg,Consumer,9,81,3255,64.53,0.12,1.98
+AS-101351,Adrian Shami,Home Office,11,86,4430,515.81,0,11.64
+AS-101352,Adrian Shami,Home Office,3,16,2474,340.82,0,13.78
+AS-101353,Adrian Shami,Home Office,3,8,346,-128.19,0,-37.05
+AS-101354,Adrian Shami,Home Office,2,9,58,21.84,0,37.66
+AS-102251,Alan Schoenberger,Corporate,10,74,9773,1572.65,0,16.09
+AS-102252,Alan Schoenberger,Corporate,6,44,6300,402.36,0,6.39
+AS-102253,Alan Schoenberger,Corporate,7,54,1031,23.88,0.07,2.32
+AS-102254,Alan Schoenberger,Corporate,5,41,4262,719.77,0,16.89
+AS-102401,Alan Shonely,Consumer,7,49,2374,341.45,0,14.38
+AS-102402,Alan Shonely,Consumer,9,85,3688,-49.37,0,-1.34
+AS-102403,Alan Shonely,Consumer,8,62,2358,304.59,0.15,12.92
+AS-102404,Alan Shonely,Consumer,7,39,586,33.72,0.23,5.75
+AS-102851,Alejandro Savely,Corporate,9,62,6388,835.56,0,13.08
+AS-102852,Alejandro Savely,Corporate,7,51,4997,321.94,0,6.44
+AS-102853,Alejandro Savely,Corporate,8,60,1584,282.73,0,17.85
+AS-102854,Alejandro Savely,Corporate,6,39,3215,354.63,0.13,11.03
+AS-106301,Ann Steele,Home Office,6,60,7447,2496.03,0,33.52
+AS-106302,Ann Steele,Home Office,5,20,1455,539.57,0,37.08
+AS-106303,Ann Steele,Home Office,1,3,80,22.26,0,27.83
+AS-106304,Ann Steele,Home Office,7,34,835,136.48,0,16.34
+AS-1351,Adrian Shami,Home Office,1,6,187,26.1,0,13.96
+AS-1352,Adrian Shami,Home Office,4,19,3792,788.1,0.13,20.78
+AS-2251,Alan Schoenberger,Corporate,3,13,254,-244.31,0.57,-96.19
+AS-2252,Alan Schoenberger,Corporate,1,1,28,4.14,0,14.79
+AS-2253,Alan Schoenberger,Corporate,3,4,189,25.14,0,13.3
+AS-2401,Alan Shonely,Consumer,1,1,5,1.44,0,28.8
+AS-2402,Alan Shonely,Consumer,4,10,1681,543.63,0,32.34
+AS-2851,Alejandro Savely,Corporate,7,35,2059,515.59,0.06,25.04
+AS-2852,Alejandro Savely,Corporate,6,26,2881,223.11,0,7.74
+AS-451,Aaron Smayling,Corporate,2,13,1234,98.73,0,8
+AS-452,Aaron Smayling,Corporate,1,8,379,-390.49,1,-103.03
+AS-6301,Ann Steele,Home Office,8,39,1908,-1014.67,0.55,-53.18
+AS-6302,Ann Steele,Home Office,3,8,93,-88.64,0.5,-95.31
+AS-901,Adam Shillingsburg,Consumer,4,10,436,76.31,0.14,17.5
+AT-104351,Alyssa Tate,Home Office,6,40,2779,502.08,0,18.07
+AT-104352,Alyssa Tate,Home Office,4,18,6342,1570.79,0,24.77
+AT-104353,Alyssa Tate,Home Office,8,55,3364,843.15,0,25.06
+AT-104354,Alyssa Tate,Home Office,6,28,1172,100.87,0.22,8.61
+AT-107351,Annie Thurman,Consumer,4,23,2586,778.54,0,30.11
+AT-107352,Annie Thurman,Consumer,8,47,4359,736.38,0,16.89
+AT-107353,Annie Thurman,Consumer,7,39,2206,27.68,0.1,1.25
+AT-107354,Annie Thurman,Consumer,10,60,3831,974.12,0,25.43
+AT-4351,Alyssa Tate,Home Office,4,13,540,102.9,0,19.06
+AT-4352,Alyssa Tate,Home Office,8,31,748,-324.26,0.37,-43.35
+AT-7351,Annie Thurman,Consumer,1,2,10,4.38,0,43.8
+AT-7352,Annie Thurman,Consumer,4,15,393,138.69,0,35.29
+AW-108401,Anthony Witt,Consumer,7,55,4229,1139.34,0,26.94
+AW-108402,Anthony Witt,Consumer,5,65,4839,-395.89,0,-8.18
+AW-108403,Anthony Witt,Consumer,9,67,3480,635.59,0,18.26
+AW-108404,Anthony Witt,Consumer,4,24,649,65.78,0.13,10.14
+AW-109301,Arthur Wiediger,Home Office,5,32,1601,617.92,0,38.6
+AW-109302,Arthur Wiediger,Home Office,5,37,4066,1424.46,0,35.03
+AW-109303,Arthur Wiediger,Home Office,5,17,1713,648.05,0,37.83
+AW-109304,Arthur Wiediger,Home Office,7,68,2853,-104.54,0.25,-3.66
+AW-8401,Anthony Witt,Consumer,7,33,1946,-228.41,0.61,-11.74
+AW-9301,Arthur Wiediger,Home Office,4,15,413,99.25,0.14,24.03
+AW-9302,Arthur Wiediger,Home Office,2,6,370,-4.17,0.33,-1.13
+AY-105551,Andy Yotov,Corporate,5,19,802,304.41,0,37.96
+AY-105552,Andy Yotov,Corporate,3,37,3023,1041.77,0,34.46
+AY-105553,Andy Yotov,Corporate,4,27,1125,400.99,0,35.64
+AY-105554,Andy Yotov,Corporate,4,34,496,103.34,0,20.83
+AY-5551,Andy Yotov,Corporate,5,10,660,1.87,0.13,0.28
+AY-5552,Andy Yotov,Corporate,6,36,2436,438.59,0.25,18
+AZ-107501,Annie Zypern,Consumer,4,20,742,-80.75,0,-10.88
+AZ-107502,Annie Zypern,Consumer,4,22,1287,128.31,0,9.97
+AZ-107503,Annie Zypern,Consumer,4,79,5989,1404.05,0,23.44
+AZ-107504,Annie Zypern,Consumer,6,40,1624,154.96,0,9.54
+AZ-7501,Annie Zypern,Consumer,5,23,1461,-190.7,0.38,-13.05
+AZ-7502,Annie Zypern,Consumer,1,2,96,31.68,0,33
+AZ-7503,Annie Zypern,Consumer,4,29,672,-523.17,0.83,-77.85
+BB-109901,Barry Blumstein,Corporate,11,78,4719,-400.39,0,-8.48
+BB-109902,Barry Blumstein,Corporate,5,33,1808,314.86,0,17.41
+BB-109903,Barry Blumstein,Corporate,9,62,1790,251.02,0,14.02
+BB-109904,Barry Blumstein,Corporate,5,26,744,11.57,0.13,1.56
+BB-115451,Brenda Bowman,Corporate,4,25,1286,195.88,0,15.23
+BB-115452,Brenda Bowman,Corporate,7,87,6600,427.99,0.05,6.48
+BB-115453,Brenda Bowman,Corporate,6,36,1146,47.72,0.1,4.16
+BB-115454,Brenda Bowman,Corporate,9,83,6767,1015.06,0.15,15
+BB-15451,Brenda Bowman,Corporate,3,5,131,48.18,0,36.78
+BB-15452,Brenda Bowman,Corporate,2,2,77,4.01,0.5,5.21
+BB-9901,Barry Blumstein,Corporate,3,4,507,74.13,0,14.62
+BB-9902,Barry Blumstein,Corporate,4,8,315,48.23,0.25,15.31
+BC-111251,Becky Castell,Home Office,2,15,2829,1124.48,0,39.75
+BC-111252,Becky Castell,Home Office,12,145,6941,1567.03,0,22.58
+BC-111253,Becky Castell,Home Office,5,59,2086,-187.44,0,-8.99
+BC-111254,Becky Castell,Home Office,9,60,2934,251.61,0,8.58
+BC-11251,Becky Castell,Home Office,3,5,85,25.53,0,30.04
+BC-11252,Becky Castell,Home Office,3,16,311,-295.26,1,-94.94
+BD-113201,Bill Donatelli,Consumer,5,26,2828,-231.59,0,-8.19
+BD-113202,Bill Donatelli,Consumer,8,55,3189,249.1,0,7.81
+BD-113203,Bill Donatelli,Consumer,7,38,1652,297.58,0,18.01
+BD-113204,Bill Donatelli,Consumer,12,75,5721,1094.51,0,19.13
+BD-115001,Bradley Drucker,Consumer,6,36,3761,815.83,0,21.69
+BD-115002,Bradley Drucker,Consumer,8,30,2534,-56.38,0,-2.22
+BD-115003,Bradley Drucker,Consumer,7,62,2385,510.79,0,21.42
+BD-115004,Bradley Drucker,Consumer,6,49,4410,1142.13,0.1,25.9
+BD-115601,Brendan Dodson,Home Office,4,21,1066,1.11,0,0.1
+BD-115602,Brendan Dodson,Home Office,7,47,5213,1175.22,0,22.54
+BD-115603,Brendan Dodson,Home Office,6,39,2756,616.81,0,22.38
+BD-115604,Brendan Dodson,Home Office,2,11,321,116.71,0,36.36
+BD-116051,Brian Dahlen,Consumer,6,36,3719,-49.84,0,-1.34
+BD-116052,Brian Dahlen,Consumer,3,25,1268,378.55,0,29.85
+BD-116053,Brian Dahlen,Consumer,3,15,926,237.64,0,25.66
+BD-116054,Brian Dahlen,Consumer,7,74,3288,634.83,0,19.31
+BD-116201,Brian DeCherney,Consumer,9,79,3514,-419.34,0.05,-11.93
+BD-116202,Brian DeCherney,Consumer,7,34,2490,581.3,0,23.35
+BD-116203,Brian DeCherney,Consumer,3,8,306,79.79,0,26.08
+BD-116204,Brian DeCherney,Consumer,6,27,1539,206.77,0,13.44
+BD-116351,Brian Derr,Consumer,7,49,4867,836.69,0,17.19
+BD-116352,Brian Derr,Consumer,10,94,4687,-11.13,0,-0.24
+BD-116353,Brian Derr,Consumer,5,24,1093,336.51,0,30.79
+BD-116354,Brian Derr,Consumer,3,19,583,141.54,0,24.28
+BD-117251,Bruce Degenhardt,Consumer,8,56,3901,539.62,0,13.83
+BD-117252,Bruce Degenhardt,Consumer,6,33,1418,132.26,0,9.33
+BD-117253,Bruce Degenhardt,Consumer,10,75,4035,568.27,0,14.08
+BD-117254,Bruce Degenhardt,Consumer,6,29,1527,333.99,0,21.87
+BD-117701,Bryan Davis,Consumer,5,58,3106,681.61,0,21.94
+BD-117702,Bryan Davis,Consumer,7,34,3543,977.71,0,27.6
+BD-117703,Bryan Davis,Consumer,8,68,2859,597.21,0,20.89
+BD-117704,Bryan Davis,Consumer,6,21,658,141.28,0,21.47
+BD-13201,Bill Donatelli,Consumer,1,2,57,16.98,0,29.79
+BD-13202,Bill Donatelli,Consumer,5,36,1829,196.08,0.06,10.72
+BD-15001,Bradley Drucker,Consumer,3,4,52,-31.29,0.67,-60.17
+BD-15601,Brendan Dodson,Home Office,2,10,137,-83.28,0.5,-60.79
+BD-15602,Brendan Dodson,Home Office,3,20,1427,198.12,0,13.88
+BD-16051,Brian Dahlen,Consumer,3,7,208,47.16,0,22.67
+BD-16052,Brian Dahlen,Consumer,2,3,481,177.33,0,36.87
+BD-16201,Brian DeCherney,Consumer,4,8,429,-172.14,0.33,-40.13
+BD-16202,Brian DeCherney,Consumer,7,51,2494,708.06,0,28.39
+BD-16351,Brian Derr,Consumer,4,19,592,94.01,0.33,15.88
+BD-16352,Brian Derr,Consumer,5,37,5095,1394.68,0.17,27.37
+BD-17251,Bruce Degenhardt,Consumer,4,9,2849,762.53,0.2,26.76
+BD-17252,Bruce Degenhardt,Consumer,9,54,2229,138.49,0.26,6.21
+BD-17701,Bryan Davis,Consumer,3,25,1630,326.19,0,20.01
+BD-17702,Bryan Davis,Consumer,2,22,1775,-1195.74,1,-67.37
+BE-113351,Bill Eplett,Home Office,9,155,10731,3112.92,0,29.01
+BE-113352,Bill Eplett,Home Office,12,89,5882,1488.33,0.05,25.3
+BE-113353,Bill Eplett,Home Office,11,119,6342,1701.67,0.1,26.83
+BE-113354,Bill Eplett,Home Office,5,35,4205,1487.79,0,35.38
+BE-114101,Bobby Elias,Consumer,10,70,5536,594.32,0,10.74
+BE-114102,Bobby Elias,Consumer,7,63,7623,1821.69,0,23.9
+BE-114103,Bobby Elias,Consumer,8,51,1131,226.17,0,20
+BE-114104,Bobby Elias,Consumer,5,19,2262,755.91,0,33.42
+BE-114551,Brad Eason,Home Office,9,97,11483,-149.46,0,-1.3
+BE-114552,Brad Eason,Home Office,7,50,2971,335.96,0,11.31
+BE-114553,Brad Eason,Home Office,5,42,1464,192.21,0,13.13
+BE-114554,Brad Eason,Home Office,6,40,1728,139.21,0.08,8.06
+BE-13351,Bill Eplett,Home Office,2,9,705,-246.12,0.6,-34.91
+BE-13352,Bill Eplett,Home Office,3,4,615,-134.58,0.33,-21.88
+BE-14101,Bobby Elias,Consumer,3,12,1718,342.76,0,19.95
+BE-14102,Bobby Elias,Consumer,4,10,141,48.3,0,34.26
+BE-14551,Brad Eason,Home Office,1,6,937,350.31,0,37.39
+BE-14552,Brad Eason,Home Office,1,8,403,109.8,0,27.25
+BF-10051,Barry Franz,Home Office,1,11,699,250.02,0,35.77
+BF-10052,Barry Franz,Home Office,1,3,33,-73.59,1,-223
+BF-10201,Barry Französisch,Corporate,5,14,2217,321.81,0,14.52
+BF-10202,Barry Französisch,Corporate,2,14,789,-514.94,1,-65.26
+BF-10801,Bart Folk,Consumer,3,19,1568,5.61,0.5,0.36
+BF-10802,Bart Folk,Consumer,1,12,2183,924.09,0,42.33
+BF-10803,Bart Folk,Consumer,2,4,58,-32.76,0.5,-56.48
+BF-109751,Barbara Fisher,Corporate,9,67,3856,485.99,0,12.6
+BF-109752,Barbara Fisher,Corporate,2,12,2455,369.92,0,15.07
+BF-109753,Barbara Fisher,Corporate,4,21,1196,133.65,0,11.17
+BF-109754,Barbara Fisher,Corporate,7,38,600,227.44,0.08,37.91
+BF-110051,Barry Franz,Home Office,9,88,14563,2272.49,0,15.6
+BF-110052,Barry Franz,Home Office,7,39,3911,-430.39,0,-11
+BF-110053,Barry Franz,Home Office,5,61,3540,-611.49,0.11,-17.27
+BF-110054,Barry Franz,Home Office,4,26,1336,-291.37,0.2,-21.81
+BF-110201,Barry Französisch,Corporate,3,11,1704,416.48,0,24.44
+BF-110202,Barry Französisch,Corporate,8,47,3939,576.88,0,14.65
+BF-110203,Barry Französisch,Corporate,5,27,1668,-162.14,0,-9.72
+BF-110204,Barry Französisch,Corporate,8,78,2889,302.01,0.14,10.45
+BF-110801,Bart Folk,Consumer,9,94,5973,922.99,0,15.45
+BF-110802,Bart Folk,Consumer,4,30,2303,-47.91,0,-2.08
+BF-110803,Bart Folk,Consumer,5,20,1583,201.55,0,12.73
+BF-110804,Bart Folk,Consumer,3,29,274,110.93,0,40.49
+BF-111701,Ben Ferrer,Home Office,4,61,7092,986.71,0,13.91
+BF-111702,Ben Ferrer,Home Office,8,83,6134,965.36,0,15.74
+BF-111703,Ben Ferrer,Home Office,8,60,3179,368.95,0,11.61
+BF-111704,Ben Ferrer,Home Office,11,102,5909,1538.22,0.04,26.03
+BF-112151,Benjamin Farhat,Home Office,10,78,4587,1122.56,0,24.47
+BF-112152,Benjamin Farhat,Home Office,7,33,2734,-1831.04,0.11,-66.97
+BF-112153,Benjamin Farhat,Home Office,6,55,4064,1064.19,0,26.19
+BF-112154,Benjamin Farhat,Home Office,4,48,1586,523.22,0,32.99
+BF-112751,Beth Fritzler,Corporate,1,3,407,80.91,0,19.88
+BF-112752,Beth Fritzler,Corporate,10,61,4357,211.72,0.06,4.86
+BF-112753,Beth Fritzler,Corporate,9,90,4024,246.58,0,6.13
+BF-112754,Beth Fritzler,Corporate,3,11,791,25.88,0,3.27
+BF-11701,Ben Ferrer,Home Office,2,4,268,20.4,0,7.61
+BF-11702,Ben Ferrer,Home Office,4,6,637,255.48,0,40.11
+BF-12151,Benjamin Farhat,Home Office,5,14,399,-237.6,0.63,-59.55
+BF-12751,Beth Fritzler,Corporate,1,2,24,0.96,0,4
+BF-12752,Beth Fritzler,Corporate,6,29,985,95.43,0.36,9.69
+BF-9751,Barbara Fisher,Corporate,5,29,1009,345.25,0.1,34.22
+BF-9752,Barbara Fisher,Corporate,3,26,722,271.47,0.1,37.6
+BG-10351,Barry Gonzalez,Consumer,1,2,124,-219.8,1,-177.26
+BG-110351,Barry Gonzalez,Consumer,9,82,6713,1175.6,0.04,17.51
+BG-110352,Barry Gonzalez,Consumer,6,49,7445,747.36,0,10.04
+BG-110353,Barry Gonzalez,Consumer,10,82,2942,538.44,0,18.3
+BG-110354,Barry Gonzalez,Consumer,8,35,2799,-711.41,0.08,-25.42
+BG-116951,Brooke Gillingham,Corporate,6,48,3436,295.52,0,8.6
+BG-116952,Brooke Gillingham,Corporate,1,7,662,-351.33,0,-53.07
+BG-116953,Brooke Gillingham,Corporate,6,51,4753,517.2,0,10.88
+BG-116954,Brooke Gillingham,Corporate,6,24,1873,107.59,0,5.74
+BG-117401,Bruce Geld,Consumer,6,25,4900,-245.89,0.14,-5.02
+BG-117402,Bruce Geld,Consumer,7,60,3270,849.39,0.07,25.98
+BG-117403,Bruce Geld,Consumer,5,64,5513,1362.09,0,24.71
+BG-117404,Bruce Geld,Consumer,6,22,1006,119.35,0,11.86
+BG-16951,Brooke Gillingham,Corporate,4,18,413,-174.31,0.5,-42.21
+BG-16952,Brooke Gillingham,Corporate,1,5,76,22.65,0,29.8
+BG-17401,Bruce Geld,Consumer,2,6,145,17.85,0,12.31
+BG-17402,Bruce Geld,Consumer,2,21,547,-676.15,0.67,-123.61
+BH-117101,Brosina Hoffman,Consumer,4,38,2412,594.75,0,24.66
+BH-117102,Brosina Hoffman,Consumer,6,47,7089,1928.67,0,27.21
+BH-117103,Brosina Hoffman,Consumer,13,116,7779,-82.26,0.14,-1.06
+BH-117104,Brosina Hoffman,Consumer,8,97,6256,802.8,0.13,12.83
+BH-17101,Brosina Hoffman,Consumer,3,28,1333,613.2,0,46
+BH-17102,Brosina Hoffman,Consumer,7,29,3251,1019.8,0.05,31.37
+BK-112601,Berenike Kampe,Consumer,7,38,6899,1664.76,0.08,24.13
+BK-112602,Berenike Kampe,Consumer,8,66,3859,341.26,0,8.84
+BK-112603,Berenike Kampe,Consumer,6,46,1877,447.2,0,23.83
+BK-112604,Berenike Kampe,Consumer,6,58,659,-63.76,0.19,-9.68
+BK-12601,Berenike Kampe,Consumer,1,5,214,100.11,0,46.78
+BK-12602,Berenike Kampe,Consumer,5,8,78,-41.89,0.8,-53.71
+BM-111401,Becky Martin,Consumer,7,78,6930,140.24,0,2.02
+BM-111402,Becky Martin,Consumer,6,23,1344,56.52,0.13,4.21
+BM-111403,Becky Martin,Consumer,12,106,5250,322.57,0.17,6.14
+BM-111404,Becky Martin,Consumer,4,64,11791,-1659.97,0.06,-14.08
+BM-11401,Becky Martin,Consumer,2,3,86,-50.51,0.5,-58.73
+BM-11402,Becky Martin,Consumer,4,19,1772,94.23,0.33,5.32
+BM-115751,Brendan Murry,Corporate,9,63,6011,-667.82,0,-11.11
+BM-115752,Brendan Murry,Corporate,4,16,625,90.76,0,14.52
+BM-115753,Brendan Murry,Corporate,6,31,2908,291.95,0,10.04
+BM-115754,Brendan Murry,Corporate,6,22,809,95.58,0.2,11.81
+BM-116501,Brian Moss,Corporate,3,8,835,94.51,0,11.32
+BM-116502,Brian Moss,Corporate,7,67,3296,637.88,0.05,19.35
+BM-116503,Brian Moss,Corporate,3,45,3497,995.49,0,28.47
+BM-116504,Brian Moss,Corporate,11,92,6749,2041.41,0.07,30.25
+BM-117851,Bryan Mills,Consumer,14,115,10399,932.05,0,8.96
+BM-117852,Bryan Mills,Consumer,7,40,4330,703.41,0,16.25
+BM-117853,Bryan Mills,Consumer,5,34,2377,263.47,0,11.08
+BM-117854,Bryan Mills,Consumer,10,44,1338,137.72,0.14,10.29
+BM-15751,Brendan Murry,Corporate,5,15,1368,510.66,0,37.33
+BM-15752,Brendan Murry,Corporate,4,10,334,-38.99,0.17,-11.67
+BM-16501,Brian Moss,Corporate,2,7,341,79.21,0.25,23.23
+BM-16502,Brian Moss,Corporate,1,1,17,6.51,0,38.29
+BM-16503,Brian Moss,Corporate,5,25,2180,372.95,0.11,17.11
+BM-17851,Bryan Mills,Consumer,7,42,2096,437.5,0.14,20.87
+BM-17852,Bryan Mills,Consumer,2,3,149,38.43,0,25.79
+BN-114701,Brad Norvell,Corporate,10,76,13672,1268.19,0,9.28
+BN-114702,Brad Norvell,Corporate,6,34,3729,-599,0,-16.06
+BN-114703,Brad Norvell,Corporate,9,87,5710,842.25,0,14.75
+BN-114704,Brad Norvell,Corporate,4,15,266,36.61,0,13.76
+BN-115151,Bradley Nguyen,Consumer,4,29,1364,220.11,0,16.14
+BN-115152,Bradley Nguyen,Consumer,5,43,2433,631.05,0,25.94
+BN-115153,Bradley Nguyen,Consumer,9,56,5014,826.83,0,16.49
+BN-115154,Bradley Nguyen,Consumer,5,79,1460,340.72,0,23.34
+BN-14701,Brad Norvell,Corporate,3,17,1325,387.3,0,29.23
+BN-14702,Brad Norvell,Corporate,4,14,1498,188.71,0.4,12.6
+BN-15151,Bradley Nguyen,Consumer,4,14,773,207.42,0,26.83
+BN-15152,Bradley Nguyen,Consumer,4,23,1834,317.95,0.2,17.34
+BO-113501,Bill Overfelt,Corporate,8,70,3754,249.94,0,6.66
+BO-113502,Bill Overfelt,Corporate,4,16,815,8.9,0,1.09
+BO-113503,Bill Overfelt,Corporate,3,4,225,17.59,0,7.82
+BO-113504,Bill Overfelt,Corporate,5,43,2682,278.78,0.17,10.39
+BO-114251,Bobby Odegard,Consumer,7,40,1939,233.19,0,12.03
+BO-114252,Bobby Odegard,Consumer,8,85,6314,571.34,0,9.05
+BO-114253,Bobby Odegard,Consumer,4,33,3974,1040.88,0,26.19
+BO-114254,Bobby Odegard,Consumer,2,7,131,59.46,0,45.39
+BO-13501,Bill Overfelt,Corporate,3,17,477,-15.94,0.33,-3.34
+BO-13502,Bill Overfelt,Corporate,3,8,140,-124.02,1,-88.59
+BO-14251,Bobby Odegard,Consumer,4,21,1560,452.73,0,29.02
+BO-14252,Bobby Odegard,Consumer,4,27,1111,199.2,0.13,17.93
+BP-10501,Barry Pond,Corporate,4,27,2953,969.38,0.13,32.83
+BP-10502,Barry Pond,Corporate,5,28,2031,276.5,0.5,13.61
+BP-10951,Bart Pistole,Corporate,3,10,414,3.76,0.25,0.91
+BP-10952,Bart Pistole,Corporate,3,23,1346,381.07,0,28.31
+BP-110501,Barry Pond,Corporate,3,22,671,-190.17,0,-28.34
+BP-110502,Barry Pond,Corporate,7,26,1581,216.51,0.08,13.69
+BP-110503,Barry Pond,Corporate,6,43,2170,608.96,0,28.06
+BP-110504,Barry Pond,Corporate,5,30,983,209.78,0.14,21.34
+BP-110951,Bart Pistole,Corporate,4,22,900,-156.96,0,-17.44
+BP-110952,Bart Pistole,Corporate,8,45,2425,280.06,0.07,11.55
+BP-110953,Bart Pistole,Corporate,8,73,2560,42.36,0.15,1.65
+BP-110954,Bart Pistole,Corporate,12,70,2442,433.98,0.1,17.77
+BP-111551,Becky Pak,Consumer,6,35,801,57.88,0,7.23
+BP-111552,Becky Pak,Consumer,7,77,7590,1971.92,0,25.98
+BP-111553,Becky Pak,Consumer,5,44,3610,718.11,0,19.89
+BP-111554,Becky Pak,Consumer,6,32,1698,647.38,0.09,38.13
+BP-111851,Ben Peterman,Corporate,5,32,4436,1288.24,0,29.04
+BP-111852,Ben Peterman,Corporate,7,60,4348,587.76,0,13.52
+BP-111853,Ben Peterman,Corporate,7,51,2919,-250.12,0.08,-8.57
+BP-111854,Ben Peterman,Corporate,9,69,3676,363.59,0.06,9.89
+BP-112301,Benjamin Patterson,Consumer,7,47,4264,1045.49,0,24.52
+BP-112302,Benjamin Patterson,Consumer,5,39,5519,815.23,0,14.77
+BP-112303,Benjamin Patterson,Consumer,6,49,1612,-1195.52,0.09,-74.16
+BP-112304,Benjamin Patterson,Consumer,5,14,1181,-197.28,0,-16.7
+BP-112901,Beth Paige,Consumer,8,33,3172,504.66,0,15.91
+BP-112902,Beth Paige,Consumer,5,32,3892,1296.44,0,33.31
+BP-112903,Beth Paige,Consumer,9,54,2908,376.78,0,12.96
+BP-112904,Beth Paige,Consumer,7,51,2472,-319.07,0.19,-12.91
+BP-11551,Becky Pak,Consumer,1,2,87,36.87,0,42.38
+BP-11552,Becky Pak,Consumer,1,6,175,23.1,0,13.2
+BP-11553,Becky Pak,Consumer,4,25,850,120.93,0,14.23
+BP-11851,Ben Peterman,Corporate,4,18,580,-11.7,0.5,-2.02
+BP-11852,Ben Peterman,Corporate,6,16,850,-633.84,0.91,-74.57
+BP-12301,Benjamin Patterson,Consumer,4,50,5496,268.96,0.53,4.89
+BP-12302,Benjamin Patterson,Consumer,4,8,642,175.33,0.17,27.31
+BP-12901,Beth Paige,Consumer,1,6,65,11.7,0,18
+BP-12902,Beth Paige,Consumer,3,10,318,87.57,0,27.54
+BS-113651,Bill Shonely,Corporate,4,33,1321,451.62,0,34.19
+BS-113652,Bill Shonely,Corporate,5,48,4186,1397.32,0,33.38
+BS-113653,Bill Shonely,Corporate,12,113,6543,1215.71,0,18.58
+BS-113654,Bill Shonely,Corporate,5,39,10502,2616.06,0,24.91
+BS-113801,Bill Stewart,Corporate,6,77,8133,342.16,0,4.21
+BS-113802,Bill Stewart,Corporate,4,38,1671,376.43,0,22.53
+BS-113803,Bill Stewart,Corporate,8,81,4614,1075.66,0.05,23.31
+BS-113804,Bill Stewart,Corporate,5,58,3888,-17.53,0.15,-0.45
+BS-115901,Brendan Sweed,Corporate,7,64,2791,223.9,0,8.02
+BS-115902,Brendan Sweed,Corporate,6,59,4036,519.51,0,12.87
+BS-115903,Brendan Sweed,Corporate,4,27,2078,658.27,0,31.68
+BS-115904,Brendan Sweed,Corporate,6,41,2455,381.78,0.3,15.55
+BS-116651,Brian Stugart,Consumer,4,52,4658,546.94,0,11.74
+BS-116652,Brian Stugart,Consumer,9,53,3734,228.23,0,6.11
+BS-116653,Brian Stugart,Consumer,8,73,5789,2098.26,0,36.25
+BS-116654,Brian Stugart,Consumer,3,47,3288,238.73,0.18,7.26
+BS-117551,Bruce Stewart,Consumer,7,52,6031,777.41,0,12.89
+BS-117552,Bruce Stewart,Consumer,6,51,4698,378.49,0,8.06
+BS-117553,Bruce Stewart,Consumer,9,84,4263,152.12,0.04,3.57
+BS-117554,Bruce Stewart,Consumer,7,45,2564,-113.31,0,-4.42
+BS-118001,Bryan Spruell,Home Office,5,34,4711,873.92,0,18.55
+BS-118002,Bryan Spruell,Home Office,6,44,3002,431.78,0,14.38
+BS-118003,Bryan Spruell,Home Office,8,52,2224,352.11,0,15.83
+BS-118004,Bryan Spruell,Home Office,2,22,950,194.05,0,20.43
+BS-13651,Bill Shonely,Corporate,3,17,807,258.87,0,32.08
+BS-13652,Bill Shonely,Corporate,2,4,152,29.31,0,19.28
+BS-13801,Bill Stewart,Corporate,3,5,160,-0.13,0.4,-0.08
+BS-13802,Bill Stewart,Corporate,2,7,310,38.46,0,12.41
+BS-15901,Brendan Sweed,Corporate,2,2,35,10.71,0,30.6
+BS-15902,Brendan Sweed,Corporate,3,14,784,251.52,0,32.08
+BS-16651,Brian Stugart,Consumer,3,27,1016,249.66,0,24.57
+BS-16652,Brian Stugart,Consumer,4,26,4088,251.06,0.22,6.14
+BS-17551,Bruce Stewart,Consumer,4,18,1675,-695.04,0.36,-41.49
+BS-17552,Bruce Stewart,Consumer,1,2,3,-2.72,1,-90.67
+BS-18001,Bryan Spruell,Home Office,5,40,4163,235.07,0.07,5.65
+BS-18002,Bryan Spruell,Home Office,4,22,2203,696.27,0,31.61
+BT-113051,Beth Thompson,Home Office,3,30,2394,-52.21,0,-2.18
+BT-113052,Beth Thompson,Home Office,8,53,2919,545.68,0,18.69
+BT-113053,Beth Thompson,Home Office,8,76,2443,-2.89,0.17,-0.12
+BT-113054,Beth Thompson,Home Office,5,33,2568,417.58,0,16.26
+BT-113951,Bill Tyler,Corporate,8,41,3596,909.76,0,25.3
+BT-113952,Bill Tyler,Corporate,8,77,5228,1481.31,0,28.33
+BT-113953,Bill Tyler,Corporate,2,10,337,94.98,0,28.18
+BT-113954,Bill Tyler,Corporate,6,38,2188,257.9,0.1,11.79
+BT-114401,Bobby Trafton,Consumer,5,31,3168,166.71,0,5.26
+BT-114402,Bobby Trafton,Consumer,6,32,2016,76.9,0,3.81
+BT-114403,Bobby Trafton,Consumer,6,41,2476,124.85,0.13,5.04
+BT-114404,Bobby Trafton,Consumer,4,16,605,-77.52,0.14,-12.81
+BT-114851,Brad Thomas,Home Office,8,68,2681,438.69,0,16.36
+BT-114852,Brad Thomas,Home Office,9,64,4105,271.33,0,6.61
+BT-114853,Brad Thomas,Home Office,10,49,1678,333.85,0.07,19.9
+BT-114854,Brad Thomas,Home Office,2,11,415,126.87,0,30.57
+BT-115301,Bradley Talbott,Home Office,6,29,6924,237.43,0,3.43
+BT-115302,Bradley Talbott,Home Office,7,58,2488,192.69,0,7.74
+BT-115303,Bradley Talbott,Home Office,7,36,1711,91.2,0.17,5.33
+BT-115304,Bradley Talbott,Home Office,5,44,2684,409.49,0,15.26
+BT-116801,Brian Thompson,Consumer,10,65,8849,1969.79,0,22.26
+BT-116802,Brian Thompson,Consumer,2,38,1499,-782.94,0,-52.23
+BT-116803,Brian Thompson,Consumer,3,18,543,29.31,0,5.4
+BT-116804,Brian Thompson,Consumer,7,88,3197,447.77,0,14.01
+BT-13051,Beth Thompson,Home Office,6,35,916,-80.61,0.46,-8.8
+BT-13052,Beth Thompson,Home Office,4,7,391,36.36,0.4,9.3
+BT-13951,Bill Tyler,Corporate,3,15,205,-255.14,0.6,-124.46
+BT-13952,Bill Tyler,Corporate,1,2,244,56.1,0,22.99
+BT-14401,Bobby Trafton,Consumer,4,16,541,154.97,0.2,28.65
+BT-14402,Bobby Trafton,Consumer,6,36,1594,-915.7,0.8,-57.45
+BT-14851,Brad Thomas,Home Office,3,10,174,35.88,0,20.62
+BT-14852,Brad Thomas,Home Office,6,31,2630,-267.01,0.67,-10.15
+BT-15301,Bradley Talbott,Home Office,2,4,105,-37.53,0.5,-35.74
+BT-15302,Bradley Talbott,Home Office,1,9,832,395.79,0,47.57
+BT-15303,Bradley Talbott,Home Office,4,8,599,164.53,0,27.47
+BT-16801,Brian Thompson,Consumer,2,5,482,83.46,0,17.32
+BT-16802,Brian Thompson,Consumer,2,4,326,48.18,0,14.78
+BV-112451,Benjamin Venier,Corporate,4,46,6258,510.5,0,8.16
+BV-112452,Benjamin Venier,Corporate,10,69,10437,2761.27,0,26.46
+BV-112453,Benjamin Venier,Corporate,3,20,2464,-171.94,0,-6.98
+BV-112454,Benjamin Venier,Corporate,5,49,1522,315.23,0.07,20.71
+BV-12451,Benjamin Venier,Corporate,3,16,685,-595.3,0.88,-86.91
+BW-10651,Barry Weirich,Consumer,4,47,8957,3333.06,0,37.21
+BW-10652,Barry Weirich,Consumer,1,4,70,8.28,0,11.83
+BW-110651,Barry Weirich,Consumer,5,47,3107,198.11,0,6.38
+BW-110652,Barry Weirich,Consumer,5,43,1640,136.57,0,8.33
+BW-110653,Barry Weirich,Consumer,5,67,3280,77.7,0,2.37
+BW-110654,Barry Weirich,Consumer,3,8,386,-58.29,0,-15.1
+BW-11101,Bart Watters,Corporate,4,6,411,105.18,0,25.59
+BW-11102,Bart Watters,Corporate,1,1,17,7.14,0,42
+BW-11103,Bart Watters,Corporate,5,15,1268,146.1,0,11.52
+BW-111101,Bart Watters,Corporate,12,121,12267,315.32,0,2.57
+BW-111102,Bart Watters,Corporate,10,59,10278,1658.5,0,16.14
+BW-111103,Bart Watters,Corporate,5,60,3206,414.65,0,12.93
+BW-111104,Bart Watters,Corporate,8,74,4752,921.26,0.12,19.39
+BW-112001,Ben Wallace,Consumer,9,57,4381,549.87,0,12.55
+BW-112002,Ben Wallace,Consumer,4,13,1183,489.67,0,41.39
+BW-112003,Ben Wallace,Consumer,10,65,4557,281.33,0.05,6.17
+BW-112004,Ben Wallace,Consumer,6,49,1738,247,0.1,14.21
+BW-12001,Ben Wallace,Consumer,3,31,2997,765.85,0.15,25.55
+BW-12002,Ben Wallace,Consumer,1,4,109,18.48,0,16.95
+CA-119651,Carol Adams,Corporate,7,53,11653,3220.06,0,27.63
+CA-119652,Carol Adams,Corporate,9,51,4077,651.82,0,15.99
+CA-119653,Carol Adams,Corporate,4,31,1591,-1633,0.43,-102.64
+CA-119654,Carol Adams,Corporate,6,29,3789,1143.39,0,30.18
+CA-120551,Cathy Armstrong,Home Office,5,32,2746,322.58,0,11.75
+CA-120552,Cathy Armstrong,Home Office,7,59,4018,815.62,0,20.3
+CA-120553,Cathy Armstrong,Home Office,5,39,2248,388.93,0,17.3
+CA-120554,Cathy Armstrong,Home Office,5,49,1679,211.26,0.2,12.58
+CA-122651,Christina Anderson,Consumer,9,51,3988,1053.08,0,26.41
+CA-122652,Christina Anderson,Consumer,6,51,9234,1505.39,0,16.3
+CA-122653,Christina Anderson,Consumer,7,56,2601,432.64,0,16.63
+CA-122654,Christina Anderson,Consumer,9,65,2649,279.62,0.18,10.56
+CA-123101,Christine Abelman,Corporate,5,13,1091,260.12,0,23.84
+CA-123102,Christine Abelman,Corporate,7,31,2734,-32.57,0,-1.19
+CA-123103,Christine Abelman,Corporate,5,34,1920,254.35,0,13.25
+CA-123104,Christine Abelman,Corporate,4,25,1423,246.01,0,17.29
+CA-127751,Cynthia Arntzen,Consumer,5,42,11493,4045.88,0,35.2
+CA-127752,Cynthia Arntzen,Consumer,6,31,2181,39.51,0,1.81
+CA-127753,Cynthia Arntzen,Consumer,8,39,1635,315.6,0,19.3
+CA-127754,Cynthia Arntzen,Consumer,7,72,3040,204.49,0.12,6.73
+CA-19651,Carol Adams,Corporate,3,6,435,-51.86,0.5,-11.92
+CA-19652,Carol Adams,Corporate,5,30,2448,-51.31,0.33,-2.1
+CA-20551,Cathy Armstrong,Home Office,1,5,1002,55.44,0,5.53
+CA-20552,Cathy Armstrong,Home Office,2,23,600,75.96,0,12.66
+CA-22651,Christina Anderson,Consumer,1,2,321,35.34,0,11.01
+CA-22652,Christina Anderson,Consumer,6,22,3042,356.06,0.11,11.7
+CA-23101,Christine Abelman,Corporate,3,6,221,55.47,0,25.1
+CA-23102,Christine Abelman,Corporate,2,4,414,83.76,0,20.23
+CA-27751,Cynthia Arntzen,Consumer,2,8,742,-175.03,0.5,-23.59
+CA-27752,Cynthia Arntzen,Consumer,2,21,743,-539.2,0.63,-72.57
+CB-120251,Cassandra Brandow,Consumer,5,23,3393,-565.58,0,-16.67
+CB-120252,Cassandra Brandow,Consumer,5,32,1475,257.21,0,17.44
+CB-120253,Cassandra Brandow,Consumer,5,29,744,59.43,0,7.99
+CB-120254,Cassandra Brandow,Consumer,10,122,6076,150.21,0.08,2.47
+CB-124151,Christy Brittain,Consumer,1,16,311,139.74,0,44.93
+CB-124152,Christy Brittain,Consumer,6,42,5679,1653.77,0,29.12
+CB-124153,Christy Brittain,Consumer,8,74,4766,206,0,4.32
+CB-124154,Christy Brittain,Consumer,8,44,1949,272.4,0.33,13.98
+CB-125351,Claudia Bergmann,Corporate,3,29,3987,793.09,0,19.89
+CB-125352,Claudia Bergmann,Corporate,8,83,7379,618.58,0,8.38
+CB-125353,Claudia Bergmann,Corporate,8,48,2500,-59.33,0,-2.37
+CB-125354,Claudia Bergmann,Corporate,8,74,4247,1049.55,0,24.71
+CB-20251,Cassandra Brandow,Consumer,5,21,1841,307.56,0,16.71
+CB-24151,Christy Brittain,Consumer,1,2,64,30.06,0,46.97
+CB-24152,Christy Brittain,Consumer,3,16,1169,-214.87,0.25,-18.38
+CB-25351,Claudia Bergmann,Corporate,1,5,116,-197.45,1,-170.22
+CB-25352,Claudia Bergmann,Corporate,1,2,32,-37.24,1,-116.38
+CC-121001,Chad Cunningham,Home Office,3,20,1317,435.97,0,33.1
+CC-121002,Chad Cunningham,Home Office,7,67,4417,873.03,0,19.77
+CC-121003,Chad Cunningham,Home Office,9,63,3997,866.67,0.06,21.68
+CC-121004,Chad Cunningham,Home Office,6,46,1771,208.6,0.15,11.78
+CC-121451,Charles Crestani,Consumer,7,63,4483,-195.77,0.05,-4.37
+CC-121452,Charles Crestani,Consumer,7,37,4945,1353.56,0,27.37
+CC-121453,Charles Crestani,Consumer,3,24,292,-78.14,0,-26.76
+CC-121454,Charles Crestani,Consumer,7,31,2473,392.29,0,15.86
+CC-122201,Chris Cortes,Consumer,5,40,850,186.83,0,21.98
+CC-122202,Chris Cortes,Consumer,7,50,1995,683.13,0.07,34.24
+CC-122203,Chris Cortes,Consumer,8,24,550,51.89,0.11,9.43
+CC-122204,Chris Cortes,Consumer,12,81,3914,393.97,0,10.07
+CC-123701,Christopher Conant,Consumer,12,120,9524,656.07,0,6.89
+CC-123702,Christopher Conant,Consumer,9,56,5455,1061.94,0,19.47
+CC-123703,Christopher Conant,Consumer,4,20,1122,87.86,0,7.83
+CC-123704,Christopher Conant,Consumer,5,34,12128,2177.05,0.18,17.95
+CC-124301,Chuck Clark,Home Office,9,70,5193,1207.96,0,23.26
+CC-124302,Chuck Clark,Home Office,1,4,57,6.24,0,10.95
+CC-124303,Chuck Clark,Home Office,9,77,5878,1141.06,0,19.41
+CC-124304,Chuck Clark,Home Office,10,63,2869,424.63,0,14.8
+CC-124751,Cindy Chapman,Consumer,9,69,7015,1447.08,0,20.63
+CC-124752,Cindy Chapman,Consumer,5,46,2705,547.78,0,20.25
+CC-124753,Cindy Chapman,Consumer,7,65,5779,970.44,0,16.79
+CC-124754,Cindy Chapman,Consumer,9,40,1659,154.85,0.08,9.33
+CC-125501,Clay Cheatham,Consumer,6,68,4195,585.14,0,13.95
+CC-125502,Clay Cheatham,Consumer,8,38,1689,390.49,0,23.12
+CC-125503,Clay Cheatham,Consumer,8,53,1915,157.97,0,8.25
+CC-125504,Clay Cheatham,Consumer,3,14,113,33.87,0,29.97
+CC-126101,Corey Catlett,Corporate,11,86,5637,1158.35,0,20.55
+CC-126102,Corey Catlett,Corporate,8,49,6492,878.47,0,13.53
+CC-126103,Corey Catlett,Corporate,3,22,2152,581.94,0,27.04
+CC-126104,Corey Catlett,Corporate,7,39,2541,331.45,0.25,13.04
+CC-126701,Craig Carreira,Consumer,9,60,4766,64.88,0,1.36
+CC-126702,Craig Carreira,Consumer,4,24,1384,-414.12,0,-29.92
+CC-126703,Craig Carreira,Consumer,8,43,1548,-388.18,0.06,-25.08
+CC-126704,Craig Carreira,Consumer,7,47,2271,187.83,0.07,8.27
+CC-126851,Craig Carroll,Consumer,6,43,4893,-722.3,0.1,-14.76
+CC-126852,Craig Carroll,Consumer,7,71,4745,631.54,0.06,13.31
+CC-126853,Craig Carroll,Consumer,3,17,304,-65.79,0,-21.64
+CC-126854,Craig Carroll,Consumer,4,51,2854,850.15,0.25,29.79
+CC-21001,Chad Cunningham,Home Office,2,6,513,189.48,0,36.94
+CC-21002,Chad Cunningham,Home Office,3,14,507,48.89,0.17,9.64
+CC-21451,Charles Crestani,Consumer,3,8,671,204.84,0,30.53
+CC-21452,Charles Crestani,Consumer,3,17,486,-368.98,0.86,-75.92
+CC-22201,Chris Cortes,Consumer,3,12,1568,460.25,0.17,29.35
+CC-22202,Chris Cortes,Consumer,5,18,944,258.3,0,27.36
+CC-22203,Chris Cortes,Consumer,4,43,1662,471.53,0.06,28.37
+CC-23701,Christopher Conant,Consumer,3,7,1414,178.59,0,12.63
+CC-23702,Christopher Conant,Consumer,6,50,5544,1441.82,0.14,26.01
+CC-24301,Chuck Clark,Home Office,1,6,154,61.17,0,39.72
+CC-24302,Chuck Clark,Home Office,1,9,889,99.42,0,11.18
+CC-24751,Cindy Chapman,Consumer,4,15,2488,731.34,0.38,29.39
+CC-24752,Cindy Chapman,Consumer,1,4,701,77.1,0,11
+CC-24753,Cindy Chapman,Consumer,2,7,519,106.24,0.4,20.47
+CC-25501,Clay Cheatham,Consumer,3,10,321,-139.74,0.5,-43.53
+CC-25502,Clay Cheatham,Consumer,2,8,1112,496.83,0,44.68
+CC-26101,Corey Catlett,Corporate,3,16,782,52.82,0.5,6.75
+CC-26701,Craig Carreira,Consumer,2,19,658,212.1,0,32.23
+CC-26702,Craig Carreira,Consumer,4,17,870,56.5,0.44,6.49
+CC-26851,Craig Carroll,Consumer,4,23,3954,1620.93,0,40.99
+CC-26852,Craig Carroll,Consumer,1,5,65,-64.7,1,-99.54
+CD-119201,Carlos Daly,Consumer,5,52,7581,3107.6,0,40.99
+CD-119202,Carlos Daly,Consumer,9,86,7413,1273.32,0,17.18
+CD-119203,Carlos Daly,Consumer,8,52,1267,-55.84,0,-4.41
+CD-119204,Carlos Daly,Consumer,5,35,2035,426.65,0,20.97
+CD-119801,Carol Darley,Consumer,6,43,4610,1362.55,0,29.56
+CD-119802,Carol Darley,Consumer,7,48,3430,476.23,0,13.88
+CD-119803,Carol Darley,Consumer,7,78,3170,16.38,0.05,0.52
+CD-119804,Carol Darley,Consumer,3,22,641,-206.71,0.5,-32.25
+CD-122801,Christina DeMoss,Consumer,7,66,10763,1260.74,0,11.71
+CD-122802,Christina DeMoss,Consumer,6,67,3185,601.83,0,18.9
+CD-122803,Christina DeMoss,Consumer,9,64,1628,271.81,0,16.7
+CD-122804,Christina DeMoss,Consumer,2,39,1206,233.01,0,19.32
+CD-127901,Cynthia Delaney,Home Office,3,22,1025,318.87,0,31.11
+CD-127902,Cynthia Delaney,Home Office,13,101,10120,1290.37,0,12.75
+CD-127903,Cynthia Delaney,Home Office,4,31,463,67.41,0,14.56
+CD-127904,Cynthia Delaney,Home Office,5,49,1861,403.85,0,21.7
+CD-19201,Carlos Daly,Consumer,2,11,1602,224.44,0.25,14.01
+CD-19202,Carlos Daly,Consumer,2,4,219,52.74,0,24.08
+CD-19801,Carol Darley,Consumer,3,17,996,163.66,0.57,16.43
+CD-19802,Carol Darley,Consumer,2,3,156,21.72,0,13.92
+CD-19803,Carol Darley,Consumer,2,7,229,46.53,0,20.32
+CD-22801,Christina DeMoss,Consumer,4,20,566,43.94,0.56,7.76
+CD-22802,Christina DeMoss,Consumer,3,9,638,180.45,0,28.28
+CD-27901,Cynthia Delaney,Home Office,4,15,853,155.69,0.11,18.25
+CD-27902,Cynthia Delaney,Home Office,3,8,121,-92.61,0.86,-76.54
+CG-120401,Catherine Glotzbach,Home Office,7,27,1925,202.49,0,10.52
+CG-120402,Catherine Glotzbach,Home Office,2,18,373,-139.87,0,-37.5
+CG-120403,Catherine Glotzbach,Home Office,4,24,393,-0.08,0.2,-0.02
+CG-120404,Catherine Glotzbach,Home Office,6,37,906,86.52,0.11,9.55
+CG-125201,Claire Gute,Consumer,6,59,6267,1120.6,0,17.88
+CG-125202,Claire Gute,Consumer,6,48,3538,673,0,19.02
+CG-125203,Claire Gute,Consumer,3,41,2591,434.59,0,16.77
+CG-125204,Claire Gute,Consumer,3,14,1148,169.93,0.2,14.8
+CG-20401,Catherine Glotzbach,Home Office,2,5,36,-53.61,1,-148.92
+CG-20402,Catherine Glotzbach,Home Office,3,9,483,-342.3,1,-70.87
+CG-25201,Claire Gute,Consumer,4,10,180,6.99,0.67,3.88
+CG-25202,Claire Gute,Consumer,3,12,938,161.46,0,17.21
+CH-120701,Cathy Hwang,Home Office,5,28,2440,367.12,0,15.05
+CH-120702,Cathy Hwang,Home Office,9,94,6312,1169.6,0,18.53
+CH-120703,Cathy Hwang,Home Office,4,21,832,-238.45,0.17,-28.66
+CH-120704,Cathy Hwang,Home Office,3,13,1537,195.16,0,12.7
+CH-20701,Cathy Hwang,Home Office,3,16,528,36.64,0.17,6.94
+CH-20702,Cathy Hwang,Home Office,5,53,4018,1141.45,0.05,28.41
+CJ-118751,Carl Jackson,Corporate,11,81,9269,1623.3,0,17.51
+CJ-118752,Carl Jackson,Corporate,6,27,761,94.42,0,12.41
+CJ-118753,Carl Jackson,Corporate,5,23,2494,137.89,0,5.53
+CJ-118754,Carl Jackson,Corporate,1,5,17,1.65,0,9.71
+CJ-120101,Caroline Jumper,Consumer,4,27,1948,611.15,0,31.37
+CJ-120102,Caroline Jumper,Consumer,6,25,1283,-248.25,0,-19.35
+CJ-120103,Caroline Jumper,Consumer,8,83,4961,1165.08,0,23.48
+CJ-120104,Caroline Jumper,Consumer,8,83,11165,858.75,0.05,7.69
+CJ-18751,Carl Jackson,Corporate,2,13,411,64.56,0,15.71
+CJ-18752,Carl Jackson,Corporate,4,19,1020,35.63,0.3,3.49
+CJ-20101,Caroline Jumper,Consumer,2,3,116,28.71,0,24.75
+CJ-20102,Caroline Jumper,Consumer,1,1,109,2.16,0,1.98
+CK-122051,Chloris Kastensmidt,Consumer,11,70,4487,-432.87,0,-9.65
+CK-122052,Chloris Kastensmidt,Consumer,7,51,4774,1464.49,0,30.68
+CK-122053,Chloris Kastensmidt,Consumer,7,63,1207,138.3,0.13,11.46
+CK-122054,Chloris Kastensmidt,Consumer,13,122,3154,141.25,0.09,4.48
+CK-123251,Christine Kargatis,Home Office,7,30,1916,160.52,0,8.38
+CK-123252,Christine Kargatis,Home Office,6,27,1353,357.79,0,26.44
+CK-123253,Christine Kargatis,Home Office,9,91,3713,69.98,0.08,1.88
+CK-123254,Christine Kargatis,Home Office,5,46,2946,261.23,0.08,8.87
+CK-125951,Clytie Kelty,Consumer,7,68,7018,1441.64,0,20.54
+CK-125952,Clytie Kelty,Consumer,8,50,4945,231.02,0.08,4.67
+CK-125953,Clytie Kelty,Consumer,7,46,2144,5.48,0,0.26
+CK-125954,Clytie Kelty,Consumer,11,108,2372,497.69,0.16,20.98
+CK-127601,Cyma Kinney,Corporate,4,25,1002,-273.86,0,-27.33
+CK-127602,Cyma Kinney,Corporate,6,31,2293,412.9,0,18.01
+CK-127603,Cyma Kinney,Corporate,7,45,1700,98.89,0,5.82
+CK-127604,Cyma Kinney,Corporate,9,64,1583,-338.44,0.07,-21.38
+CK-22051,Chloris Kastensmidt,Consumer,1,1,3,-3.26,1,-108.67
+CK-22052,Chloris Kastensmidt,Consumer,4,20,947,-342.15,0.5,-36.13
+CK-23251,Christine Kargatis,Home Office,4,18,260,37.18,0.17,14.3
+CK-23252,Christine Kargatis,Home Office,4,33,2867,494.01,0,17.23
+CK-25951,Clytie Kelty,Consumer,2,3,115,34.62,0,30.1
+CK-25952,Clytie Kelty,Consumer,1,14,547,163.17,0,29.83
+CK-27601,Cyma Kinney,Corporate,5,32,2081,377.19,0,18.13
+CK-27602,Cyma Kinney,Corporate,7,14,1937,248.7,0.08,12.84
+CL-118901,Carl Ludwig,Consumer,7,63,6746,50.41,0,0.75
+CL-118902,Carl Ludwig,Consumer,6,31,2709,604.36,0.13,22.31
+CL-118903,Carl Ludwig,Consumer,14,80,6904,-1230.61,0.05,-17.82
+CL-118904,Carl Ludwig,Consumer,4,24,1262,328.08,0,26
+CL-125651,Clay Ludtke,Consumer,3,21,724,79.38,0,10.96
+CL-125652,Clay Ludtke,Consumer,9,62,3424,-1374.26,0.07,-40.14
+CL-125653,Clay Ludtke,Consumer,6,55,1979,-24.32,0,-1.23
+CL-125654,Clay Ludtke,Consumer,12,106,10881,1933.79,0,17.77
+CL-127001,Craig Leslie,Home Office,9,78,10184,1242.48,0.05,12.2
+CL-127002,Craig Leslie,Home Office,8,56,2902,350.29,0,12.07
+CL-127003,Craig Leslie,Home Office,9,66,2506,741.66,0.05,29.6
+CL-127004,Craig Leslie,Home Office,5,34,2354,229,0.13,9.73
+CL-18901,Carl Ludwig,Consumer,5,8,325,41.35,0.2,12.72
+CL-18902,Carl Ludwig,Consumer,1,1,53,26.64,0,50.26
+CL-18903,Carl Ludwig,Consumer,3,8,181,15.49,0.17,8.56
+CL-25651,Clay Ludtke,Consumer,4,34,2713,755.97,0,27.86
+CL-25652,Clay Ludtke,Consumer,2,6,63,-47.12,0.67,-74.79
+CL-27001,Craig Leslie,Home Office,2,12,1393,137.37,0,9.86
+CL-27002,Craig Leslie,Home Office,2,2,39,-30.49,0.5,-78.18
+CM-118151,Candace McMahon,Corporate,4,33,4625,-519.65,0,-11.24
+CM-118152,Candace McMahon,Corporate,7,37,5045,-1649.81,0,-32.7
+CM-118153,Candace McMahon,Corporate,6,49,3020,-926.65,0.08,-30.68
+CM-118154,Candace McMahon,Corporate,6,38,1676,214.45,0,12.8
+CM-118301,Cari MacIntyre,Corporate,7,56,4081,161.91,0,3.97
+CM-118302,Cari MacIntyre,Corporate,11,112,11303,1844.33,0,16.32
+CM-118303,Cari MacIntyre,Corporate,6,38,1447,438.46,0,30.3
+CM-119351,Carlos Meador,Consumer,6,23,3551,752.49,0,21.19
+CM-119352,Carlos Meador,Consumer,6,56,2261,581.53,0,25.72
+CM-119353,Carlos Meador,Consumer,4,32,3313,790.8,0,23.87
+CM-119354,Carlos Meador,Consumer,2,18,565,-43.73,0,-7.74
+CM-121151,Chad McGuire,Consumer,7,53,7711,502.1,0,6.51
+CM-121152,Chad McGuire,Consumer,4,45,3738,1287.84,0,34.45
+CM-121153,Chad McGuire,Consumer,5,18,1467,-27.43,0,-1.87
+CM-121154,Chad McGuire,Consumer,4,35,1662,409.07,0,24.61
+CM-121601,Charles McCrossin,Consumer,8,63,8870,715.11,0,8.06
+CM-121602,Charles McCrossin,Consumer,7,45,2667,136.57,0,5.12
+CM-121603,Charles McCrossin,Consumer,5,26,3840,-24.77,0,-0.65
+CM-121604,Charles McCrossin,Consumer,6,23,2533,-394.37,0.14,-15.57
+CM-121901,Charlotte Melton,Consumer,5,57,2052,-128.16,0,-6.25
+CM-121902,Charlotte Melton,Consumer,6,61,5985,261.67,0.07,4.37
+CM-121903,Charlotte Melton,Consumer,8,57,1864,373.75,0,20.05
+CM-121904,Charlotte Melton,Consumer,6,21,1475,91.21,0,6.18
+CM-122351,Chris McAfee,Consumer,7,40,4720,1097.82,0,23.26
+CM-122352,Chris McAfee,Consumer,6,30,2006,144.83,0,7.22
+CM-122353,Chris McAfee,Consumer,4,29,2346,346.3,0.1,14.76
+CM-122354,Chris McAfee,Consumer,5,28,2306,365.03,0,15.83
+CM-123851,Christopher Martinez,Consumer,11,83,7050,-552.63,0,-7.84
+CM-123852,Christopher Martinez,Consumer,4,21,975,-391.96,0,-40.2
+CM-123853,Christopher Martinez,Consumer,6,52,4902,74.63,0.33,1.52
+CM-123854,Christopher Martinez,Consumer,4,34,8953,3899.91,0.1,43.56
+CM-124451,Chuck Magee,Consumer,6,39,3891,860.55,0,22.12
+CM-124452,Chuck Magee,Consumer,5,38,4322,24.7,0,0.57
+CM-124453,Chuck Magee,Consumer,11,94,3473,238.44,0.11,6.87
+CM-124454,Chuck Magee,Consumer,3,32,287,64.43,0,22.45
+CM-126551,Corinna Mitchell,Home Office,5,28,1068,160.36,0,15.01
+CM-126552,Corinna Mitchell,Home Office,2,37,4740,-1765.37,0,-37.24
+CM-126553,Corinna Mitchell,Home Office,5,25,2041,-701.4,0.13,-34.37
+CM-126554,Corinna Mitchell,Home Office,6,42,6340,1572.44,0,24.8
+CM-127151,Craig Molinari,Corporate,3,23,1650,156.49,0,9.48
+CM-127152,Craig Molinari,Corporate,6,31,1243,179.68,0,14.46
+CM-127153,Craig Molinari,Corporate,6,29,1513,402.9,0,26.63
+CM-127154,Craig Molinari,Corporate,4,57,3985,176.32,0.23,4.42
+CM-18151,Candace McMahon,Corporate,4,13,392,82.85,0,21.14
+CM-18152,Candace McMahon,Corporate,1,2,40,0,0,0
+CM-18301,Cari MacIntyre,Corporate,5,32,3061,-38.29,0.63,-1.25
+CM-18302,Cari MacIntyre,Corporate,8,28,1716,78.27,0.2,4.56
+CM-19351,Carlos Meador,Consumer,4,4,160,16.31,0.75,10.19
+CM-19352,Carlos Meador,Consumer,3,17,298,108.96,0,36.56
+CM-21151,Chad McGuire,Consumer,2,4,1304,146.58,0,11.24
+CM-21152,Chad McGuire,Consumer,1,3,604,130.95,0,21.68
+CM-21601,Charles McCrossin,Consumer,4,14,2144,271.08,0,12.64
+CM-21602,Charles McCrossin,Consumer,1,5,102,43.05,0,42.21
+CM-21901,Charlotte Melton,Consumer,3,12,1317,-513.12,0.5,-38.96
+CM-21902,Charlotte Melton,Consumer,1,4,134,32.43,0,24.2
+CM-22351,Chris McAfee,Consumer,1,2,8,-13.3,1,-166.25
+CM-22352,Chris McAfee,Consumer,4,10,235,-53,0.5,-22.55
+CM-23851,Christopher Martinez,Consumer,3,6,553,-25.09,0.25,-4.54
+CM-23852,Christopher Martinez,Consumer,1,2,27,5.16,0,19.11
+CM-24451,Chuck Magee,Consumer,1,5,341,86.7,0,25.43
+CM-24452,Chuck Magee,Consumer,3,16,1401,201.83,0.33,14.41
