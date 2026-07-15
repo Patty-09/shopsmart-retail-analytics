@@ -1,0 +1,91 @@
+# 📊 Phase 2 - Excel Dashboard
+
+## Overview
+
+After completing the SQL analysis, I connected my MySQL database to Microsoft Excel using ODBC and Power Query. The main goal of this phase was to build a fully dynamic Business Intelligence dashboard that automatically updates whenever the database changes.
+
+The dashboard is designed in such a way that after updating the data in MySQL, I only need to click **Data → Refresh All**, and all the tables, Pivot Tables, charts, KPI cards, and slicers are updated automatically without any manual work.
+
+
+## Dashboard Architecture
+MySQL Database
+      ↓
+ODBC Connection
+      ↓
+Power Query
+      ↓
+Excel Tables
+      ↓
+Pivot Tables
+      ↓
+Pivot Charts
+      ↓
+Interactive Dashboard
+
+## Workbook Structure
+
+- Home
+- Executive Dashboard
+- Customer & Sales Dashboard
+- Product Analysis Dashboard
+- Regional Analysis Dashboard
+- Profitability Dashboard
+
+Data Sheets
+
+- KPI_Data
+- Sales_Data
+- Customer_Data
+- Product_Data
+- Regional_Data
+- Time_Data
+
+## Dashboard Features
+
+- Dynamic connection with MySQL
+- Automatic data refresh using Power Query
+- Interactive Pivot Tables and Pivot Charts
+- KPI Cards
+- Slicers for filtering data
+- Navigation buttons between dashboards
+- Consistent dashboard design across all pages
+- Last Refresh Date & Time
+
+---
+
+## Dashboard Summary
+
+### 🏠 Home
+Acts as the landing page of the workbook with project details, navigation buttons, and last refresh information.
+
+### 📈 Executive Dashboard
+Provides an overall business performance summary using key KPIs and sales trends.
+
+### 👥 Customer & Sales Dashboard
+Analyzes customer behavior, customer segments, top customers, and sales trends.
+
+### 📦 Product Analysis Dashboard
+Shows product performance, category-wise sales, sub-category analysis, and top-performing products.
+
+### 🌍 Regional Analysis Dashboard
+Compares sales and profit across different regions and markets to identify the best-performing locations.
+
+### 💰 Profitability Dashboard
+Focuses on profit analysis by category, region, segment, and monthly profit trends.
+
+
+## Skills Used
+
+- Microsoft Excel
+- Power Query
+- ODBC Connection
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Dashboard Design
+- KPI Development
+- Data Visualization
+
+## Outcome
+
+This Excel dashboard converts raw sales data into an interactive Business Intelligence report. It provides a clear view of business performance across different areas and helps in analyzing sales, customers, products, regions, and profitability. Since the dashboard is connected directly to the MySQL database, it can be refreshed anytime with a single click.
