@@ -1,59 +1,83 @@
-# Retail Sales & Customer Analytics System
+# 🛒 ShopSmart Retail Analytics System
 
 ## Project Overview
 
-This project is based on a retail sales dataset and is designed to simulate a real business scenario. The goal is to build a complete analytics solution starting from raw data to business insights.
+ShopSmart Retail Analytics System is an end-to-end retail analytics project built to simulate a real-world business reporting and analysis environment.
 
-Instead of only creating dashboards or writing SQL queries, this project follows the complete data analysis process, including database design, data cleaning, SQL analysis, query optimization, and reporting. The same dataset will also be used later for Excel, Power BI, APIs, and other tools to build an end-to-end data analytics portfolio.
+The project was developed for a fictional company, **ShopSmart Retail Pvt. Ltd.**, with the goal of analyzing sales, customers, products, regions, and profitability.
+
+Instead of focusing only on creating dashboards or writing SQL queries, I built the project step by step, starting with database design and data preparation, followed by SQL analysis and interactive Excel reporting.
+
+The main objective was to understand how raw business data can be transformed into meaningful insights that support decision-making.
+
+---
 
 ## Business Problem
 
-The management team wants to understand how the business is performing. They need answers to questions like:
+ShopSmart management wants to understand the overall performance of the business and identify areas that require attention.
 
-* Which products generate the highest sales and profit?
-* Which customers contribute the most revenue?
-* Which regions and markets perform better than others?
-* How do sales change over time?
-* Which product categories need more business attention?
+The analysis focuses on questions such as:
 
-The objective is to analyze the available sales data and provide meaningful insights that can support business decisions.
+- How is the company performing overall?
+- Which customers contribute the most revenue?
+- Which products and categories perform best?
+- Which regions and markets generate the highest sales?
+- Where is the company generating the most profit?
+- How do sales and profit change over time?
+- Which areas may require further business attention?
+
+The project provides a structured analytics solution to answer these questions using SQL and interactive Excel dashboards.
+
+---
 
 ## Stakeholders
 
-The main stakeholders for this project are:
+The main stakeholders considered in this project are:
 
-* CEO
-* Sales Manager
-* Marketing Team
-* Regional Managers
-* Finance Team
+- CEO / Executive Management
+- Sales Manager
+- Marketing Team
+- Regional Managers
+- Finance Team
 
-Each stakeholder has different business questions, and this project aims to provide data-driven insights for their decision-making.
+Each stakeholder may have different business questions, so the project is organized into different analytical areas including executive performance, customers, products, regions, sales, and profitability.
 
+---
 
 ## Project Objectives
 
-* Understand the business requirements and available data.
-* Design a normalized relational database.
-* Create an ER diagram and define relationships.
-* Import and clean the dataset using SQL.
-* Perform exploratory data analysis (EDA).
-* Solve business problems using SQL queries.
-* Optimize queries using indexes and execution plans.
-* Build dashboards in Excel and Power BI.
-* Document the complete project and publish it on GitHub.
+- Understand the business requirements and analytical questions.
+- Design a structured relational database using MySQL.
+- Apply normalization and Star Schema concepts.
+- Create dimension and fact tables.
+- Clean and validate the data.
+- Build reporting views for analysis.
+- Perform SQL analysis across different business areas.
+- Connect the database to Excel using ODBC.
+- Use Power Query for data refresh and integration.
+- Build interactive Excel dashboards using Pivot Tables, Pivot Charts, and Slicers.
+- Create a dynamic reporting system that can be refreshed when the source data changes.
+- Document the complete project and publish it on GitHub.
 
-## Tools
+---
 
-* MySQL
-* Microsoft Excel
-* Power BI
-* Git & GitHub
+## Project Workflow
 
-Future phases:
-
-* REST APIs
-* Python
-* Cloud Technologies
-
-This project is part of my journey to become a Data Analyst. My focus is not only on learning tools but also on understanding how data is used to solve real business problems. Every phase of this project is built step by step to simulate the workflow followed in a real organization.
+```text
+Raw Dataset
+     ↓
+Data Cleaning & Preparation
+     ↓
+MySQL Database Design
+     ↓
+Star Schema
+     ↓
+SQL Analysis & Reporting Views
+     ↓
+ODBC Connection
+     ↓
+Power Query
+     ↓
+Excel Dashboard
+     ↓
+Business Insights
